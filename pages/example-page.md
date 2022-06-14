@@ -2,4 +2,4 @@
 title: Example Page
 permalink: /example-page
 ---
-<script>alert('aaa');</script>
+<script>console.log('abc');</script>
