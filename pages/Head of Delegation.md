@@ -10,7 +10,7 @@ description: ""
 				<img src="/images/Delegation/farhan-al-fartosi.jpg">
 			</div>
 			<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
-			<div class="org-logo"><img src="/images/Delegation-Logo/logo-iraq.jpg" /></div>
+			<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
 			<div class="icon-wrapper"><i class="sgds-icon sgds-icon-chevron-up"></i></div>
 		</div>
 	</a>
