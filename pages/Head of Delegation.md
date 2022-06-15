@@ -9,10 +9,12 @@ description: ""
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
+	.accordion {padding:25px 0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
-	.bp-accordion-button:before, .bp-accordion-button i, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
+	.accordion .bp-accordion-button {color:#fff;}
+	.bp-accordion-button:before, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
 	.sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
-	.bp-accordion-button {color:#fff;}
+	
 	.speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
