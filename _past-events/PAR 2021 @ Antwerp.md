@@ -4,7 +4,7 @@ permalink: /past-events/2021
 description: ""
 ---
 <style>
-	h4{color:#0071c0;font-weight:bold;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
+	h4{margin:40px 0 10px!important;color:#0071c0;font-weight:bold;text-align:center;text-transform:uppercase;}
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .row {margin: 0 -.75rem;}
 	#main-content .bp-section {padding:0!important;}
@@ -27,7 +27,7 @@ description: ""
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	@media(min-width:1024px) {
-		h4{font-size:20px;text-align:left;margin:40px 0 20px;}
+		h4{font-size:20px;text-align:left;margin:40px 0 20px!important;}
 		#main-content {padding:25px 0 0;}
 		.tab {height:380px;}
 		.tab-nav {display:block;}
