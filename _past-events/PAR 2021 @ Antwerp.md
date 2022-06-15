@@ -4,16 +4,16 @@ permalink: /past-events/2021
 description: ""
 ---
 <style>
-	.bp-section-pagetitle {display:none;}
-	.bp-dropdown-button {background:#0fa678;color:#fff;}
-	.bp-dropdown-button:hover, .bp-dropdown-button:focus {color:#fff;text-decoration:none;}
+	h4{color:#0071c0;font-weight:bold;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .row {margin: 0 -.75rem;}
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
-	h4{color:#0071c0;font-weight:bold;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
-	.tab {position:relative;display:flex;height:380px;flex-wrap:nowrap;overflow:hidden;}
+	.bp-section-pagetitle {display:none;}
+	.bp-dropdown-button {background:#0fa678;color:#fff;text-transform: uppercase;}
+	.bp-dropdown-button:hover, .bp-dropdown-button:focus {color:#fff;text-decoration:none;}
+	.tab {position:relative;display:flex;flex-wrap:nowrap;overflow:hidden;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
 	.tab-nav ul li {margin:0;}
@@ -27,10 +27,11 @@ description: ""
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	@media(min-width:1024px) {
+		h4{font-size:20px;text-align:left;margin:40px 0 20px;}
 		#main-content {padding:25px 0 0;}
+		.tab {height:380px;}
 		.tab-nav {display:block;}
 		.tab-content {width:70%;}
-		h4{font-size:20px;text-align:left;margin:40px 0 20px;}
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
 	}
