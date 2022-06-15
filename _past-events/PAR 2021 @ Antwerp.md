@@ -12,7 +12,7 @@ description: ""
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
-	h4{color:#0071c0;font:bold 14px Montserrat, sans-serif;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
+	h4{color:#0071c0;font-weight:bold;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
 	.tab {position:relative;display:flex;height:380px;flex-wrap:nowrap;overflow:hidden;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
