@@ -10,7 +10,8 @@ description: ""
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
 	.bp-section-pagetitle {display:none;}
-	.accordion {padding:25px 0;}
+	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;}
+	.accordion:first-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
 	.bp-accordion-button:before, .sgds-icon-chevron-down, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
@@ -22,7 +23,7 @@ description: ""
 	.speaker-img-wrapper h5 {padding:0 15px;font-size:14px;font-weight:700;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
-	.sgds-icon-minus .speaker-img-wrapper {#002b5f;}
+	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	
 </style>
