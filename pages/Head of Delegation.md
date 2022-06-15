@@ -10,7 +10,7 @@ description: ""
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
 	.bp-section-pagetitle {display:none;}
-	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;font-size:14px;}
+	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;}
 	.accordion:first-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
@@ -25,6 +25,7 @@ description: ""
 	.speaker-img-wrapper .icon-wrapper {color: #0fa678;}
 	.speaker-content {padding:30px;background: #f6f6f6;}
 	.speaker-content h6 {color: #0071c0;font-weight: 700;margin:0 0 15px;}
+	.speaker-content p {margin:0 0 15px;font-size:14px;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	
