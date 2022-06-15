@@ -16,7 +16,7 @@ description: ""
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
 	.tab-nav ul li {margin:0;}
-	.tab-nav ul li a {padding:15px 30px;border-bottom:1px solid #fff;min-height:95px;color:#fff;text-decoration:none;}
+	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:95px;color:#fff;text-decoration:none;}
 	.tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active a {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
