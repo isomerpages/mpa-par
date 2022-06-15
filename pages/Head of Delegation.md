@@ -4,17 +4,22 @@ permalink: /head-of-delegation
 description: ""
 ---
 <style>
-.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
-.bp-accordion-button:before, .bp-accordion-button i, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
-.sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
-.bp-accordion-button {color:#fff;}
-.speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
-.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
-.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-.speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
-.speaker-img-wrapper h5 {padding:0 15px;color:#fff;font-size:14px;font-weight:700;}
-.speaker-img-wrapper .org-logo {width: 20%;}
-.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 0 0 auto;}
+	#main-content	.is-hidden-touch {display:none!important;}
+	#main-content .row {margin: 0 -.75rem;}
+	#main-content .bp-section {padding:0!important;}
+	#main-content .bp-container {padding:0!important;}
+	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
+	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
+	.bp-accordion-button:before, .bp-accordion-button i, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
+	.sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
+	.bp-accordion-button {color:#fff;}
+	.speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
+	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
+	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
+	.speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
+	.speaker-img-wrapper h5 {padding:0 15px;color:#fff;font-size:14px;font-weight:700;}
+	.speaker-img-wrapper .org-logo {width: 20%;}
+	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 0 0 auto;}
 </style>
 <div class="accordion">
 	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
