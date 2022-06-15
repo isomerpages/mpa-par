@@ -7,7 +7,7 @@ description: ""
 	.bp-section-pagetitle {display:none;}
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .bp-section {padding:0!important;}
-	#main-content .col {width:100%!important;margin:0!important;}
+	#main-content .col {width:100%!important;padding:0!important;margin:0!important;}
 	.tab {display:flex;flex-wrap:nowrap;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
