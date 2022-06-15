@@ -12,11 +12,11 @@ description: ""
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
-	.tab {display:flex;flex-wrap:nowrap;}
+	.tab {position:relative;display:flex;height:380px;flex-wrap:nowrap;overflow:hidden;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
 	.tab-nav ul li {margin:0;}
-	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:95px;color:#fff;text-decoration:none;}
+	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;height:95px;color:#fff;text-decoration:none;}
 	.tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active a {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
@@ -33,7 +33,7 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	@media(min-width:1280px) {
-		.tab-nav ul li a {min-height:122px;}
+		.tab-nav ul li a {height:129px;}
 	}
 </style>
 <div class="tab">
