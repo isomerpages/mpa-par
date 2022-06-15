@@ -1,0 +1,4 @@
+collections:
+  past-events:
+    output: true
+    order: []
