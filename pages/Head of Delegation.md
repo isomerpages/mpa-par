@@ -19,7 +19,7 @@ description: ""
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-	.speaker-img-wrapper h5 {padding:0 15px;font-size:14px;font-weight:700;line-height:26px;}
+	.speaker-img-wrapper h5 {padding:0 15px;font-size:12px;font-weight:700;line-height:1.2;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
 	.speaker-img-wrapper .icon-wrapper {color: #0fa678;}
@@ -28,6 +28,9 @@ description: ""
 	.speaker-content p {margin:0 0 15px;font-size:14px;line-height:24px;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
+	@media(min-768px) {
+		.speaker-img-wrapper h5 {font-size:14px;}
+	}
 	@media(min-width:1024px) {
 		#main-content {padding:25px 0 0;}
 	}
