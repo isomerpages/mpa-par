@@ -30,6 +30,7 @@ description: ""
 		#main-content {padding:25px 0 0;}
 		.tab-nav {display:block;}
 		.tab-content {width:70%;}
+		h4{font-size:20px;text-align:left;margin:40px 0 20px;}
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
 	}
