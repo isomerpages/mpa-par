@@ -4,7 +4,7 @@ permalink: /head-of-delegation
 description: ""
 ---
 <style>
-.accordion .bp-accordion-button, .accordion .bp-accordion-button:hover, .accordion .bp-accordion-button:focus {color:#fff;text-decoration:none;}
+.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 .speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 .speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 .speaker-img-wrapper .speaker-img {width:60px;height:60px;}
@@ -14,14 +14,14 @@ description: ""
 .speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 0 0 auto;}
 </style>
 <div class="accordion">
-	<a href="#!" class="bp-accordion-button" role="button" aria-expanded="true">
+	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
 		<div class="speaker-img-wrapper">
 			<div class="speaker-img">
 				<img src="/images/Delegation/farhan-al-fartosi.jpg">
 			</div>
 			<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
 			<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
-			<div class="icon-wrapper"><i class="sgds-icon sgds-icon-chevron-up"></i></div>
+			<div class="bp-accordion-button icon-wrapper"><i class="sgds-icon sgds-icon-chevron-up"></i></div>
 		</div>
 	</a>
 	<div class="bp-accordion-body">
