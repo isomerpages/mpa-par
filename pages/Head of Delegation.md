@@ -17,13 +17,14 @@ description: ""
 	.sgds-icon-minus .sgds-icon-chevron-down {display:block;}
 	
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
-	.sgds-icon-minus .speaker-img-wrapper {#002b5f;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-	.speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
 	.speaker-img-wrapper h5 {padding:0 15px;color:#fff;font-size:14px;font-weight:700;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
+	.sgds-icon-minus .speaker-img-wrapper {#002b5f;}
+	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
+	
 </style>
 <div class="accordion">
 	<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
