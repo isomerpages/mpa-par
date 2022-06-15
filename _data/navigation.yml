@@ -11,4 +11,4 @@ links:
   - title: Photo Gallery
     url: https://www.flickr.com/photos/195859929@N06/sets/72177720299735559
   - title: Past Events
-    resource_room: true
+    collection: past-events
