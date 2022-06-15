@@ -25,6 +25,7 @@ description: ""
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	@media(min-width:1024px) {
+		#main-content {padding:25px 0 0;}
 		.tab-nav {display:block;}
 		.tab-content {width:70%;}
 		.mobile {display:none!important;}
