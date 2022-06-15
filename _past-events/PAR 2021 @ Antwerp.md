@@ -36,10 +36,10 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	@media(min-width:1280px) {
-		.tab {height:512px;}
+		.tab {height:500px;}
 		.tab-nav {width:340px;}
 		.tab-content {width:calc(100% - 340px);}
-		.tab-nav ul li a {height:128px;}
+		.tab-nav ul li a {height:125px;}
 	}
 </style>
 <div class="tab">
