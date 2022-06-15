@@ -9,13 +9,13 @@ layout: delegation
     <div class="speaker-img-wrapper">
       {%- if info.image-url -%}
       <div class="speaker-img">
-        <img src="{{- site.baseurl -}}{{- info.image-url -}}" />
+        <img src="{{- info.image-url -}}" />
       </div>
       {%- endif -%}
       <h5>{{- info.name -}} {{- info.position -}}</h5>
       {%- if info.logo-url -%}
       <div class="org-logo">
-        <img src="{{- site.baseurl -}}{{- info.logo-url -}}" />
+        <img src="{{- info.logo-url -}}" />
       </div>
       {%- endif -%}
       <div class="icon-wrapper">
