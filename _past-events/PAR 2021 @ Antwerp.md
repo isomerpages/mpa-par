@@ -8,6 +8,9 @@ description: ""
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .bp-section {padding:0!important;}
 	#main-content .col {width:100%!important;margin:0!important;}
+	.tab {display:flex;flex-wrap:nowrap;}
+	.tab-nav {width:30%;}
+	.tab-content {width:70%;}
 </style>
 <div class="tab">
 	<div class="tab-nav">
