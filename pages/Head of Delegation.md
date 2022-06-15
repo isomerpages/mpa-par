@@ -16,7 +16,8 @@ description: ""
 	.bp-accordion-button:before, .sgds-icon-chevron-down, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
 	.sgds-icon-minus .sgds-icon-chevron-down {display:block;}
 	
-	.speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
+	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
+	.sgds-icon-minus .speaker-img-wrapper {#002b5f;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
 	.speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
