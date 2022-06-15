@@ -14,7 +14,7 @@ description: ""
 	.bp-dropdown-button {background:#0fa678;color:#fff;text-transform: uppercase;}
 	.bp-dropdown-button:hover, .bp-dropdown-button:focus {color:#fff;text-decoration:none;}
 	.tab {position:relative;display:flex;flex-wrap:nowrap;overflow:hidden;}
-	.tab-nav {display:none;width:30%;background:#002b5f;}
+	.tab-nav {position:relative;display:none;width:30%;background:#002b5f;overflow-y:auto;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
 	.tab-nav ul li {margin:0;}
 	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;height:95px;color:#fff;text-decoration:none;text-transform:uppercase;}
@@ -48,9 +48,6 @@ description: ""
 			<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
 			<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
-			<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
-			<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
-			<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
 			<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
 		</ul>
 	</div>
