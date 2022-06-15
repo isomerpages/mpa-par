@@ -11,7 +11,7 @@ description: ""
 .speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
 .speaker-img-wrapper h5 {color: #0071c0;font-size: 14px;font-weight: 700;padding: 0 15px;}
 .speaker-img-wrapper .org-logo {width: 20%;}
-.speaker-img-wrapper .org-logo img {height: 60px;}
+.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 0 0 auto;}
 </style>
 <div class="accordion">
 	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
