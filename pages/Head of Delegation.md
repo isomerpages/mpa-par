@@ -10,20 +10,21 @@ description: ""
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
 	.bp-section-pagetitle {display:none;}
-	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;}
+	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;font-size:14px;}
 	.accordion:first-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
 	.bp-accordion-button:before, .sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:none;}
 	.sgds-icon-minus .sgds-icon-chevron-up {display:block;}
-	
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-	.speaker-img-wrapper h5 {padding:0 15px;font-size:14px;font-weight:700;}
+	.speaker-img-wrapper h5 {padding:0 15px;font-weight:700;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
 	.speaker-img-wrapper .icon-wrapper {color: #0fa678;}
+	.speaker-content {padding:30px;background: #f6f6f6;}
+	.speaker-content h6 {color: #0071c0;font-weight: 700;margin:0 0 15px;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	
