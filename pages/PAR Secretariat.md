@@ -3,7 +3,7 @@ title: PAR Secretariat
 permalink: /par-secretariat
 description: ""
 ---
-<p>**Maritime and Port Authority of Singapore**<br/>  
+<p style="text-align:center;"><strong>Maritime and Port Authority of Singapore</strong><br/>  
 460 Alexandra Road, mTower #19-00, Singapore 119963<br/>  
 Tel: 6375 1600</p>
   
