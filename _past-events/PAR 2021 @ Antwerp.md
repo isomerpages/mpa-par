@@ -11,14 +11,16 @@ description: ""
 	.tab {display:flex;flex-wrap:nowrap;}
 	.tab-nav {width:30%;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
-	.tab-content {position:relative;width:70%;margin:0;}
+	.tab-nav ul li {background:#002b5f;color:#fff;}
+	.tab-nav ul li.active {background:#0fa678;}
+	.tab-content {position:relative;width:70%;margin:0!important;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
 </style>
 <div class="tab">
 	<div class="tab-nav">
 		<ul>
-			<li><a href="/past-events/2021" class="active">PAR 2021 @<br>Antwerp</a></li>
+			<li class="active"><a href="/past-events/2021">PAR 2021 @<br>Antwerp</a></li>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
 			<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
 		</ul>
