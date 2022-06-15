@@ -39,7 +39,7 @@ defaults:
       path: ""
     values:
       layout: page
-custom_css_path: [/misc/custom.css, /misc/style.min.css]
+custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
