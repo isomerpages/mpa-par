@@ -27,10 +27,12 @@ description: ""
 	@media(min-width:1024px) {
 		#main-content {padding:25px 0 0;}
 		.tab-nav {display:block;}
-		.tab-nav ul li {min-height:120px;}
 		.tab-content {width:70%;}
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
+	}
+	@media(min-width:1280px) {
+		.tab-nav ul li {min-height:120px;}
 	}
 </style>
 <div class="tab">
