@@ -10,7 +10,8 @@ description: ""
 	#main-content .row {margin: 0 -.75rem;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
 	.bp-section-pagetitle {display:none;}
-	.accordion {padding:25px 0;border-top:1px solid #e3e3e3;}
+	.accordion {padding:25px 0;border-bottom:1px solid #e3e3e3;}
+	.accordion:last-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
 	.bp-accordion-button:before, .sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:none;}
@@ -27,7 +28,6 @@ description: ""
 	.speaker-content p {margin:0 0 15px;font-size:14px;line-height:24px;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
-	.content .accordion:first-child {border:0;}
 	@media(min-768px) {
 		.speaker-img-wrapper h5 {font-size:14px;}
 	}
