@@ -15,9 +15,10 @@ description: ""
 	.tab {display:flex;flex-wrap:nowrap;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
-	.tab-nav ul li {padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:95px;}
-	.tab-nav ul li a, .tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
-	.tab-nav ul li.active {background:#0fa678;}
+	.tab-nav ul li {margin:0;}
+	.tab-nav ul li a {padding:15px 30px;border-bottom:1px solid #fff;min-height:95px;color:#fff;text-decoration:none;}
+	.tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
+	.tab-nav ul li.active a {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
 	.tab-content>img {display:block;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
@@ -32,7 +33,7 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	@media(min-width:1280px) {
-		.tab-nav ul li {min-height:120px;}
+		.tab-nav ul li a {min-height:120px;}
 	}
 </style>
 <div class="tab">
