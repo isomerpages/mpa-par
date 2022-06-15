@@ -3,6 +3,11 @@ title: Head of Delegation
 permalink: /head-of-delegation
 description: ""
 ---
+<style>
+.speaker-image-wrapper {display:table;width:100%;}
+.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
+.speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
+</style>
 <div class="accordion">
 	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
 		<div class="speaker-image-wrapper">
