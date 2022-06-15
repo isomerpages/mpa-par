@@ -23,6 +23,7 @@ description: ""
 	.speaker-img-wrapper h5 {padding:0 15px;font-size:14px;font-weight:700;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
+	.speaker-img-wrapper .icon-wrapper {color: #0fa678;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	
