@@ -33,6 +33,7 @@ description: ""
 	}
 	@media(min-width:1024px) {
 		#main-content {padding:25px 0 0;}
+		#main-content .bp-container {padding:0!important;}
 	}
 </style>
 <div class="accordion">
