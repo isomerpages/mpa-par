@@ -6,6 +6,7 @@ description: ""
 <style>
 	.bp-section-pagetitle {display:none;}
 	#main-content	.is-hidden-touch {display:none!important;}
+	#main-content .row {margin: 0 -.75rem;}
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0!important;margin:0!important;}
