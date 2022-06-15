@@ -5,8 +5,8 @@ description: ""
 ---
 <style>
 .accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
-.bp-accordion-button:before, .bp-accordion-button i {display:none;}
-.sgds-icon-plus .sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
+.bp-accordion-button:before, .bp-accordion-button i, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
+.sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
 
 .speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 .speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
