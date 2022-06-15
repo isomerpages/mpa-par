@@ -6,6 +6,7 @@ description: ""
 <style>
 	.bp-section-pagetitle {display:none;}
 	.bp-dropdown-button {background:#0fa678;color:#fff;}
+	.bp-dropdown-button:hover, .bp-dropdown-button:focus {color:#fff;text-decoration:none;}
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .row {margin: 0 -.75rem;}
 	#main-content .bp-section {padding:0!important;}
