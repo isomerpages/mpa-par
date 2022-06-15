@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 	.bp-section-pagetitle {display:none;}
-	.is-hidden-touch {display:none!important;}
+	.bp-section	.is-hidden-touch {display:none!important;}
 	
 </style>
 <p><strong>Maritime and Port Authority of Singapore</strong><br/>  
