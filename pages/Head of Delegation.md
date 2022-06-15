@@ -5,6 +5,9 @@ description: ""
 ---
 <style>
 .accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
+.bp-accordion-button:before, .bp-accordion-button i {display:none;}
+.sgds-icon-plus .sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:block;}
+
 .speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 .speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 .speaker-img-wrapper .speaker-img {width:60px;height:60px;}
@@ -21,7 +24,10 @@ description: ""
 			</div>
 			<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
 			<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
-			<div class="bp-accordion-button icon-wrapper"><i class="sgds-icon sgds-icon-chevron-up"></i></div>
+			<div class="bp-accordion-button icon-wrapper">
+				<i class="sgds-icon sgds-icon-chevron-up"></i>
+				<i class="sgds-icon sgds-icon-chevron-down"></i>
+			</div>
 		</div>
 	</a>
 	<div class="bp-accordion-body">
