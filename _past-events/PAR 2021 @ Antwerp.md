@@ -33,7 +33,7 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	@media(min-width:1280px) {
-		.tab-nav ul li a {min-height:120px;}
+		.tab-nav ul li a {min-height:122px;}
 	}
 </style>
 <div class="tab">
