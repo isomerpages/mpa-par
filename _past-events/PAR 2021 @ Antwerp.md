@@ -14,9 +14,13 @@ description: ""
 	.tab-nav ul li {padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:80px;}
 	.tab-nav ul li a, .tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active {background:#0fa678;}
-	.tab-content {position:relative;width:70%;margin:0!important;}
+	.tab-content {position:relative;width:100%;margin:0!important;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
+	
+	@media(min-width:769px) {
+	.tab-content {width:70%;}
+	}
 </style>
 <div class="tab">
 	<div class="tab-nav is-hidden-mobile is-hidden-tablet">
