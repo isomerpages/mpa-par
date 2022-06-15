@@ -12,11 +12,12 @@ description: ""
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
+	h4{color:#0071c0;font:bold 14px Montserrat, sans-serif;text-align:center;text-transform:uppercase;margin:40px 0 10px;}
 	.tab {position:relative;display:flex;height:380px;flex-wrap:nowrap;overflow:hidden;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
 	.tab-nav ul li {margin:0;}
-	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;height:95px;color:#fff;text-decoration:none;}
+	.tab-nav ul li a {display:block;padding:15px 30px;margin:0;border-bottom:1px solid #fff;height:95px;color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active a {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
@@ -59,4 +60,4 @@ description: ""
 		</figcaption>
 	</figure>
 </div>
-<p>PAR 2021 @ Antwerp</p>
+<h4>Heads of Delegation</h4>
