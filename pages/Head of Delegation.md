@@ -4,14 +4,14 @@ permalink: /head-of-delegation
 description: ""
 ---
 <style>
-.speaker-image-wrapper {display:table;width:100%;background: #002b5f;}
+.speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 .speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 .speaker-img-wrapper .speaker-img {width:60px;height:60px;}
 .speakers-lists li .toggler-trigger.opened h5, .speakers-lists li .toggler-trigger.opened .icon-wrapper {color:#fff;}
 </style>
 <div class="accordion">
 	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
-		<div class="speaker-image-wrapper">
+		<div class="speaker-img-wrapper">
 			<div class="speaker-img">
 				<img src="/images/Delegation/farhan-al-fartosi.jpg">
 			</div>
