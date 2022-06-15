@@ -11,6 +11,9 @@ description: ""
 	.tab {display:flex;flex-wrap:nowrap;}
 	.tab-nav {width:30%;}
 	.tab-content {width:70%;}
+	.tab-content figure {position:relative;margin:0;}
+	.tab-content figcaption {position:absolute;left:0;bottom:0;}
+	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
 </style>
 <div class="tab">
 	<div class="tab-nav">
