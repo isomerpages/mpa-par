@@ -42,6 +42,7 @@ description: ""
 			<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
 			<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
+			<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
 		</ul>
 	</div>
 	<figure class="tab-content">
