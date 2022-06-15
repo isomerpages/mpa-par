@@ -3,40 +3,17 @@ title: PAR 2021 @ Antwerp
 permalink: /past-events/2021
 description: ""
 ---
-<style>
-	.bp-section-pagetitle {display:none;}
-	#main-content	.is-hidden-touch {display:none!important;}
-	#main-content .bp-section {padding:0!important;}
-	#main-content .col {width:100%!important;margin:0!important;}
-	.tab {display:flex;flex-wrap:nowrap;}
-	.tab-nav {width:30%;background:#002b5f;}
-	.tab-nav ul {list-style:none;padding:0;margin:0;}
-	.tab-nav ul li {padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:80px;}
-	.tab-nav ul li a, .tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
-	.tab-nav ul li.active {background:#0fa678;}
-	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
-	.tab-content>img {display:block;}
-	.tab-content figcaption {position:absolute;left:0;bottom:0;}
-	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
-	
-	@media screen and (max-width:1024px) {
-	.tab-content>img {display:hidden;}
-	}
-	@media screen and (min-width:1024px) {
-	.tab-content {width:70%;}
-	}
-</style>
 <div class="tab">
-	<div class="tab-nav is-hidden-mobile is-hidden-tablet">
+	<div class="tab-nav>
 		<ul>
-			<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
+			<li class="><a href="/past-events/2021">PAR 2021 @ Antwerp</a>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
 			<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
-		</ul>
+		
 	</div>
 	<figure class="tab-content">
-		<img src="/images/Past%20Events/2021/bg-par-2021-m.jpg" class="is-hidden-desktop"/>
-		<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg"/>
+		<img class="mobile" src="/images/Past%20Events/2021/bg-par-2021-m.jpg">
+		<img class="desktop" src="/images/Past%20Events/2021/bg-par-2021-d.jpg">
 		<figcaption>
 			<h3>PAR 2021 @ Antwerp</h3>
 			<ul>
