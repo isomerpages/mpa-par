@@ -15,7 +15,7 @@ description: ""
 	.tab {display:flex;flex-wrap:nowrap;}
 	.tab-nav {display:none;width:30%;background:#002b5f;}
 	.tab-nav ul {list-style:none;padding:0;margin:0;}
-	.tab-nav ul li {padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:80px;}
+	.tab-nav ul li {padding:15px 30px;margin:0;border-bottom:1px solid #fff;min-height:95px;}
 	.tab-nav ul li a, .tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
@@ -27,6 +27,7 @@ description: ""
 	@media(min-width:1024px) {
 		#main-content {padding:25px 0 0;}
 		.tab-nav {display:block;}
+		.tab-nav ul li {min-height:120px;}
 		.tab-content {width:70%;}
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
