@@ -4,7 +4,7 @@ permalink: /head-of-delegation
 description: ""
 ---
 <style>
-.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
+.accordion .bp-accordion-button, .accordion .bp-accordion-button:hover, .accordion .bp-accordion-button:focus {color:#fff;text-decoration:none;}
 .speaker-img-wrapper {display:table;width:100%;background: #002b5f;}
 .speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 .speaker-img-wrapper .speaker-img {width:60px;height:60px;}
@@ -14,7 +14,7 @@ description: ""
 .speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 0 0 auto;}
 </style>
 <div class="accordion">
-	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
+	<a href="#!" class="bp-accordion-button" role="button" aria-expanded="true">
 		<div class="speaker-img-wrapper">
 			<div class="speaker-img">
 				<img src="/images/Delegation/farhan-al-fartosi.jpg">
