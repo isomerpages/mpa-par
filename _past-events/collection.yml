@@ -2,5 +2,5 @@ collections:
   past-events:
     output: true
     order:
-      - 2021.md
+      - PAR 2021 @ Antwerp.md
       - 2020.md
