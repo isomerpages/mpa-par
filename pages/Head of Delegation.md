@@ -25,14 +25,14 @@ description: ""
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
 </style>
 <div class="accordion">
-	<a href="#!" class="bp-accordion-header" role="button" aria-expanded="true">
+	<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 		<div class="speaker-img-wrapper">
 			<div class="speaker-img">
 				<img src="/images/Delegation/farhan-al-fartosi.jpg">
 			</div>
 			<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
 			<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
-			<div class="bp-accordion-button icon-wrapper">
+			<div class="icon-wrapper">
 				<i class="sgds-icon sgds-icon-chevron-up"></i>
 				<i class="sgds-icon sgds-icon-chevron-down"></i>
 			</div>
