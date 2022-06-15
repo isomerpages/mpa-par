@@ -15,9 +15,13 @@ description: ""
 	.tab-nav ul li a, .tab-nav ul li a:hover, .tab-nav ul li a:focus {color:#fff;text-decoration:none;}
 	.tab-nav ul li.active {background:#0fa678;}
 	.tab-content {position:relative;width:100%;margin:0!important;border:0;}
+	.tab-content>img {display:block;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
 	
+	@media screen and (max-width:1024px) {
+	.tab-content>img {display:hidden;}
+	}
 	@media screen and (min-width:1024px) {
 	.tab-content {width:70%;}
 	}
@@ -32,7 +36,7 @@ description: ""
 	</div>
 	<figure class="tab-content">
 		<img src="/images/Past%20Events/2021/bg-par-2021-m.jpg" class="is-hidden-desktop"/>
-		<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg" class="is-hidden-mobile is-hidden-tablet"/>
+		<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg"/>
 		<figcaption>
 			<h3>PAR 2021 @ Antwerp</h3>
 			<ul>
