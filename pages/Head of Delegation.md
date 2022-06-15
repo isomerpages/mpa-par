@@ -25,7 +25,7 @@ description: ""
 	.speaker-img-wrapper .icon-wrapper {color: #0fa678;}
 	.speaker-content {padding:30px;background: #f6f6f6;}
 	.speaker-content h6 {color: #0071c0;font-weight: 700;margin:0 0 15px;}
-	.speaker-content p {margin:0 0 15px;font-size:14px;}
+	.speaker-content p {margin:0 0 15px;font-size:14px;line-height:26px;}
 	.sgds-icon-minus .speaker-img-wrapper {background:#002b5f;}
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	
