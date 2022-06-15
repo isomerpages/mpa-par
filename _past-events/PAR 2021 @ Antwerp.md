@@ -20,7 +20,7 @@ description: ""
 <div class="tab">
 	<div class="tab-nav">
 		<ul>
-			<li class="active"><a href="/past-events/2021">PAR 2021 @<br>Antwerp</a></li>
+			<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
 			<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
 		</ul>
