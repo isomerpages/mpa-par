@@ -14,8 +14,8 @@ description: ""
 	.accordion:first-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
-	.bp-accordion-button:before, .sgds-icon-chevron-down, .sgds-icon-minus .sgds-icon-chevron-up {display:none;}
-	.sgds-icon-minus .sgds-icon-chevron-down {display:block;}
+	.bp-accordion-button:before, .sgds-icon-chevron-up, .sgds-icon-minus .sgds-icon-chevron-down {display:none;}
+	.sgds-icon-minus .sgds-icon-chevron-up {display:block;}
 	
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
@@ -52,4 +52,19 @@ description: ""
 			<p>Dr Farhan Al Fartosi has participated in many conferences and seminars including ship Recycling conference in Denmark.</p>
 		</div>
 	</div>
+</div>
+<div class="accordion">
+	<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
+		<div class="speaker-img-wrapper">
+			<div class="speaker-img">
+				<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
+			</div>
+			<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
+			<div class="org-logo"></div>
+			<div class="icon-wrapper">
+				<i class="sgds-icon sgds-icon-chevron-up"></i>
+				<i class="sgds-icon sgds-icon-chevron-down"></i>
+			</div>
+		</div>
+	</a>
 </div>
