@@ -9,6 +9,7 @@ description: ""
 	#main-content .bp-section {padding:0!important;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
+	.bp-section-pagetitle {display:none;}
 	.accordion {padding:25px 0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
 	.accordion .bp-accordion-button {color:#fff;}
