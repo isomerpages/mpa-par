@@ -5,6 +5,7 @@ description: ""
 ---
 <style>
 	.bp-section-pagetitle {display:none;}
+	.is-hidden-touch {display:none!important;}
 </style>
 <p><strong>Maritime and Port Authority of Singapore</strong><br/>  
 460 Alexandra Road, mTower #19-00, Singapore 119963<br/>  
