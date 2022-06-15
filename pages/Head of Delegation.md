@@ -6,7 +6,7 @@ description: ""
 <style>
 	#main-content	.is-hidden-touch {display:none!important;}
 	#main-content .row {margin: 0 -.75rem;}
-	#main-content .bp-section {padding:0!important;}
+	#main-content .bp-section {padding:0!important;min-height:200px;}
 	#main-content .bp-container {padding:0!important;}
 	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
 	.bp-section-pagetitle {display:none;}
@@ -19,7 +19,7 @@ description: ""
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-	.speaker-img-wrapper h5 {padding:0 15px;color:#fff;font-size:14px;font-weight:700;}
+	.speaker-img-wrapper h5 {padding:0 15px;font-size:14px;font-weight:700;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
 	.sgds-icon-minus .speaker-img-wrapper {#002b5f;}
