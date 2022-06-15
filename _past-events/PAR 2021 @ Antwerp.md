@@ -18,14 +18,13 @@ description: ""
 	.tab-content>img {display:block;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
-	.mobile {display:block;}
-	.desktop {display:none;}
+	.mobile {display:block!important;}
+	.desktop {display:none!important;}
 	@media(min-width:1280px) {
 		.tab-nav {display:block;}
 		.tab-content {width:70%;}
-		.tab-content>img {display:hidden;}
-		.mobile {display:none;}
-		.desktop {display:block;}
+		.mobile {display:none!important;}
+		.desktop {display:block!important;}
 	}
 </style>
 <div class="tab">
