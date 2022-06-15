@@ -19,7 +19,7 @@ description: ""
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
 </style>
 <div class="tab">
-	<div class="tab-nav">
+	<div class="tab-nav is-hidden-mobile is-hidden-tablet">
 		<ul>
 			<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 			<li><a href="/past-events/2020">PAR 2020</a></li>
@@ -28,7 +28,7 @@ description: ""
 	</div>
 	<figure class="tab-content">
 		<img src="/images/Past%20Events/2021/bg-par-2021-m.jpg" class="is-hidden-desktop"/>
-		<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg" />
+		<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg" class="is-hidden-mobile is-hidden-tablet"/>
 		<figcaption>
 			<h3>PAR 2021 @ Antwerp</h3>
 			<ul>
