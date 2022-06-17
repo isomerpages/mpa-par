@@ -38,6 +38,9 @@ description: ""
 		.masthead h1 {font-size:60px;}
 		.masthead h3 {font-size:40px;}
 	}
+	@media(min-width:1280px) {
+		.masthead figcaption {bottom:30%;}
+	}
 </style>
 <figure class="masthead">
 	<div class="mobile">
