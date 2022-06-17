@@ -44,6 +44,7 @@ description: ""
 		.masthead h3 {font-size:20px;}
 		.home-main {max-width:720px;margin:0 auto;}
 		.what-is-par {margin:0 0 40px;}
+		.par-highlights h4 {margin:20px 0;font-size:21px;}
 	}
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
