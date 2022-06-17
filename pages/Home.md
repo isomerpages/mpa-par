@@ -30,7 +30,8 @@ description: ""
 	.what-is-par {margin:0 0 20px;}
 	.par-highlights {display:flex;flex-wrap:wrap;}
 	.par-highlights .entry {width:100%;}
-	.par-highlights figure {margin:0;}
+	.par-highlights figure {position:relative;margin:0;}
+	.par-highlights figcaption {position:absolute;bottom:0;left:0;}
 	@media(min-width:480px) {
 		.masthead h1 {font-size:30px;}
 		.masthead h3 {font-size:16px;}
