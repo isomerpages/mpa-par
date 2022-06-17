@@ -26,6 +26,7 @@ description: ""
 	.masthead figcaption {position:absolute;width:100%;bottom:20%;left:0;}
 	.masthead h1 {margin: 0 auto 20px;color: #fff;font-size:20px;font-style:normal;text-align: center;text-transform: none;letter-spacing:normal;}
 	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;}
+	.home-main {background:#fff;}
 	@media(min-width:480px) {
 		.masthead h1 {font-size:30px;}
 		.masthead h3 {font-size:16px;}
