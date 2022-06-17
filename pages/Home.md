@@ -28,6 +28,8 @@ description: ""
 	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;}
 	.home-main {padding:20px 15px;background:#fff;}
 	.what-is-par {margin:0 0 20px;}
+	.par-highlights {display:flex;flex-wrap:wrap;}
+	.par-highlights .entry {width:100%;}
 	@media(min-width:480px) {
 		.masthead h1 {font-size:30px;}
 		.masthead h3 {font-size:16px;}
@@ -37,6 +39,7 @@ description: ""
 		.masthead h3 {font-size:20px;}
 		.home-main {max-width:720px;margin:0 auto;}
 		.what-is-par {margin:0 0 40px;}
+		.par-highlights .entry {width:33.3333%;}
 	}
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
