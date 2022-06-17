@@ -87,7 +87,7 @@ description: ""
 					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
 					<figcaption>
 						<h4>Head of <br/>Delegation</h4>
-						<span>Find out more -></span>
+						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
 			</a>
@@ -99,7 +99,7 @@ description: ""
 					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
 					<figcaption>
 						<h4>Event <br/>Agenda</h4>
-						<span>Find out more -></span>
+						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
 			</a>
@@ -111,7 +111,7 @@ description: ""
 				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
 					<figcaption>
 						<h4>About the Host <br/>Port Authority</h4>
-						<span>Find out more -></span>
+						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
 			</a>
