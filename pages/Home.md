@@ -22,6 +22,7 @@ description: ""
 	.masthead {position:relative;margin:0!important;}
 	.masthead .overlay {position:absolute;width:100%;top:0;left:0;}
 	.masthead figcaption {position:absolute;width:100%;bottom:0;left:0;}
+	.masthead h1 {1.  color: #fff;text-align: center;text-transform: none;margin: 0 auto;}
 </style>
 <figure class="masthead">
 	<div class="mobile">
