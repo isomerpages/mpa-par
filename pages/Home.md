@@ -39,6 +39,7 @@ description: ""
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
 		.masthead h3 {font-size:40px;}
+		.home-main {max-width:970px;}
 	}
 	@media(min-width:1280px) {
 		.masthead figcaption {bottom:30%;}
