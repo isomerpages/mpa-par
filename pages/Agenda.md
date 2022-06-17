@@ -32,7 +32,7 @@ description: ""
 
 <div class="par-main">
 	<p>The discussions at PAR2022@Abu Dhabi will include:</p>
-	<ul>
+	<ul class="par-list-none">
 		<li><b>Disruption</b> - The role of ports in enabling global supply chain resilience</li>
 		<li><b>Digitalisation</b> - Cooperation, collaboration and the digital transformation of trade</li>
 		<li><b>Decarbonisation</b> - Building sustainable port operations and facilitating climate change action</li>
