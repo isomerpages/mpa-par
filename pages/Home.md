@@ -31,7 +31,7 @@ description: ""
 	.par-highlights {display:flex;flex-wrap:wrap;}
 	.par-highlights .entry {width:100%;}
 	.par-highlights figure {position:relative;margin:0;}
-	.par-highlights figcaption {position:absolute;bottom:0;left:0;text-align:left;}
+	.par-highlights figcaption {position:absolute;bottom:20px;left:30px;text-align:left;}
 	.par-highlights h4 {margin:10px 0;font-size:15px;font-style:normal;color:#fff;text-transform:uppercase;}
 	.par-highlights h4 br {display:none;}
 	.par-highlights span {color:#fff;}
