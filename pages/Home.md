@@ -86,7 +86,7 @@ description: ""
 					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
 					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
 					<figcaption>
-						<h4>Head of<br/>Delegation</h4>
+						<h4>Head of <br/>Delegation</h4>
 						<span>Find out more -></span>
 					</figcaption>
 				</figure>
@@ -98,7 +98,7 @@ description: ""
 					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
 					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
 					<figcaption>
-						<h4>Event<br/>Agenda</h4>
+						<h4>Event <br/>Agenda</h4>
 						<span>Find out more -></span>
 					</figcaption>
 				</figure>
@@ -110,7 +110,7 @@ description: ""
 					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
 				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
 					<figcaption>
-						<h4>About the Host<br/>Port Authority</h4>
+						<h4>About the Host <br/>Port Authority</h4>
 						<span>Find out more -></span>
 					</figcaption>
 				</figure>
