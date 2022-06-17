@@ -74,20 +74,38 @@ description: ""
 	<div class="par-highlights">
 		<div class="entry">
 			<a href="/head-of-delegation">
-				<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
-				<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+				<figure>
+					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
+					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+					<figcaption>
+						<h4>Head of<br/>Delegation</h4>
+						<span>Find out more -></span>
+					</figcaption>
+				</figure>
 			</a>
 		</div>
 		<div class="entry">
 			<a href="/agenda">
-				<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
-				<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+				<figure>
+					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
+					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+					<figcaption>
+						<h4>Event<br/>Agenda</h4>
+						<span>Find out more -></span>
+					</figcaption>
+				</figure>
 			</a>
 		</div>
 		<div class="entry">
-			<a href="/about-par">
-				<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
+			<a href="/about">
+				<figure>
+					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
 				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
+					<figcaption>
+						<h4>About the Host<br/>Port Authority</h4>
+						<span>Find out more -></span>
+					</figcaption>
+				</figure>
 			</a>
 		</div>
 	</div>
