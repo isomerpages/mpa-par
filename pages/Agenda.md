@@ -22,7 +22,6 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	
-	.par-main {max-width:100%;}
 	@media(min-width:768px) {
 		.par-main {max-width:720px;margin:0 auto;}
 	}
@@ -31,9 +30,12 @@ description: ""
 	}
 </style>
 
-The discussions at PAR2022@Abu Dhabi will include:
-
-**Disruption** – The role of ports in enabling global supply chain resilience  
-**Digitalisation** – Cooperation, collaboration and the digital transformation of trade  
-**Decarbonisation** – Building sustainable port operations and facilitating climate change action  
-**Diversification** – The evolving role of ports as facilitators of global trade
+<div class="par-main">
+	<p>The discussions at PAR2022@Abu Dhabi will include:</p>
+	<ul>
+		<li><b>Disruption</b> - The role of ports in enabling global supply chain resilience</li>
+		<li><b>Digitalisation</b> - Cooperation, collaboration and the digital transformation of trade</li>
+		<li><b>Decarbonisation</b> - Building sustainable port operations and facilitating climate change action</li>
+		<li><b>Diversification</b> - The evolving role of ports as facilitators of global trade</li>
+	</ul>
+</div>
