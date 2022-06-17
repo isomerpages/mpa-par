@@ -36,6 +36,7 @@ description: ""
 		.masthead h1 {font-size:38px;}
 		.masthead h3 {font-size:20px;}
 		.home-main {max-width:720px;margin:0 auto;}
+		.what-is-par {margin:0 0 40px;}
 	}
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
