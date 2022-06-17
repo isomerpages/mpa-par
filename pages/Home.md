@@ -72,7 +72,18 @@ description: ""
 		<p>The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group, will be held from 31 May to 2 June 2022.</p>
 	</div>
 	<div class="par-highlights">
-	
+		<div class="entry">
+			<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
+			<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+		</div>
+		<div class="entry">
+			<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
+			<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+		</div>
+		<div class="entry">
+			<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
+			<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
+		</div>
 	</div>
 </div>
 <p>Homepage</p>
