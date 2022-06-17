@@ -3,5 +3,6 @@ title: Home
 permalink: /home
 description: ""
 ---
-
-aaa
+<style>
+#main-content .bp-section-pagetitle {display:none;}
+</style>
