@@ -73,16 +73,22 @@ description: ""
 	</div>
 	<div class="par-highlights">
 		<div class="entry">
-			<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
-			<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+			<a href="/head-of-delegation">
+				<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
+				<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+			</a>
 		</div>
 		<div class="entry">
-			<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
-			<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+			<a href="/agenda">
+				<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
+				<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+			</a>
 		</div>
 		<div class="entry">
-			<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
-			<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
+			<a href="/about-par">
+				<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
+				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
+			</a>
 		</div>
 	</div>
 </div>
