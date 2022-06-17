@@ -39,12 +39,12 @@ description: ""
 		.masthead h3 {font-size:20px;}
 		.home-main {max-width:720px;margin:0 auto;}
 		.what-is-par {margin:0 0 40px;}
-		.par-highlights .entry {width:33.3333%;}
 	}
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
 		.masthead h3 {font-size:40px;}
 		.home-main {max-width:970px;}
+		.par-highlights .entry {width:33.3333%;}
 	}
 	@media(min-width:1280px) {
 		.masthead figcaption {bottom:30%;}
