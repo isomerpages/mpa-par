@@ -23,6 +23,7 @@ description: ""
 	}
 	
 	.par-main {padding:20px 15px;}
+	.par-main .par-list-none {list-style:none;margin:0;}
 	@media(min-width:768px) {
 		.par-main {max-width:720px;margin:0 auto;}
 	}
