@@ -5,6 +5,7 @@ description: ""
 ---
 <style>
 	body {font-size:14px;line-height:1.42857143;}
+	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
 	p {margin:0 0 15px!important;}
 	.mobile {display:block;}
 	.desktop {display:none;}
@@ -23,8 +24,8 @@ description: ""
 	.masthead {position:relative;margin:0!important;}
 	.masthead .overlay {position:absolute;width:100%;top:0;left:0;}
 	.masthead figcaption {position:absolute;width:100%;bottom:20%;left:0;}
-	.masthead h1 {margin: 0 auto 20px;color: #fff;font-size:20px;font-style:normal;text-align: center;text-transform: none;line-height:normal;letter-spacing:normal;}
-	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;line-height:normal;}
+	.masthead h1 {margin: 0 auto 20px;color: #fff;font-size:20px;font-style:normal;text-align: center;text-transform: none;letter-spacing:normal;}
+	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;}
 	@media(min-width:480px) {
 		.masthead h1 {font-size:30px;}
 		.masthead h3 {font-size:16px;}
