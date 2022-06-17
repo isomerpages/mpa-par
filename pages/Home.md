@@ -14,6 +14,11 @@ description: ""
 	#main-content .col.is-1 {display:none;}
 </style>
 
-
+<div class="masthead">
+	<img src="/images/Homepage/bg-masthead-overlay-m.png" />
+	<img src="/images/Homepage/bg-masthead-overlay.png" />
+	<img src="/images/Homepage/homepage_m-opt.jpg" />
+	<img src="/images/Homepage/homepage-opt.jpg" />
+</div>
 
 <p>Homepage</p>
