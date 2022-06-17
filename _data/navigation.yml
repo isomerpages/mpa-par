@@ -1,7 +1,7 @@
 logo: /images/Shared/logo-mpa.png
 links:
   - title: Home
-    url: /
+    url: /home
   - title: Agenda
     url: /agenda
   - title: Head of Delegation
