@@ -21,6 +21,14 @@ description: ""
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
 	}
+	
+	.par-main {max-width:100%;}
+	@media(min-width:768px) {
+		.par-main {max-width:720px;margin:0 auto;}
+	}
+	@media(min-width:1440px) {
+		.par-main {max-width:1280px;}
+	}
 </style>
 
 The discussions at PAR2022@Abu Dhabi will include:
