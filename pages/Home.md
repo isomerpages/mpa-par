@@ -10,6 +10,8 @@ description: ""
 	#main-content .bp-container {width:100%;max-width:100%;min-height:250px;padding:0!important;}
 	#main-content .bp-container .row {margin:0;}
 	#main-content .bp-container .col {padding:0;}
+	#main-content .col.is-8 {width:100%;}
+	#main-content .col.is-1 {display:none;}
 </style>
 
 
