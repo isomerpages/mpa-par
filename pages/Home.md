@@ -54,7 +54,9 @@ description: ""
 	@media(min-width:1280px) {
 		.masthead figcaption {bottom:30%;}
 		.home-main {position:relative;padding:50px;margin:-10% auto 0;}
-		.par-highlights .entry {width:33.3333%;}
+		.par-highlights .entry {width:33.3333%;padding:0 5px;}
+		.par-highlights .entry:nth-child(3n+1) {padding: 0 5px 0 0;}
+		.par-highlights .entry:nth-child(3n+3) {padding: 0 0 0 5px;}
 		.par-highlights h4 br {display:inline;}
 	}
 	@media(min-width:1440px) {
