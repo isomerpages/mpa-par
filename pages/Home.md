@@ -16,9 +16,9 @@ description: ""
 	#main-content .bp-container .col {padding:0;}
 	#main-content .col.is-8 {width:100%;margin:0;}
 	#main-content .col.is-1 {display:none;}
-	@media(min-width:992px) {
+	@media(min-width:1280px) {
 		.mobile {display:none;}
-	.desktop {display:block;}
+		.desktop {display:block;}
 	}
 	
 	.masthead {position:relative;margin:0!important;}
