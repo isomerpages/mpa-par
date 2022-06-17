@@ -32,7 +32,7 @@ description: ""
 	.par-highlights .entry {width:100%;}
 	.par-highlights figure {position:relative;margin:0;}
 	.par-highlights figcaption {position:absolute;bottom:0;left:0;}
-	.par-highlights h4 {font-size:15px;color:#fff;margin:10px 0;text-transform:uppercase;}
+	.par-highlights h4 {margin:10px 0;font-size:15px;font-style:normal;color:#fff;text-transform:uppercase;}
 	.par-highlights h4 br {display:none;}
 	.par-highlights span {color:#fff;}
 	@media(min-width:480px) {
