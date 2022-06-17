@@ -28,6 +28,7 @@ description: ""
 	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;}
 	.home-main {padding:20px 15px;background:#fff;}
 	.what-is-par {margin:0 0 20px;}
+	.what-is-par h5 {color: #0071c0;font-size: 22px;margin-bottom:20px;}
 	.par-highlights {display:flex;flex-wrap:wrap;}
 	.par-highlights .entry {width:100%;margin:0 0 5px;}
 	.par-highlights figure {position:relative;margin:0;}
