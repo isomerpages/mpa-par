@@ -43,6 +43,7 @@ description: ""
 	}
 	@media(min-width:1280px) {
 		.masthead figcaption {bottom:30%;}
+		.home-main {padding:50px;}
 	}
 </style>
 <figure class="masthead">
