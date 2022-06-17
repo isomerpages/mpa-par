@@ -23,8 +23,8 @@ description: ""
 	.masthead {position:relative;margin:0!important;}
 	.masthead .overlay {position:absolute;width:100%;top:0;left:0;}
 	.masthead figcaption {position:absolute;width:100%;bottom:0;left:0;}
-	.masthead h1 {margin: 0 auto;color: #fff;font-size:20px;font-style:normal;text-align: center;text-transform: none;}
-	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;}
+	.masthead h1 {margin: 0 auto;color: #fff;font-size:20px;font-style:normal;text-align: center;text-transform: none;line-height:normal;}
+	.masthead h3 {margin: 0 auto;color: #fff;font-size:14px;font-style:normal;text-align: center;text-transform: none;line-height:normal;}
 </style>
 <figure class="masthead">
 	<div class="mobile">
