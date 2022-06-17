@@ -34,6 +34,7 @@ description: ""
 	@media(min-width:768px) {
 		.masthead h1 {font-size:38px;}
 		.masthead h3 {font-size:20px;}
+		.home-main {max-width:720px;}
 	}
 	@media(min-width:992px) {
 		.masthead h1 {font-size:60px;}
