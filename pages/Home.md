@@ -9,7 +9,7 @@ description: ""
 	.content p {margin:0 0 15px;font-size:inherit;line-height:inherit;}
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
-	#navbar .navbar-end {display:none;}
+	.navbar-end {display:none;}
 	#main-content .bp-section {padding:0;}
 	#main-content .bp-section-pagetitle {display:none;}
 	#main-content .bp-container {width:100%;max-width:100%;min-height:250px;padding:0!important;}
