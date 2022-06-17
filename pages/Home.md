@@ -20,15 +20,15 @@ description: ""
 	}
 	
 	.masthead {position:relative;margin:0!important;}
-	.masthead img {position:absolute;width:100%;top:0;left:0;}
+	.masthead .overlay {position:absolute;width:100%;top:0;left:0;}
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img src="/images/Homepage/overlay-m.png" />
+		<img class="overlay" src="/images/Homepage/overlay-m.png" />
 		<img src="/images/Homepage/bg-homepage-m.jpg" />
 	</div>
 	<div class="desktop">
-		<img src="/images/Homepage/overlay-d.png" />
+		<img class="overlay" src="/images/Homepage/overlay-d.png" />
 		<img src="/images/Homepage/bg-homepage-d.jpg" />
 	</div>
 	<figcaption>
