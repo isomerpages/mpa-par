@@ -121,5 +121,8 @@ description: ""
 			</a>
 		</div>
 	</div>
+	<div class="par-global">
+		<img class="mobile" src="/images/Homepage/map-m.png" />
+		<img class="desktop" src="/images/Homepage/map-d.png" />
+	</div>
 </div>
-<p>Homepage</p>
