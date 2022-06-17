@@ -19,7 +19,7 @@ description: ""
 	.desktop {display:block;}
 	}
 	
-	.masthead {position:relative;margin:0;}
+	.masthead {position:relative;margin:0!important;}
 </style>
 <figure class="masthead">
 	<div class="mobile">
