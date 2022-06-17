@@ -29,7 +29,7 @@ description: ""
 	.home-main {padding:20px 15px;background:#fff;}
 	.what-is-par {margin:0 0 20px;}
 	.par-highlights {display:flex;flex-wrap:wrap;}
-	.par-highlights .entry {width:100%;}
+	.par-highlights .entry {width:100%;margin:0 0 5px;}
 	.par-highlights figure {position:relative;margin:0;}
 	.par-highlights figcaption {position:absolute;bottom:20px;left:30px;text-align:left;}
 	.par-highlights h4 {margin:10px 0;font-size:15px;font-style:normal;color:#fff;text-transform:uppercase;letter-spacing:normal;}
