@@ -49,5 +49,11 @@ description: ""
 		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br/>Reimagining a New Era of Trade Together</h3>
 	</figcaption>
 </figure>
-	
+<div class="home-main">
+	<div class="what-is-par">
+		<h5>What is PAR?</h5>
+		<p>The Port Authorities Roundtable (PAR) is an annual by-invitation event for CEO/Chairman/ Director General/President of leading port authorities, which aims to be the platform of choice for port authorities to exchange best practices, discuss issues of common interest and build mutually beneficial collaboration in today’s evolving maritime landscape. The Maritime and Port Authority of Singapore (MPA) initiated the PAR in 2015 and serves as its Secretariat.</p>
+		<p>The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group, will be held from 31 May to 2 June 2022.</p>
+	</div>
+</div>
 <p>Homepage</p>
