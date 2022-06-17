@@ -55,6 +55,7 @@ description: ""
 		.masthead figcaption {bottom:30%;}
 		.home-main {position:relative;padding:50px;margin:-10% auto 0;}
 		.par-highlights .entry {width:33.3333%;}
+		.par-highlights h4 br {display:inline;}
 	}
 	@media(min-width:1440px) {
 		.home-main {max-width:1280px;}
