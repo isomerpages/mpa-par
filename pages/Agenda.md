@@ -27,6 +27,9 @@ description: ""
 	@media(min-width:768px) {
 		.par-main {max-width:720px;margin:0 auto;}
 	}
+	@media(min-width:992px) {
+		.par-main {max-width:970px;}
+	}
 	@media(min-width:1440px) {
 		.par-main {max-width:1280px;}
 	}
