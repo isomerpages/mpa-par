@@ -19,22 +19,21 @@ description: ""
 	.desktop {display:block;}
 	}
 	
-	.masthead
+	.masthead {position:relative;margin:0;}
 </style>
-<figure>
-	<div class="masthead">
-		<div class="masthead-m mobile">
-			<img src="/images/Homepage/overlay-m.png" />
-			<img src="/images/Homepage/bg-homepage-m.jpg" />
-		</div>
-		<div class="masthead-d desktop">
-			<img src="/images/Homepage/overlay-d.png" />
-			<img src="/images/Homepage/bg-homepage-d.jpg" />
-		</div>
+<figure class="masthead">
+	<div class="mobile">
+		<img src="/images/Homepage/overlay-m.png" />
+		<img src="/images/Homepage/bg-homepage-m.jpg" />
+	</div>
+	<div class="desktop">
+		<img src="/images/Homepage/overlay-d.png" />
+		<img src="/images/Homepage/bg-homepage-d.jpg" />
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
 		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br/>Reimagining a New Era of Trade Together</h3>
 	</figcaption>
 </figure>
+	
 <p>Homepage</p>
