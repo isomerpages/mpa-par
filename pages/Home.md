@@ -4,7 +4,7 @@ permalink: /home
 description: ""
 ---
 <style>
-	body {font-size:14px;line-height:1.42857143;}
+	body {font-size:14px!important;line-height:1.42857143!important;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
 	p {margin:0 0 15px!important;}
 	.mobile {display:block;}
