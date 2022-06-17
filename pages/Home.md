@@ -49,11 +49,11 @@ description: ""
 		.masthead h1 {font-size:60px;}
 		.masthead h3 {font-size:40px;}
 		.home-main {max-width:970px;}
-		.par-highlights .entry {width:33.3333%;}
 	}
 	@media(min-width:1280px) {
 		.masthead figcaption {bottom:30%;}
 		.home-main {position:relative;padding:50px;margin:-10% auto 0;}
+		.par-highlights .entry {width:33.3333%;}
 	}
 	@media(min-width:1440px) {
 		.home-main {max-width:1280px;}
