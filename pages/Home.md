@@ -30,6 +30,10 @@ description: ""
 		.masthead h1 {font-size:30px;}
 		.masthead h3 {font-size:16px;}
 	}
+	@media(min-width:768px) {
+		.masthead h1 {font-size:38px;}
+		.masthead h3 {font-size:20px;}
+	}
 </style>
 <figure class="masthead">
 	<div class="mobile">
