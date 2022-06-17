@@ -7,6 +7,6 @@ description: ""
 #main-content .bp-section-pagetitle {display:none;}
 </style>
 
-```
-Homepage
-```
+
+
+<p>Homepage</p>
