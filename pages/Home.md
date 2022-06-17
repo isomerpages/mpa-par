@@ -45,6 +45,9 @@ description: ""
 		.masthead figcaption {bottom:30%;}
 		.home-main {position:relative;padding:50px;margin:-10% auto 0;}
 	}
+	@media(min-width:1440px) {
+		.home-main {max-width:1280px;}
+	}
 </style>
 <figure class="masthead">
 	<div class="mobile">
