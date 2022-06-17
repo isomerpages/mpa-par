@@ -20,6 +20,7 @@ description: ""
 	}
 	
 	.masthead {position:relative;margin:0!important;}
+	.masthead img {position:absolute;width:100%;top:0;left:0;}
 </style>
 <figure class="masthead">
 	<div class="mobile">
