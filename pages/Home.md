@@ -9,8 +9,6 @@ description: ""
 	.content p {margin:0 0 15px;font-size:inherit;line-height:inherit;}
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
-	.navbar {padding:0;}
-	.navbar>.bp-container {max-width:100%;padding:0;}
 	.navbar-end, is-search-bar {display:none;}
 	#main-content .bp-section {padding:0;}
 	#main-content .bp-section-pagetitle {display:none;}
