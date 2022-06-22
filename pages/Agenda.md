@@ -43,5 +43,4 @@ description: ""
 		<li><b>Decarbonisation</b> - Building sustainable port operations and facilitating climate change action</li>
 		<li><b>Diversification</b> - The evolving role of ports as facilitators of global trade</li>
 	</ul>
-	<p>1</p>
 </div>
