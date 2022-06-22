@@ -30,6 +30,9 @@ description: ""
 	@media(min-width:992px) {
 		.par-main {max-width:970px;}
 	}
+	@media(min-width:1024px) {
+		.par-main {padding:35px 0;}
+	}
 	@media(min-width:1440px) {
 		.par-main {max-width:1280px;}
 	}
