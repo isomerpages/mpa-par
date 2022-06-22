@@ -34,16 +34,10 @@ sections:
       image: /images/Homepage/bg-about-d.jpg
       alt: thumbnail-about
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      image: /images/Homepage/map-d.png
       alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
       button: View More
-  - infopic:
-      image: /images/Homepage/map-d.png
-      alt: Image alt text
 ---
