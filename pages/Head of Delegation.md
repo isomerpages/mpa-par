@@ -22,6 +22,18 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	
+	.par-main {padding:35px 15px;}
+	.par-main .par-list-none {list-style:none;margin:0;}
+	@media(min-width:768px) {
+		.par-main {max-width:720px;margin:0 auto;}
+	}
+	@media(min-width:992px) {
+		.par-main {max-width:970px;}
+	}
+	@media(min-width:1440px) {
+		.par-main {max-width:1280px;}
+	}
+	
 	.accordion {padding:25px 0;border-bottom:1px solid #e3e3e3;}
 	.accordion:last-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
@@ -44,43 +56,45 @@ description: ""
 		.speaker-img-wrapper h5 {font-size:14px;}
 	}
 </style>
-<div class="accordion">
-	<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-		<div class="speaker-img-wrapper">
-			<div class="speaker-img">
-				<img src="/images/Delegation/farhan-al-fartosi.jpg">
+<div class="par-main">
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/farhan-al-fartosi.jpg">
+				</div>
+				<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
+				<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
 			</div>
-			<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
-			<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
-			<div class="icon-wrapper">
-				<i class="sgds-icon sgds-icon-chevron-up"></i>
-				<i class="sgds-icon sgds-icon-chevron-down"></i>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Dr. Farhan Al Fartosi is the General Manager of the Iraq Ports Company and the Chairman of the board.</p>
+				<p>Dr. Al Fartosi has a long experience in Maritime field and holds many certifications including second marine engineer certificate from Arabian Gulf Academy for Maritime Studies in 1990. And chief marine engineer certification from the Jordanian Academy in Amman in 2000. And also certification on how to implement the maritime Labour Convention (2006).</p>
+				<p>In 2013, Dr. Farhan Al Fartosi obtained his master's degree in Maritime affairs <span>—</span>&nbsp;Maritime Safety and Environmental Administration from The World Maritime University in Sweden. He has worked in Iraq Maritime Transport as second marine engineer and then he was graded to chief marine engineer and took over the duties of chief engineer on many ships including cargo ships, RORO ships and bulk ships. After that he held several positions including Manager of Security Administration department in General Company of Maritime Transport in 2014.</p>
+				<p>In 2020 he obtained PhD in Business Management from the Ain shams University in Egypt.</p>
+				<p>Dr Farhan Al Fartosi has participated in many conferences and seminars including ship Recycling conference in Denmark.</p>
 			</div>
-		</div>
-	</a>
-	<div class="bp-accordion-body">
-		<div class="speaker-content">
-			<h6>Delegate's Bio:</h6>
-			<p>Dr. Farhan Al Fartosi is the General Manager of the Iraq Ports Company and the Chairman of the board.</p>
-			<p>Dr. Al Fartosi has a long experience in Maritime field and holds many certifications including second marine engineer certificate from Arabian Gulf Academy for Maritime Studies in 1990. And chief marine engineer certification from the Jordanian Academy in Amman in 2000. And also certification on how to implement the maritime Labour Convention (2006).</p>
-			<p>In 2013, Dr. Farhan Al Fartosi obtained his master's degree in Maritime affairs <span>—</span>&nbsp;Maritime Safety and Environmental Administration from The World Maritime University in Sweden. He has worked in Iraq Maritime Transport as second marine engineer and then he was graded to chief marine engineer and took over the duties of chief engineer on many ships including cargo ships, RORO ships and bulk ships. After that he held several positions including Manager of Security Administration department in General Company of Maritime Transport in 2014.</p>
-			<p>In 2020 he obtained PhD in Business Management from the Ain shams University in Egypt.</p>
-			<p>Dr Farhan Al Fartosi has participated in many conferences and seminars including ship Recycling conference in Denmark.</p>
 		</div>
 	</div>
-</div>
-<div class="accordion">
-	<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
-		<div class="speaker-img-wrapper">
-			<div class="speaker-img">
-				<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
+				</div>
+				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
+				<div class="org-logo"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
 			</div>
-			<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
-			<div class="org-logo"></div>
-			<div class="icon-wrapper">
-				<i class="sgds-icon sgds-icon-chevron-up"></i>
-				<i class="sgds-icon sgds-icon-chevron-down"></i>
-			</div>
-		</div>
-	</a>
+		</a>
+	</div>
 </div>
