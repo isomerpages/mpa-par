@@ -21,12 +21,26 @@ description: ""
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
 	}
+	
+	.par-main {padding:35px 15px;margin:0 auto;}
+	.par-main .par-list-none {list-style:none;margin:0;}
+	@media(min-width:992px) {
+		.par-main {max-width:970px;}
+	}
+	@media(min-width:1024px) {
+		.par-main {padding:35px 0;}
+	}
+	@media(min-width:1440px) {
+		.par-main {max-width:1280px;}
+	}
 </style>
-<p><strong>Maritime and Port Authority of Singapore</strong><br/>  
-460 Alexandra Road, mTower #19-00, Singapore 119963<br/>  
-Tel: 6375 1600</p>
-<p>For further enquiries, please contact the following personnel:</p>
-<ol>
-	<li>Ms Chan Shi Jun(<a href="mailto:chan_shi_jun@mpa.gov.sg">chan_shi_jun@mpa.gov.sg</a>)</li>
-	<li>Ms Ang Chin Chin (<a href="mailto:ang_chin_chin@mpa.gov.sg">ang_chin_chin@mpa.gov.sg</a>)</li>
-</ol>
+<div class="par-main">
+	<p><strong>Maritime and Port Authority of Singapore</strong><br/>  
+	460 Alexandra Road, mTower #19-00, Singapore 119963<br/>  
+	Tel: 6375 1600</p>
+	<p>For further enquiries, please contact the following personnel:</p>
+	<ol>
+		<li>Ms Chan Shi Jun(<a href="mailto:chan_shi_jun@mpa.gov.sg">chan_shi_jun@mpa.gov.sg</a>)</li>
+		<li>Ms Ang Chin Chin (<a href="mailto:ang_chin_chin@mpa.gov.sg">ang_chin_chin@mpa.gov.sg</a>)</li>
+	</ol>
+</div>
