@@ -11,16 +11,16 @@ sections:
       subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
         Trade Together
       background: /images/Homepage/bg-homepage-d.jpg
+  - infobar:
+      title: What is PAR?
+      description: The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group,
+        will be held from 31 May to 2 June 2022.
   - infopic:
       title: Head of Delegation
       button: Find out more
       url: /head-of-delegation
       image: /images/Homepage/bg-head-of-delegation-d.jpg
       alt: thumbnail-head-of-delegation
-  - infobar:
-      title: What is PAR?
-      description: The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group,
-        will be held from 31 May to 2 June 2022.
   - infopic:
       title: Event Agenda
       button: Find out more
