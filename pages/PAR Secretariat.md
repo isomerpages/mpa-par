@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
-	.content p, .content li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
+	.content p, .content li, .content ol li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	.navbar-end, .is-search-bar {display:none;}
