@@ -22,13 +22,13 @@ description: ""
 		.desktop {display:block!important;}
 	}
 	
-	.par-main {padding:35px 15px;}
+	.par-main {padding:35px 15px;margin:0 auto;}
 	.par-main .par-list-none {list-style:none;margin:0;}
-	@media(min-width:768px) {
-		.par-main {max-width:720px;margin:0 auto;}
-	}
 	@media(min-width:992px) {
 		.par-main {max-width:970px;}
+	}
+	@media(min-width:1024px) {
+		.par-main {padding:35px 0;}
 	}
 	@media(min-width:1440px) {
 		.par-main {max-width:1280px;}
