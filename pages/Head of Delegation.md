@@ -4,12 +4,24 @@ permalink: /head-of-delegation
 description: ""
 ---
 <style>
-	#main-content	.is-hidden-touch {display:none!important;}
-	#main-content .bp-section {padding:0!important;min-height:200px;}
-	#main-content .bp-container {padding:0 .75rem!important;}
-	#main-content .row {margin: 0 -.75rem;}
-	#main-content .col {width:100%!important;padding:0 .75rem!important;margin:0!important;}
-	.bp-section-pagetitle {display:none;}
+	body {font-size:14px;line-height:1.42857143;}
+	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
+	.content p, .content li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
+	.mobile {display:block!important;}
+	.desktop {display:none!important;}
+	.navbar-end, .is-search-bar {display:none;}
+	#main-content .bp-section {padding:0;}
+	#main-content .bp-section-pagetitle {display:none;}
+	#main-content .bp-container {width:100%;max-width:100%;min-height:250px;padding:0!important;}
+	#main-content .bp-container .row {margin:0;}
+	#main-content .bp-container .col {padding:0;}
+	#main-content .col.is-8 {width:100%;margin:0;}
+	#main-content .col.is-1 {display:none;}
+	@media(min-width:1280px) {
+		.mobile {display:none!important;}
+		.desktop {display:block!important;}
+	}
+	
 	.accordion {padding:25px 0;border-bottom:1px solid #e3e3e3;}
 	.accordion:last-child {border:0;}
 	.accordion .bp-accordion-header, .accordion .bp-accordion-header:hover, .accordion .bp-accordion-header:focus {color:#fff;text-decoration:none;}
@@ -30,10 +42,6 @@ description: ""
 	.sgds-icon-minus h5, .sgds-icon-minus .icon-wrapper {color:#fff;}
 	@media(min-768px) {
 		.speaker-img-wrapper h5 {font-size:14px;}
-	}
-	@media(min-width:1024px) {
-		#main-content {padding:25px 0 0;}
-		#main-content .bp-container {padding:0!important;}
 	}
 </style>
 <div class="accordion">
