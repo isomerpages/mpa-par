@@ -35,11 +35,11 @@ description: ""
 	}
 	
 	
-	.media-lists>.entry {display:block;padding:0 0 30px;margin:0 0 30px;border-bottom:1px solid #e2e2e2;}
-	.media-item {width:calc(100% - 100px);}
+	.media-lists>.entry {display:table;width:100%;padding:0 0 20px;margin:0 0 20px;border-bottom:1px solid #e3e3e3;}
+	.media-item {display:table-cell;vertical-align:center;}
 	.media-type {display:block;}
 	.media-title {display:block;}
-	.media-link {width:100px;}
+	.media-link {display:table-cell;width:100px;vertical-align:center;}
 </style>
 <div class="par-main">
 	<div class="media-lists">
