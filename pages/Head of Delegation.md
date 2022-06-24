@@ -61,7 +61,7 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Delegation/mohamed-juma-al-shamisi.jpeg">
+					<img src="/images/Event2022/Delegation/mohamed-juma-al-shamisi.jpeg">
 				</div>
 				<h5>Captain Mohamed Juma Al Shamisi, Managing Director and Group CEO, AD Ports Group - Opening Address</h5>
 				<div class="icon-wrapper">
@@ -75,7 +75,7 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
+					<img src="/images/Event2022/Delegation/omar-bin-talal-hariri.jpg">
 				</div>
 				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
 				<div class="org-logo"></div>
@@ -90,7 +90,7 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Delegation/he-suhail-mohamed-al-mazrouei.jpg">
+					<img src="/images/Event2022/Delegation/he-suhail-mohamed-al-mazrouei.jpg">
 				</div>
 				<h5>H.E. Suhail Mohamed Al Mazrouei, Minister of Energy and Infrastructure, United Arab Emirates - Welcome Address</h5>
 				<div class="icon-wrapper">
@@ -104,10 +104,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Delegation/farhan-al-fartosi.jpg">
+					<img src="/images/Event2022/Delegation/farhan-al-fartosi.jpg">
 				</div>
 				<h5></h5>
-				<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-iraq.jpg" /></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -125,10 +125,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Delegation/farhan-al-fartosi.jpg">
+					<img src="/images/Event2022/Delegation/farhan-al-fartosi.jpg">
 				</div>
 				<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
-				<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-iraq.jpg" /></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
