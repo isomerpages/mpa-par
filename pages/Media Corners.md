@@ -43,7 +43,7 @@ description: ""
 	.media-link>a[target="_blank"]:after {display:none;}
 	@media(min-width:768px) {
 		.media-type {display:inline-block;width:200px;margin:0;}
-		.media-title {display:inline-block;width:calc(100% -200px);}
+		.media-title {display:inline-block;width:calc(100% -205px);}
 	}
 </style>
 <div class="par-main">
