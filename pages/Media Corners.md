@@ -38,8 +38,9 @@ description: ""
 	.media-item {display:table-cell;vertical-align:middle;}
 	.media-type {display:block;margin:0 0 10px;color: #0071c0;font-weight: 700;}
 	.media-title {display:block;}
-	.media-lists .media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;color: #0fa678;font-weight: 700;text-transform: uppercase;}
-	.media-link[target="_blank"]:after {display:none;}
+	.media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;}
+	.media-link>a {color: #0fa678;font-weight: 700;text-transform: uppercase;text-decoration:none;}
+	.media-link>a[target="_blank"]:after {display:none;}
 </style>
 <div class="par-main">
 	<div class="media-lists">
