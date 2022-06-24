@@ -154,7 +154,7 @@ description: ""
 					<img src="/images/Event2022/Delegation/hiroyuki-saito.jpg">
 				</div>
 				<h5>Mr Hiroyuki Saito, Director General, Environmental Policy in Port and Airport, Port and Harbour Bureau, Kobe City Government</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-kobe.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-kobe.jpg" /></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
