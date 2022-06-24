@@ -38,9 +38,13 @@ description: ""
 	.media-item {display:table-cell;vertical-align:middle;}
 	.media-type {display:block;margin:0 0 10px;color: #0071c0;font-weight: 700;}
 	.media-title {display:block;}
-	.media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;}
+	.media-link {display:table-cell;width:70px;vertical-align:middle;text-align:center;}
 	.media-link>a {color: #0fa678;font-weight: 700;text-transform: uppercase;text-decoration:none;}
 	.media-link>a[target="_blank"]:after {display:none;}
+	@media(min-width:768px) {
+		.media-type {display:inline-block;width:200px;margin:0;}
+		.media-title {display:inline-block;width:calc(100% -200px);}
+	}
 </style>
 <div class="par-main">
 	<div class="media-lists">
