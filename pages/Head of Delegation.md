@@ -58,6 +58,70 @@ description: ""
 </style>
 <div class="par-main">
 	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/mohamed-juma-al-shamisi.jpeg">
+				</div>
+				<h5>Captain Mohamed Juma Al Shamisi, Managing Director and Group CEO, AD Ports Group - Opening Address</h5>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
+				</div>
+				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
+				<div class="org-logo"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/he-suhail-mohamed-al-mazrouei.jpg">
+				</div>
+				<h5>H.E. Suhail Mohamed Al Mazrouei, Minister of Energy and Infrastructure, United Arab Emirates - Welcome Address</h5>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img src="/images/Delegation/farhan-al-fartosi.jpg">
+				</div>
+				<h5></h5>
+				<div class="org-logo"><img src="/images/Delegation%20Logo/logo-iraq.jpg" /></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
@@ -82,19 +146,5 @@ description: ""
 			</div>
 		</div>
 	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img src="/images/Delegation/omar-bin-talal-hariri.jpg">
-				</div>
-				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
-				<div class="org-logo"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-	</div>
+	
 </div>
