@@ -36,10 +36,10 @@ description: ""
 	
 	
 	.media-lists>.entry {display:table;width:100%;padding:0 0 20px;margin:0 0 20px;border-bottom:1px solid #e3e3e3;}
-	.media-item {display:table-cell;vertical-align:center;}
-	.media-type {display:block;}
+	.media-item {display:table-cell;vertical-align:middle;}
+	.media-type {display:block;margin:0 0 10px;color: #0071c0;font-weight: 700;}
 	.media-title {display:block;}
-	.media-link {display:table-cell;width:100px;vertical-align:center;}
+	.media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;color: #0fa678;font-weight: 700;text-transform: uppercase;}
 </style>
 <div class="par-main">
 	<div class="media-lists">
