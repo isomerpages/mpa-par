@@ -34,12 +34,12 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 	
-	
 	.media-lists>.entry {display:table;width:100%;padding:0 0 20px;margin:0 0 20px;border-bottom:1px solid #e3e3e3;}
 	.media-item {display:table-cell;vertical-align:middle;}
 	.media-type {display:block;margin:0 0 10px;color: #0071c0;font-weight: 700;}
 	.media-title {display:block;}
-	.media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;color: #0fa678;font-weight: 700;text-transform: uppercase;}
+	.media-lists .media-link {display:table-cell;width:70px;vertical-align:middle;text-align:right;color: #0fa678;font-weight: 700;text-transform: uppercase;}
+	.media-link[target="_blank"]:after {display:none;}
 </style>
 <div class="par-main">
 	<div class="media-lists">
