@@ -38,6 +38,7 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 	
+	.tab {margin:0 0 40px;}
 	.tab-nav {position:absolute;display:none;width:300px;z-index:9;overflow-y:auto;height:385px;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {margin:0!important;}
@@ -52,7 +53,7 @@ description: ""
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
 	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
-	
+	.par-title {margin:0 0 20px;font-size:14px;font-weight:700;color:#0071c0;text-align:center;text-transform:uppercase;}
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
@@ -87,5 +88,5 @@ description: ""
 			</figcaption>
 		</figure>
 	</div>
-	<h4>Heads of Delegation</h4>
+	<h4 class="par-title">Heads of Delegation</h4>
 </div>
