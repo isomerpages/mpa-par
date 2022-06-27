@@ -38,10 +38,12 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 	
+	.tab {position:relative;height:385px;overflow:hidden;}
+	.tab-nav {position:absolute;width:300px;z-index:9;overflow-y:auto;height:385px;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
-	.tab-nav>ul>li {margin:0;}
+	.tab-nav>ul>li {margin:0!important;}
 	.tab-nav>ul>li+li {border-top:1px solid #fff;}
-	.tab-nav>ul>li>a {display:block;padding:20px;margin:0;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
+	.tab-nav>ul>li>a {display:block;height:96px;padding:20px;margin:0;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab-nav>ul>li>a:hover, .tab-nav>ul>li>a:focus {color:#fff;text-decoration:none;}
 	.tab-nav>ul>li.active>a {background:#0fa678;}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
