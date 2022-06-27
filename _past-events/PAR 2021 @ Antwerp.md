@@ -55,6 +55,9 @@ description: ""
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
 	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
 	.par-title {margin:0 0 20px;font-size:14px;font-weight:700;color:#0071c0;text-align:center;text-transform:uppercase;}
+	.par-delegate-list {display:flex;flex-wrap:wrap;list-style:none;padding:0;margin:0;}
+	.par-delegate-list>li {width:100%;}
+	.par-delegate {margin:0!important;text-align:left;font-style:normal;}
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
