@@ -104,7 +104,7 @@ description: ""
 					<h5>Capt. Maktoum Al Houqani</h5>
 					<p>Chief Corporate Authority Officer & Acting Head of the Maritime Cluster, Abu Dhabi Port</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -113,7 +113,7 @@ description: ""
 					<h5>Captain K. Subramaniam</h5>
 					<p>General Manager, Port Klang</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -122,7 +122,7 @@ description: ""
 					<h5>Dr. Noritaka Hasegawa</h5>
 					<p>Director General, Port and Harbor Bureau, Kobe</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -131,7 +131,7 @@ description: ""
 					<h5>Mr. Allard Castelein</h5>
 					<p>Chief Executive Officer, Port of Rotterdam Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -140,7 +140,7 @@ description: ""
 					<h5>Mr. Fang Huaijin</h5>
 					<p>Vice President, Shanghai International Port Group</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -149,7 +149,7 @@ description: ""
 					<h5>Mr. Fernando Biral</h5>
 					<p>Chief Executive Officer, Port of Santos</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -158,7 +158,7 @@ description: ""
 					<h5>Mr. Gene Seroka</h5>
 					<p>Executive Director, Port of Los Angeles</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -167,7 +167,7 @@ description: ""
 					<h5>Mr. Henrik Pedersen</h5>
 					<p>Chief Executive Officer and Executive Director, Associated British Port</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -176,7 +176,7 @@ description: ""
 					<h5>Mr. Ho-chul Park</h5>
 					<p>Vice President, Busan Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -185,7 +185,7 @@ description: ""
 					<h5>Mr. Jacques Vandermeiren</h5>
 					<p>Chief Executive Officer and President of the Executive Committee of Antwerp Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -194,7 +194,7 @@ description: ""
 					<h5>Mr. Jens Meier</h5>
 					<p>Chief Executive Officer, Hamburg Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -203,7 +203,7 @@ description: ""
 					<h5>Mr. Lou Binzheng</h5>
 					<p>Deputy Director General, Ningbo Municipal Port Administration Bureau</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -212,7 +212,7 @@ description: ""
 					<h5>Mr. Mario Cordero</h5>
 					<p>Executive Director, Port of Long Beach</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -221,7 +221,7 @@ description: ""
 					<h5>Mr. Martin Imbleau</h5>
 					<p>President and CEO, Montreal Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -230,7 +230,7 @@ description: ""
 					<h5>Mr. Mehdi Tazi-Riffi</h5>
 					<p>Chief Executive Officer, TANGER MED Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -239,7 +239,7 @@ description: ""
 					<h5>Mr. Santiago Garcia Mila</h5>
 					<p>Deputy General Manager, Port of Barcelona</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -249,7 +249,7 @@ description: ""
 					<strong>Guest Speaker</strong>
 					<p>CEO, MSC Mediterranean Shipping Company</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		
 		<li>
@@ -260,7 +260,7 @@ description: ""
 					<strong>Guest Speaker</strong>
 					<p>CEO, PSA International</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -269,7 +269,7 @@ description: ""
 					<h5>Mr. Xin Ye</h5>
 					<p>Inspector, Shanghai Port</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -279,7 +279,7 @@ description: ""
 					<strong>Guest Speaker</strong>
 					<p>Founding Partner, Global Optimism</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -288,7 +288,7 @@ description: ""
 					<h5></h5>
 					<p></p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -297,7 +297,7 @@ description: ""
 					<h5>Ms. Quah Ley Hoon</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -306,7 +306,7 @@ description: ""
 					<h5>Ms. Stephanie Jones Stebbins</h5>
 					<p>Managing Director - Maritime, Port of Seattle</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
@@ -315,7 +315,7 @@ description: ""
 					<h5>Ms. Yue Yuan</h5>
 					<p>Deputy Director-General, GuangZhou Port Authority</p>
 				</figcaption>
-			</div>
+			</figure>
 		</li>
 	</ul>
 </div>
