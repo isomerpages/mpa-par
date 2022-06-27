@@ -47,7 +47,10 @@ description: ""
 				<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 				<li><a href="/past-events/2020">PAR 2020</a></li>
 				<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
-				<li><a href="/past-events/2018">PAR 2019 @ Long Beach</a></li>
+				<li><a href="/past-events/2018">PAR 2018 @ Long Beach</a></li>
+				<li><a href="/past-events/2017">PAR 2017 @ Ningbo</a></li>
+				<li><a href="/past-events/2016">PAR 2016 @ Rotterdam</a></li>
+				<li><a href="/past-events/2015">PAR 2015 @ Singapore</a></li>
 			</ul>
 		</div>
 		<figure class="tab-content">
@@ -56,9 +59,9 @@ description: ""
 			<figcaption>
 				<h3>PAR 2021 @ Antwerp</h3>
 				<ul>
-					<li>22 - 23 June 2021</li>
-					<li>1.00pm (CET) - 5.00pm (CET)</li>
-					<li>Virtual</li>
+					<li><i class="sgds-icon sgds-icon-calendar"></i>22 - 23 June 2021</li>
+					<li><i class="sgds-icon sgds-icon-clock"></i>1.00pm (CET) - 5.00pm (CET)</li>
+					<li><i class="sgds-icon sgds-icon-place"></i>Virtual</li>
 				</ul>
 			</figcaption>
 		</figure>
