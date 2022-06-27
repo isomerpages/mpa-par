@@ -44,7 +44,7 @@ description: ""
 	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
-	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:15px;font-style:normal!important;color:#fff;text-align:left;}
+	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;font-style:normal!important;color:#fff;text-align:left;}
 	.tab>.tab-content>figcaption>h3 {margin:0 0 10px;font-size:16px;font-weight:700;color:#fff;}
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
@@ -64,10 +64,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay mobile"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay desktop"/>
-			<img src="/images/Event2021/bg-past-events-m.jpg" class="mobile"/>
-			<img src="/images/Event2021/bg-past-events-d.jpg" class="desktop"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
+			<img src="/images/Event2021/bg-past-events-m.jpg" class="is-hidden-desktop"/>
+			<img src="/images/Event2021/bg-past-events-d.jpg" class="is-hidden-touch"/>
 			<figcaption>
 				<h3>PAR 2021 @ Antwerp</h3>
 				<ul>
