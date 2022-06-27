@@ -64,6 +64,9 @@ description: ""
 	.par-delegate>figcaption {padding:0 0 0 75px;min-height:60px;}
 	.par-delegate>figcaption>h5 {margin:0;font-size:14px;font-weight:700;color:#0071c0;}
 	.par-delegate>figcaption>strong {display:block;}
+	.par-map {display:flex;flex-wrap:wrap;background:#e3e3e3;}
+	.par-map>iframe {width:100%;}
+	.par-map>figcaption {width:100%;padding:10px 30px 30px;}
 	@media(min-width:768px) {
 		.par-delegate-list>li {width:50%;}
 		.par-delegate>figcaption {padding:0 15px 0 75px;}
@@ -76,6 +79,7 @@ description: ""
 		.tab-nav {display:block;}
 		.tab>.tab-content {margin:0 0 0 300px!important;}
 		.par-title {font-size:20px;text-align:left;}
+		.par-map>iframe, .par-map>figcaption {width:50%;}
 	}
 	@media(min-width:1440px) {
 		.tab {position:relative;height:520px;overflow:hidden;}
@@ -335,7 +339,7 @@ description: ""
 		<li>Digitalisation; and</li>
 		<li>Decarbonisation.</li>
 	</ul>
-	<figure>
+	<figure class="par-map">
 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d915747.2685717961!2d3.961122109583489!3d50.65649220872759!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9ca20d08f0cee28c!2sPort%20of%20Antwerp!5e0!3m2!1sen!2ssg!4v1623891311396!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
