@@ -42,6 +42,8 @@ description: ""
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {}
 	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
+	.tab-content {position:relative;margin:0;}
+	.tab-content>img.overlay {position:absolute;top:0;left:0;}
 </style>
 <div class="par-main">
 	<div class="tab">
@@ -57,8 +59,8 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="mobile"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="desktop"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay mobile"/>
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay desktop"/>
 			<img src="/images/Event2021/bg-past-events-m.jpg" class="mobile"/>
 			<img src="/images/Event2021/bg-past-events-d.jpg" class="desktop"/>
 			<figcaption>
