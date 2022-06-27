@@ -55,11 +55,11 @@ description: ""
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
 	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
 	.par-title {margin:0 0 20px;font-size:14px;font-weight:700;color:#0071c0;text-align:center;text-transform:uppercase;}
-	.par-delegate-list {display:flex;flex-wrap:wrap;list-style:none!important;padding:0;margin:0;}
-	.par-delegate-list>li {width:100%;}
-	.par-delegate {margin:0!important;text-align:left;font-style:normal;}
-	.par-delegate>img {width:60px;margin:0 15px 0 0;}
-	.par-delegate>figcaption {}
+	.par-delegate-list {display:flex;flex-wrap:wrap;list-style:none!important;padding:0;margin:0!important;}
+	.par-delegate-list>li {width:100%;margin:0;}
+	.par-delegate {margin:0!important;}
+	.par-delegate>img {width:60px!important;margin:0 15px 0 0!important;}
+	.par-delegate>figcaption {text-align:left;font-style:normal;}
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
