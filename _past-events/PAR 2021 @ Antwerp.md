@@ -99,7 +99,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/maktoum-al-houqani.jpg" />
 				<figcaption>
 					<h5>Capt. Maktoum Al Houqani</h5>
 					<p>Chief Corporate Authority Officer & Acting Head of the Maritime Cluster, Abu Dhabi Port</p>
@@ -108,7 +108,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/k-subramaniam.jpg" />
 				<figcaption>
 					<h5>Captain K. Subramaniam</h5>
 					<p>General Manager, Port Klang</p>
@@ -117,7 +117,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/noritaka-hasegawa.jpg" />
 				<figcaption>
 					<h5>Dr. Noritaka Hasegawa</h5>
 					<p>Director General, Port and Harbor Bureau, Kobe</p>
@@ -126,7 +126,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/allard-castelein.jpg" />
 				<figcaption>
 					<h5>Mr. Allard Castelein</h5>
 					<p>Chief Executive Officer, Port of Rotterdam Authority</p>
@@ -135,7 +135,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/mr-fang.jpg" />
 				<figcaption>
 					<h5>Mr. Fang Huaijin</h5>
 					<p>Vice President, Shanghai International Port Group</p>
@@ -144,7 +144,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/fernandol-biral.jpeg" />
 				<figcaption>
 					<h5>Mr. Fernando Biral</h5>
 					<p>Chief Executive Officer, Port of Santos</p>
@@ -153,7 +153,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/gene-seroka.jpg" />
 				<figcaption>
 					<h5>Mr. Gene Seroka</h5>
 					<p>Executive Director, Port of Los Angeles</p>
@@ -162,7 +162,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/henrik-pedersen.jpg" />
 				<figcaption>
 					<h5>Mr. Henrik Pedersen</h5>
 					<p>Chief Executive Officer and Executive Director, Associated British Port</p>
@@ -171,7 +171,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/ho-chul-park.jpg" />
 				<figcaption>
 					<h5>Mr. Ho-chul Park</h5>
 					<p>Vice President, Busan Port Authority</p>
@@ -180,7 +180,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/jacques-vandermeiren.jpg" />
 				<figcaption>
 					<h5>Mr. Jacques Vandermeiren</h5>
 					<p>Chief Executive Officer and President of the Executive Committee of Antwerp Port Authority</p>
@@ -189,7 +189,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/jen-meier.jpg" />
 				<figcaption>
 					<h5>Mr. Jens Meier</h5>
 					<p>Chief Executive Officer, Hamburg Port Authority</p>
@@ -198,7 +198,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/lou-binzheng.jpg" />
 				<figcaption>
 					<h5>Mr. Lou Binzheng</h5>
 					<p>Deputy Director General, Ningbo Municipal Port Administration Bureau</p>
@@ -207,7 +207,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/mario-cordero.jpg" />
 				<figcaption>
 					<h5>Mr. Mario Cordero</h5>
 					<p>Executive Director, Port of Long Beach</p>
@@ -216,7 +216,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/martin-imbleau.jpg" />
 				<figcaption>
 					<h5>Mr. Martin Imbleau</h5>
 					<p>President and CEO, Montreal Port Authority</p>
@@ -225,7 +225,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/mehdi-tazi-riffi.jpg" />
 				<figcaption>
 					<h5>Mr. Mehdi Tazi-Riffi</h5>
 					<p>Chief Executive Officer, TANGER MED Port Authority</p>
@@ -234,7 +234,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/santiago-garcia-mila.jpg" />
 				<figcaption>
 					<h5>Mr. Santiago Garcia Mila</h5>
 					<p>Deputy General Manager, Port of Barcelona</p>
@@ -243,7 +243,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/soren-toft.jpg" />
 				<figcaption>
 					<h5>Mr. Soren Toft</h5>
 					<strong>Guest Speaker</strong>
@@ -254,7 +254,7 @@ description: ""
 		
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/tan-chong-meng.jpg" />
 				<figcaption>
 					<h5>Mr. Tan Chong Meng</h5>
 					<strong>Guest Speaker</strong>
@@ -264,7 +264,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/xin-ye.jpg" />
 				<figcaption>
 					<h5>Mr. Xin Ye</h5>
 					<p>Inspector, Shanghai Port</p>
@@ -273,7 +273,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/christiana-figueres.jpg" />
 				<figcaption>
 					<h5>Ms. Christiana Figueres</h5>
 					<strong>Guest Speaker</strong>
@@ -283,16 +283,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
-				<figcaption>
-					<h5></h5>
-					<p></p>
-				</figcaption>
-			</figure>
-		</li>
-		<li>
-			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/quah-ley-hoon.jpg" />
 				<figcaption>
 					<h5>Ms. Quah Ley Hoon</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
@@ -301,7 +292,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/stephanie-jones-stebbins.jpg" />
 				<figcaption>
 					<h5>Ms. Stephanie Jones Stebbins</h5>
 					<p>Managing Director - Maritime, Port of Seattle</p>
@@ -310,7 +301,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2021/Delegation/" />
+				<img src="/images/Event2021/Delegation/yue-yuan.jpg" />
 				<figcaption>
 					<h5>Ms. Yue Yuan</h5>
 					<p>Deputy Director-General, GuangZhou Port Authority</p>
