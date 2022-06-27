@@ -44,7 +44,9 @@ description: ""
 	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
-	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:15px;font-style:normal!important;}
+	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:15px;font-style:normal!important;color:#fff;}
+	.tab>.tab-content>figcaption>h3 {margin:0 0 10px;font-size:16px;font-weight:700;color:#fff;text-align:left;}
+	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 </style>
 <div class="par-main">
 	<div class="tab">
