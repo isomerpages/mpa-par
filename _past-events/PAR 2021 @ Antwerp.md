@@ -49,16 +49,12 @@ description: ""
 	.tab-content>img {display:block;}
 	.tab-content figcaption {position:absolute;left:0;bottom:0;}
 	.tab-content figcaption ul {list-style:none;padding:0;margin:0;}
-	.mobile {display:block!important;}
-	.desktop {display:none!important;}
 	@media(min-width:1024px) {
 		h4{font-size:20px;text-align:left;margin:40px 0 20px!important;}
 		#main-content {padding:25px 0 0;}
 		.tab {height:380px;}
 		.tab-nav {display:block;}
 		.tab-content {width:70%;}
-		.mobile {display:none!important;}
-		.desktop {display:block!important;}
 	}
 	@media(min-width:1280px) {
 		.tab {height:500px;}
