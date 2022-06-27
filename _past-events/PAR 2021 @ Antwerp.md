@@ -37,8 +37,11 @@ description: ""
 	@media(min-width:1440px) {
 		.par-main {max-width:1280px;}
 	}
-
-	.tab {list-style:none;padding:0;margin:0;}
+	
+	.tab-nav {display:none;}
+	.tab-nav>ul {list-style:none;padding:0;margin:0;}
+	.tab-nav>ul>li {}
+	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
 </style>
 <div class="par-main">
 	<div class="tab">
