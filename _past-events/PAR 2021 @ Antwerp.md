@@ -18,9 +18,8 @@ description: ""
 	#main-content .bp-container .row {margin:0;}
 	#main-content .bp-container .col {padding:0;}
 	#main-content .col.is-8 {width:100%;margin:0;}
-	
+	#main-content .col.is-2.has-side-nav {display:none;}
 	@media(min-width:1280px) {
-		#main-content .col.is-2 {display:none;}
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
 	}
