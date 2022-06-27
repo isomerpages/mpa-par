@@ -39,8 +39,9 @@ description: ""
 	}
 	
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
+	.tab-nav>ul>li {margin:0;}
 	.tab-nav>ul>li+li {border-top:1px solid #fff;}
-	.tab-nav>ul>li>a {display:block;padding:20px;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
+	.tab-nav>ul>li>a {display:block;padding:20px;margin:0;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
 	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;font-style:normal!important;color:#fff;text-align:left;}
