@@ -62,6 +62,12 @@ description: ""
 	.par-delegate>figcaption {padding:0 0 0 75px;min-height:60px;text-align:left;font-style:normal!important;}
 	.par-delegate>figcaption>h5 {margin:0;font-size:14px;font-weight:700;color:#0071c0;}
 	.par-delegate>figcaption>strong {display:block;}
+	@media(min-width:768px) {
+		.par-delegate-list>li {width:50%;}
+	}
+	@media(min-width:992px) {
+		.par-delegate-list>li {width:25%;}
+	}
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
