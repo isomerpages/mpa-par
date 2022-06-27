@@ -39,7 +39,7 @@ description: ""
 	}
 	
 	.tab {margin:0 0 40px;}
-	.tab-nav {position:absolute;display:none;width:300px;z-index:9;overflow-y:auto;height:385px;}
+	.tab-nav {position:absolute;display:none;width:300px;height:385px;z-index:9;overflow-y:auto;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {margin:0!important;}
 	.tab-nav>ul>li+li {border-top:1px solid #fff;}
@@ -62,7 +62,7 @@ description: ""
 	}
 	@media(min-width:1440px) {
 		.tab {position:relative;height:520px;overflow:hidden;}
-		.tab-nav {width:375px;}
+		.tab-nav {width:375px;height:520px;}
 		.tab-nav>ul>li>a {height:130px;}
 		.tab>.tab-content {margin:0 0 0 375px!important;}
 	}
