@@ -64,6 +64,7 @@ description: ""
 	.par-delegate>figcaption>strong {display:block;}
 	@media(min-width:768px) {
 		.par-delegate-list>li {width:50%;}
+		.par-delegate>figcaption {padding:0 15px 0 75px;}
 	}
 	@media(min-width:992px) {
 		.par-delegate-list>li {width:25%;}
