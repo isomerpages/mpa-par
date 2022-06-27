@@ -39,7 +39,7 @@ description: ""
 	}
 	
 	figure {margin:0!important;}
-	figcaption {font-style:normal!important;color:#fff;text-align:left;}
+	figcaption {font-style:normal!important;text-align:left;}
 	.tab {margin:0 0 40px;}
 	.tab-nav {position:absolute;display:none;width:300px;height:385px;z-index:9;overflow-y:auto;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
@@ -51,7 +51,7 @@ description: ""
 	.tab-nav>ul>li.active>a:before {position:absolute;display:block;content:'';top:50%;right:15px;border-style: solid;border-width:10px 0 10px 15px;border-color: transparent transparent transparent #fff;transform:translateY(-50%);}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
-	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;}
+	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;color:#fff;}
 	.tab>.tab-content>figcaption>h3 {margin:0 0 10px;font-size:16px;font-weight:700;color:#fff;}
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
