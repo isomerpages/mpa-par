@@ -42,8 +42,9 @@ description: ""
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {}
 	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
-	.tab>.tab-content {position:relative;margin:0;border:0;}
+	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
+	.tab>.tab-content>.figcaption {position:absolute;bottom:0;left:0;padding:15px;font-style:normal!important;}
 </style>
 <div class="par-main">
 	<div class="tab">
