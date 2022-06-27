@@ -38,7 +38,7 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 
-	
+	.tab {list-style:none;padding:0;margin:0;}
 </style>
 <div class="par-main">
 	<div class="tab">
@@ -54,8 +54,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Past%20Events/2021/bg-par-2021-m.jpg" class="mobile"/>
-			<img src="/images/Past%20Events/2021/bg-par-2021-d.jpg" class="desktop"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="mobile"/>
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="desktop"/>
+			<img src="/images/Event2021/bg-past-events-m.jpg" class="mobile"/>
+			<img src="/images/Event2021/bg-past-events-d.jpg" class="desktop"/>
 			<figcaption>
 				<h3>PAR 2021 @ Antwerp</h3>
 				<ul>
