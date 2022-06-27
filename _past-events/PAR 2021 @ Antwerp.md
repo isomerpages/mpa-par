@@ -47,6 +47,8 @@ description: ""
 	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:15px;font-style:normal!important;color:#fff;text-align:left;}
 	.tab>.tab-content>figcaption>h3 {margin:0 0 10px;font-size:16px;font-weight:700;color:#fff;}
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
+	.tab>.tab-content>figcaption>ul>li {margin:0;}
+	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
 </style>
 <div class="par-main">
 	<div class="tab">
