@@ -324,4 +324,22 @@ description: ""
 			</figure>
 		</li>
 	</ul>
+	<h4 class="par-title">ABOUT PAR 2021 @ ANTWERP</h4>
+	<p>The 6th Edition of the Port Authorities Roundtable was held virtually on 22 and 23 June 2021. Due to the COVID-19 situation, the 6th Edition originally scheduled to be held in October 2020 was postponed.</p>
+	<p>Discussions at PAR2021@Antwerp focused on the role of ports in the global supply chain and their leveraging function to impact energy transition, climate change and the digital evolution.</p>
+	<p>Topics for discussion include the 3D’s:</p>
+	<ul>
+		<li>Disruption;</li>
+		<li>Digitalisation; and</li>
+		<li>Decarbonisation.</li>
+	</ul>
+	<figure>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d915747.2685717961!2d3.961122109583489!3d50.65649220872759!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9ca20d08f0cee28c!2sPort%20of%20Antwerp!5e0!3m2!1sen!2ssg!4v1623891311396!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<figcaption>
+			<h4 dir="ltr">Held In</h4>
+			<p>The Antwerp Port Authority has a key role in the port's day-to-day operation. The 1,650 workers make sure the port functions and can grow. The Port Authority manages and maintains the docks, the bridges, the locks, the quay walls and the land. The personnel is also responsible for safe shipping traffic in the docks, the bridges and locks. In addition, the Port Authority provides tugs and cranes, carries out dredging work and promotes the port at home and abroad. With a view to the future, the Port Authority is working on the port's sustainable development and innovation.</p>
+			<p>The Port of Antwerp is a gateway port in Belgium to the European hinterland, via the North Sea. Antwerp is the biggest port area in the world. Over the centuries, the area grew to exactly 12,068 hectares, or about 20,000 football fields. Port of Antwerp has two terminals, with the first built on the right bank. The North sea terminal and the Euro terminal were the first two in front of the locks. This made the port that little bit bigger again. On the left bank, without a lock, a new dock of no less than 4.5 kilometres was built on the river side too: the Deurganck dock. The largest tidal dock in the world, this is also one for the record books. The Deurganck dock will soon have a twin brother. Shipping continues to increase in scale, while container traffic continues to grow year on year. To continue playing its role as an international port and economic engine, the port of Antwerp must grow with it.</p>
+			<p>In 2020, Antwerp port handled 12m TEUs.</p>
+		</figcaption>
+	</figure>
 </div>
