@@ -73,6 +73,7 @@ description: ""
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
 		.tab>.tab-content {margin:0 0 0 300px!important;}
+		.par-title {font-size:20px;text-align:left;}
 	}
 	@media(min-width:1440px) {
 		.tab {position:relative;height:520px;overflow:hidden;}
