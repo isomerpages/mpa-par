@@ -38,7 +38,6 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 	
-	.tab-nav {display:none;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {}
 	.tab-nav>ul>li>a {color:#fff;text-decoration:none;text-transform:uppercase;}
@@ -52,7 +51,7 @@ description: ""
 </style>
 <div class="par-main">
 	<div class="tab">
-		<div class="tab-nav">
+		<div class="tab-nav is-hidden-touch">
 			<ul>
 				<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 				<li><a href="/past-events/2020">PAR 2020</a></li>
