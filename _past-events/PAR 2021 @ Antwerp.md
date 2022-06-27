@@ -43,6 +43,7 @@ description: ""
 	.tab-nav>ul>li+li {border-top:1px solid #fff;}
 	.tab-nav>ul>li>a {display:block;padding:20px;margin:0;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab-nav>ul>li>a:hover, .tab-nav>ul>li>a:focus {color:#fff;text-decoration:none;}
+	.tab-nav>ul>li.active>a {background:#0fa678;}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
 	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;font-style:normal!important;color:#fff;text-align:left;}
