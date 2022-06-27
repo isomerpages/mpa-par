@@ -19,6 +19,8 @@ description: ""
 	#main-content .bp-container .col {padding:0;}
 	#main-content .col.is-8 {width:100%;margin:0;}
 	#main-content .col.is-2.has-side-nav {display:none;}
+	#main-content .bp-dropdown-button {background:#0fa678;color:#fff;text-transform: uppercase;}
+	#main-content .bp-dropdown-button:hover, #main-content .bp-dropdown-button:focus {color:#fff;text-decoration:none;}
 	@media(min-width:1280px) {
 		.mobile {display:none!important;}
 		.desktop {display:block!important;}
