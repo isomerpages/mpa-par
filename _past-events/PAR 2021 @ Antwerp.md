@@ -56,6 +56,8 @@ description: ""
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
 		.tab-nav {display:block;}
+		.tab>.tab-content {padding:0 0 0 300px;}
+		.tab>.tab-content>figcaption {left:300px;}
 	}
 </style>
 <div class="par-main">
