@@ -60,6 +60,12 @@ description: ""
 		.tab-nav {display:block;}
 		.tab>.tab-content {margin:0 0 0 300px!important;}
 	}
+	@media(min-width:1440px) {
+		.tab {position:relative;height:520px;overflow:hidden;}
+		.tab-nav {width:375px;}
+		.tab-nav>ul>li>a {height:130px;}
+		.tab>.tab-content {margin:0 0 0 375px!important;}
+	}
 </style>
 <div class="par-main">
 	<div class="tab">
