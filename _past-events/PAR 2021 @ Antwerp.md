@@ -46,7 +46,7 @@ description: ""
 	.tab-nav>ul>li>a {position:relative;display:block;height:96px;padding:15px 30px;margin:0;font-size:20px;font-weight:700;background:#002b5f;color:#fff;text-decoration:none;text-transform:uppercase;}
 	.tab-nav>ul>li>a:hover, .tab-nav>ul>li>a:focus {color:#fff;text-decoration:none;}
 	.tab-nav>ul>li.active>a {background:#0fa678;}
-	.tab-nav>ul>li.active>a:before {position:absolute;display:block;content:'';border-style: solid;border-width: 37.5px 0 37.5px 50px;border-color: transparent transparent transparent #fff;}
+	.tab-nav>ul>li.active>a:before {position:absolute;display:block;content:'';top:50%;right:10px;border-style: solid;border-width:10px 0 10px 15px;border-color: transparent transparent transparent #fff;transform:translateY(-50%);}
 	.tab>.tab-content {position:relative;margin:0!important;border:0;}
 	.tab>.tab-content>img.overlay {position:absolute;top:0;left:0;}
 	.tab>.tab-content>figcaption {position:absolute;bottom:0;left:0;padding:20px;font-style:normal!important;color:#fff;text-align:left;}
