@@ -38,8 +38,7 @@ description: ""
 		.par-main {max-width:1280px;}
 	}
 	
-	.tab {position:relative;height:385px;overflow:hidden;}
-	.tab-nav {position:absolute;width:300px;z-index:9;overflow-y:auto;height:385px;}
+	.tab-nav {position:absolute;display:none;width:300px;z-index:9;overflow-y:auto;height:385px;}
 	.tab-nav>ul {list-style:none;padding:0;margin:0;}
 	.tab-nav>ul>li {margin:0!important;}
 	.tab-nav>ul>li+li {border-top:1px solid #fff;}
@@ -53,10 +52,15 @@ description: ""
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
 	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
+	
+	@media(min-width:1024px) {
+		.tab {position:relative;height:385px;overflow:hidden;}
+		.tab-nav {display:block;}
+	}
 </style>
 <div class="par-main">
 	<div class="tab">
-		<div class="tab-nav is-hidden-touch">
+		<div class="tab-nav">
 			<ul>
 				<li class="active"><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 				<li><a href="/past-events/2020">PAR 2020</a></li>
