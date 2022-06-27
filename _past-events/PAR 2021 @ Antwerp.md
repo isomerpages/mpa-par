@@ -66,7 +66,8 @@ description: ""
 	.par-delegate>figcaption>strong {display:block;}
 	.par-map {display:flex;flex-wrap:wrap;background:#e3e3e3;}
 	.par-map>iframe {width:100%;}
-	.par-map>figcaption {width:100%;padding:10px 30px 30px;}
+	.par-map>figcaption {width:100%;padding:30px;}
+	.par-map>figcaption>h4 {font-size:14px;font-weight:700;color:#0071c0!important;}
 	@media(min-width:768px) {
 		.par-delegate-list>li {width:50%;}
 		.par-delegate>figcaption {padding:0 15px 0 75px;}
@@ -80,6 +81,7 @@ description: ""
 		.tab>.tab-content {margin:0 0 0 300px!important;}
 		.par-title {font-size:20px;text-align:left;}
 		.par-map>iframe, .par-map>figcaption {width:50%;}
+		.par-map>figcaption>h4 {font-size:20px;}
 	}
 	@media(min-width:1440px) {
 		.tab {position:relative;height:520px;overflow:hidden;}
