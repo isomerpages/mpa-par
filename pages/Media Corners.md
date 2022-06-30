@@ -108,7 +108,7 @@ description: ""
 				<div class="media-title">LNG Bunkering Port Focus Group Strengthened Through Addition of Port of Ningbo-Zhousan, Port of Marseille Fos and Port of Vancouver</div>
 			</div>
 			<div class="media-link">
-				<a href="#" target="_blank">View</a>
+				<a href="/files/MediaCorners/press-release-expansion-of-focus-group-latest-v5a-final.pdf" target="_blank">View</a>
 			</div>
 		</div>
 		<div class="entry">
