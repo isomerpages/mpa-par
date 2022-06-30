@@ -58,7 +58,7 @@ description: ""
 	.tab>.tab-content>figcaption>ul {list-style:none;padding:0;margin:0;}
 	.tab>.tab-content>figcaption>ul>li {margin:0;}
 	.tab>.tab-content>figcaption>ul>li>i {margin:0 15px 0 0;}
-	.par-title {margin:0 0 20px;font-size:14px;font-weight:700;color:#0071c0!important;text-align:center;text-transform:uppercase;}
+	.par-title {margin:40px 0 20px!important;font-size:14px;font-weight:700;color:#0071c0!important;text-align:center;text-transform:uppercase;}
 	.par-delegate-list {display:flex;flex-wrap:wrap;list-style:none!important;padding:0;margin:0!important;}
 	.par-delegate-list>li {width:100%;margin:0;}
 	.par-delegate {position:relative;}
