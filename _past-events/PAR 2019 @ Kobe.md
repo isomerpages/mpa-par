@@ -113,9 +113,9 @@ description: ""
 			<figcaption>
 				<h3>PAR 2021 @ Antwerp</h3>
 				<ul>
-					<li><i class="sgds-icon sgds-icon-calendar"></i>22 - 23 June 2021</li>
-					<li><i class="sgds-icon sgds-icon-clock"></i>1.00pm (CET) - 5.00pm (CET)</li>
-					<li><i class="sgds-icon sgds-icon-place"></i>Virtual</li>
+					<li><i class="sgds-icon sgds-icon-calendar"></i>16 October 2019</li>
+					<li><i class="sgds-icon sgds-icon-clock"></i>8:30am - 6.15pm</li>
+					<li><i class="sgds-icon sgds-icon-place"></i>Kobe Meriken Park Oriental Hotel, 4F Ginga</li>
 				</ul>
 			</figcaption>
 		</figure>
