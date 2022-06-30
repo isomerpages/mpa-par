@@ -63,7 +63,7 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/mohamed-juma-al-shamisi.jpeg">
+					<img src="/images/Event2022/Delegation/mohamed-juma-al-shamisi.jpeg" alt="Captain Mohamed Juma Al Shamisi">
 				</div>
 				<h5>Captain Mohamed Juma Al Shamisi, Managing Director and Group CEO, AD Ports Group - Opening Address</h5>
 				<div class="icon-wrapper">
@@ -77,10 +77,9 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/omar-bin-talal-hariri.jpg">
+					<img src="/images/Event2022/Delegation/omar-bin-talal-hariri.jpg" alt="H.E. Omar bin Talal Hariri">
 				</div>
 				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
-				<div class="org-logo"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -92,7 +91,7 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled>
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/he-suhail-mohamed-al-mazrouei.jpg">
+					<img src="/images/Event2022/Delegation/he-suhail-mohamed-al-mazrouei.jpg" alt="H.E. Suhail Mohamed Al Mazrouei">
 				</div>
 				<h5>H.E. Suhail Mohamed Al Mazrouei, Minister of Energy and Infrastructure, United Arab Emirates - Welcome Address</h5>
 				<div class="icon-wrapper">
@@ -106,10 +105,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/farhan-al-fartosi.jpg">
+					<img src="/images/Event2022/Delegation/farhan-al-fartosi.jpg" alt="Dr. Farhan Al Fartosi">
 				</div>
 				<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-iraq.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-iraq.jpg" alt="Port of Iraq"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -131,10 +130,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/essam-al-sheibany.jpg">
+					<img src="/images/Event2022/Delegation/essam-al-sheibany.jpg" alt="Mr Essam Al Sheibany">
 				</div>
 				<h5>Mr Essam Al Sheibany, Vice President, Sustainability, ASYAD Group</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-asyad.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-asyad.png" alt="Port of ASYAD"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -153,10 +152,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/hiroyuki-saito.jpg">
+					<img src="/images/Event2022/Delegation/hiroyuki-saito.jpg" alt="Mr Hiroyuki Saito">
 				</div>
 				<h5>Mr Hiroyuki Saito, Director General, Environmental Policy in Port and Airport, Port and Harbour Bureau, Kobe City Government</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-kobe.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-kobe.jpg" alt="Port of Kobe"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -175,10 +174,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/jordi-torrent.jpg">
+					<img src="/images/Event2022/Delegation/jordi-torrent.jpg" alt="Mr Jordi Torrent">
 				</div>
 				<h5>Mr Jordi Torrent, Strategy Director, Port of Barcelona</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-vector-port-de-barcelona.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-vector-port-de-barcelona.jpg" alt="Port of Barcelona"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -198,10 +197,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/koo-ja-rim.jpg">
+					<img src="/images/Event2022/Delegation/koo-ja-rim.jpg" alt="Mr Koo Ja-rim">
 				</div>
 				<h5>Mr Koo Ja-rim, Vice President, Global Business Division, Busan Port Authority</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-busan.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-busan.png" alt="Port of Busan"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -222,10 +221,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/luc-arnouts.jpg">
+					<img src="/images/Event2022/Delegation/luc-arnouts.jpg" alt="Mr Luc Arnouts">
 				</div>
 				<h5>Mr Luc Arnouts, Vice President - Director International Relations and Networks, Antwerp-Bruges Port Authority</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-antwerp.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-antwerp.png" alt="Port of Antwerp"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -249,10 +248,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/othman-siddeq-mohamed-al-khoori.jpg">
+					<img src="/images/Event2022/Delegation/othman-siddeq-mohamed-al-khoori.jpg" alt="Mr Othman Siddeq Mohamed Al Khoori"/>
 				</div>
 				<h5>Mr Othman Siddeq Mohamed Al Khoori, Acting Executive Director - Corporate Authority, Abu Dhabi Ports Group</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-abu-dhabi.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-abu-dhabi.jpg" alt="Port of Abu Dhabi"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -275,10 +274,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/rayan-albkri.jpg">
+					<img src="/images/Event2022/Delegation/rayan-albkri.jpg" alt="Mr Rayan Albakri"/>
 				</div>
 				<h5>Mr Rayan Albakri, Advisor to the President, Saudi Ports Authority (MAWANI)</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-saudi.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-saudi.jpg" alt="Port of Saudi"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -296,10 +295,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/rene-van-der-plas.jpg">
+					<img src="/images/Event2022/Delegation/rene-van-der-plas.jpg" alt="Mr René van der Plas"/>
 				</div>
 				<h5>Mr René van der Plas, Director, Port of Rotterdam International, Port of Rotterdam Authority</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-rotterdam.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-rotterdam.jpg" alt="Port of Rotterdam"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -324,10 +323,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/stephen-p-metruck.jpg">
+					<img src="/images/Event2022/Delegation/stephen-p-metruck.jpg" alt="Mr Stephen P. Metruck"/>
 				</div>
 				<h5>Mr Stephen P. Metruck, Executive Director, Port of Seattle</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-seattle.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-seattle.png" alt="Port of Seattle"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -347,10 +346,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/sun-lei.jpg">
+					<img src="/images/Event2022/Delegation/sun-lei.jpg" alt="Mr Sun Lei"/>
 				</div>
 				<h5>Mr Sun Lei, Deputy Director, Port and Shipping Division, Ningbo Municipal Port Administration Bureau</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-ningbo.png" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-ningbo.png" alt="Port of Ningbo"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -368,10 +367,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/jing-yan.jpg">
+					<img src="/images/Event2022/Delegation/jing-yan.jpg" alt="Ms Jing Yan"/>
 				</div>
 				<h5>Ms Jing Yan, Director, Shipping Division, Shanghai Municipal Transportation Commissions</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-shanghai.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-shanghai.jpg" alt="Port of Shanghai"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -389,10 +388,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/quah-ley-hoon.jpg">
+					<img src="/images/Event2022/Delegation/quah-ley-hoon.jpg" alt="Ms Quah Ley Hoon"/>
 				</div>
 				<h5>Ms Quah Ley Hoon, Chief Executive, Maritime and Port Authority of Singapore</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-mpa.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-mpa.jpg" alt="Port of Singapore"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -413,10 +412,10 @@ description: ""
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img src="/images/Event2022/Delegation/yuan-yue.jpg">
+					<img src="/images/Event2022/Delegation/yuan-yue.jpg" alt="Ms Yuan Yue"/>
 				</div>
 				<h5>Ms Yuan Yue, Deputy Director-General, Guangzhou Port Authority</h5>
-				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-guangzhou.jpg" /></div>
+				<div class="org-logo"><img src="/images/Event2022/LogoOfPorts/logo-guangzhou.jpg" alt="Port of Guangzhou"/></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
