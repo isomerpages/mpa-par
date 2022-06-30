@@ -69,11 +69,11 @@ description: ""
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage overlay" />
-		<img src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage overlay" />
+		<img class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay" />
+		<img src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner" />
 	</div>
 	<div class="desktop">
-		<img class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Banner" />
+		<img class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay" />
 		<img src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner" />
 	</div>
 	<figcaption>
@@ -126,7 +126,7 @@ description: ""
 		</div>
 	</div>
 	<div class="par-global">
-		<img class="mobile" src="/images/Homepage/map-m.png" />
-		<img class="desktop" src="/images/Homepage/map-d.png" />
+		<img class="mobile" src="/images/Homepage/map-m.png" alt="Map of PAR" />
+		<img class="desktop" src="/images/Homepage/map-d.png" alt="Map of PAR" />
 	</div>
 </div>
