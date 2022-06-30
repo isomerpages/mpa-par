@@ -296,8 +296,8 @@ description: ""
 			<p><a href="http://polb.com/about/default.asp" target="_blank">http://polb.com/about/default.asp</a></p>
 		</figcaption>
 	</figure>
-	<h4 class="par-title">Image Gallery</h4>
 	<div class="par-gallery">
+		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
 			<li><img src="/images/Event2018/par-2018-photogallery.jpg" alt="Photo Gallery 2018"></li>
 		</ul>
