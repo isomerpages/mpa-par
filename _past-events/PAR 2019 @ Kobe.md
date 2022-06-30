@@ -66,6 +66,7 @@ description: ""
 	.par-delegate>figcaption {padding:0 0 0 75px;min-height:60px;}
 	.par-delegate>figcaption>h5 {margin:0;font-size:14px;font-weight:700;color:#0071c0;}
 	.par-delegate>figcaption>strong {display:block;}
+	.par-delegate>figcaption>p {font-size:12px;}
 	.par-map {display:flex;flex-wrap:wrap;background:#e3e3e3;}
 	.par-map>iframe {width:100%;}
 	.par-map>figcaption {width:100%;padding:30px;}
