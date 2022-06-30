@@ -75,6 +75,9 @@ description: ""
 	.par-gallery>ul {display:flex;flex-wrap:wrap;list-style:none;padding:0;margin:0;}
 	.par-gallery>ul>li {width:100%;padding:0 5px;}
 	.par-gallery>ul>li>img {border: 7px solid #f2f2f2;}
+	@media(min-width:480px) {
+		.par-gallery>ul>li {width:50%;}
+	}
 	@media(min-width:768px) {
 		.par-delegate-list>li {width:50%;}
 		.par-delegate>figcaption {padding:0 15px 0 75px;}
