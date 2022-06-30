@@ -111,7 +111,7 @@ description: ""
 			<img src="/images/Event2019/bg-past-events-m.jpg" class="is-hidden-desktop"/>
 			<img src="/images/Event2019/bg-past-events-d.jpg" class="is-hidden-touch"/>
 			<figcaption>
-				<h3>PAR 2021 @ Antwerp</h3>
+				<h3>PAR 2019 @ Kobe</h3>
 				<ul>
 					<li><i class="sgds-icon sgds-icon-calendar"></i>16 October 2019</li>
 					<li><i class="sgds-icon sgds-icon-clock"></i>8:30am - 6.15pm</li>
