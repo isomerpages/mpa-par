@@ -71,12 +71,18 @@ description: ""
 	.par-map>iframe {width:100%;}
 	.par-map>figcaption {width:100%;padding:30px;}
 	.par-map>figcaption>h4 {font-size:14px;font-weight:700;color:#0071c0!important;text-transform:uppercase;}
+	.par-gallery {position:relative;}
+	.par-gallery>ul {display:flex;flex-wrap:wrap;list-style:none;padding:0;margin:0;}
+	.par-gallery>ul>li {width:100%;padding:0 5px;}
+	.par-gallery>ul>li>img {border: 7px solid #f2f2f2;}
 	@media(min-width:768px) {
 		.par-delegate-list>li {width:50%;}
 		.par-delegate>figcaption {padding:0 15px 0 75px;}
+		.par-gallery>ul>li {width:33.3333%;}
 	}
 	@media(min-width:992px) {
 		.par-delegate-list>li {width:25%;}
+		.par-gallery>ul>li {width:25%;}
 	}
 	@media(min-width:1024px) {
 		.tab {position:relative;height:385px;overflow:hidden;}
@@ -286,8 +292,8 @@ description: ""
 			<p><a href="http://polb.com/about/default.asp" target="_blank">http://polb.com/about/default.asp</a></p>
 		</figcaption>
 	</figure>
+	<h4 class="par-title">Image Gallery</h4>
 	<div class="par-gallery">
-		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
 			<li><img src="/images/Event2018/par-2018-photogallery.jpg" alt="Photo Gallery 2018"></li>
 		</ul>
