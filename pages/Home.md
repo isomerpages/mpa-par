@@ -69,12 +69,12 @@ description: ""
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img class="overlay" src="/images/Homepage/overlay-m.png" />
-		<img src="/images/Homepage/bg-homepage-m.jpg" />
+		<img class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage overlay" />
+		<img src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage overlay" />
 	</div>
 	<div class="desktop">
-		<img class="overlay" src="/images/Homepage/overlay-d.png" />
-		<img src="/images/Homepage/bg-homepage-d.jpg" />
+		<img class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Banner" />
+		<img src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner" />
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
@@ -91,8 +91,8 @@ description: ""
 		<div class="entry">
 			<a href="/head-of-delegation">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" />
-					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" />
+					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation" />
+					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation" />
 					<figcaption>
 						<h4>Head of <br/>Delegation</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
@@ -103,8 +103,8 @@ description: ""
 		<div class="entry">
 			<a href="/agenda">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" />
-					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" />
+					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda" />
+					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda" />
 					<figcaption>
 						<h4>Event <br/>Agenda</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
@@ -115,8 +115,8 @@ description: ""
 		<div class="entry">
 			<a href="/about">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" />
-				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" />
+					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR" />
+				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR" />
 					<figcaption>
 						<h4>About the Host <br/>Port Authority</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
