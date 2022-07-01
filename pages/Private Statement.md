@@ -8,7 +8,8 @@ description: ""
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
 	a[href$=".pdf"] {margin-left:0;}
 	a[href$=".pdf"]:before {display:none;}
-	.content p, .content ol, .content ul, .content li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
+	.content p, .content li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
+	.content ol, .content ul {margin:0 0 15px 15px;font-size:inherit;line-height:inherit;}
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	.navbar-end, .is-search-bar {display:none;}
