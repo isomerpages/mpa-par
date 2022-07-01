@@ -257,10 +257,10 @@ description: ""
 	<div class="par-gallery">
 		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
-			<li><img src="/images/Event2016/par-2016-photogallery-1.png" alt="Photo Gallery 2016"></li>
-			<li><img src="/images/Event2016/par-2016-photogallery-2.jpg" alt="Photo Gallery 2016"></li>
-			<li><img src="/images/Event2016/par-2016-photogallery-3.jpg" alt="Photo Gallery 2016"></li>
-			<li><img src="/images/Event2016/par-2016-photogallery-4.png" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/photogallery-1.png" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/photogallery-2.jpg" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/photogallery-3.jpg" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/photogallery-4.png" alt="Photo Gallery 2016"></li>
 		</ul>
 		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/sets/72157674792137082" target="_blank">View Full Album</a></div>
 	</div>
