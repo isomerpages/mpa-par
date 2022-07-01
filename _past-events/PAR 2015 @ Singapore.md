@@ -250,8 +250,8 @@ description: ""
 		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
 			<li><img src="/images/Event2015/photogallery-1.png" alt="Photo Gallery 2015"></li>
-			<li><img src="/images/Event2015/photogallery-2.jpg" alt="Photo Gallery 2015"></li>
-			<li><img src="/images/Event2015/photogallery-3.jpg" alt="Photo Gallery 2015"></li>
+			<li><img src="/images/Event2015/photogallery-2.png" alt="Photo Gallery 2015"></li>
+			<li><img src="/images/Event2015/photogallery-3.png" alt="Photo Gallery 2015"></li>
 			<li><img src="/images/Event2015/photogallery-4.png" alt="Photo Gallery 2015"></li>
 		</ul>
 		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/sets/72157674792445302" target="_blank">View Full Album</a></div>
