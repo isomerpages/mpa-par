@@ -273,9 +273,9 @@ description: ""
 	<div class="par-gallery">
 		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
-			<li><img src="/images/Event2017/par-2017-photogallery-1.jpg" alt="Photo Gallery 2017"></li>
-			<li><img src="/images/Event2017/par-2017-photogallery-2.jpg" alt="Photo Gallery 2017"></li>
-			<li><img src="/images/Event2017/par-2017-photogallery-3.jpg" alt="Photo Gallery 2017"></li>
+			<li><img src="/images/Event2017/photogallery-1.jpg" alt="Photo Gallery 2017"></li>
+			<li><img src="/images/Event2017/photogallery-2.jpg" alt="Photo Gallery 2017"></li>
+			<li><img src="/images/Event2017/photogallery-3.jpg" alt="Photo Gallery 2017"></li>
 		</ul>
 		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/albums/72157669605630518" target="_blank">View Full Album</a></div>
 	</div>
