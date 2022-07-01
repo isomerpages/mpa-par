@@ -9,7 +9,7 @@ description: ""
 	a[href$=".pdf"] {margin-left:0;}
 	a[href$=".pdf"]:before {display:none;}
 	.content p, .content li {margin:0 0 15px;font-size:inherit;line-height:inherit;}
-	.content ol, .content ul {margin:0 0 15px 15px;font-size:inherit;line-height:inherit;}
+	.content ol, .content ul {margin:0 0 15px 15px!important;font-size:inherit;line-height:inherit;}
 	.mobile {display:block!important;}
 	.desktop {display:none!important;}
 	.navbar-end, .is-search-bar {display:none;}
