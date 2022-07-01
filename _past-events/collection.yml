@@ -2,10 +2,10 @@ collections:
   past-events:
     output: true
     order:
-      - PAR 2015 @ Singapore.md
-      - PAR 2016 @ Rotterdam.md
-      - PAR 2017 @ Ningbo.md
       - PAR 2021 @ Antwerp.md
       - PAR 2020.md
       - PAR 2019 @ Kobe.md
       - PAR 2018 @ Long Beach.md
+      - PAR 2017 @ Ningbo.md
+      - PAR 2016 @ Rotterdam.md
+      - PAR 2015 @ Singapore.md
