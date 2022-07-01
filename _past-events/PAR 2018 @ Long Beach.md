@@ -299,7 +299,7 @@ description: ""
 	<div class="par-gallery">
 		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
-			<li><img src="/images/Event2018/par-2018-photogallery.jpg" alt="Photo Gallery 2018"></li>
+			<li><img src="/images/Event2018/photogallery.jpg" alt="Photo Gallery 2018"></li>
 		</ul>
 		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/albums/72157671482230298" target="_blank">View Full Album</a></div>
 	</div>
