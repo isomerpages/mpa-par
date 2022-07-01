@@ -113,7 +113,7 @@ description: ""
 			</a>
 		</div>
 		<div class="entry">
-			<a href="/about">
+			<a href="/about-the-host-port-authority">
 				<figure>
 					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR" />
 				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR" />
