@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - PAR 2017 @ Ningbo.md
       - PAR 2021 @ Antwerp.md
       - PAR 2020.md
       - PAR 2019 @ Kobe.md
