@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - PAR 2015 @ Singapore.md
       - PAR 2016 @ Rotterdam.md
       - PAR 2017 @ Ningbo.md
       - PAR 2021 @ Antwerp.md
