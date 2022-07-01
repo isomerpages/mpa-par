@@ -252,16 +252,15 @@ description: ""
 			<h4 dir="ltr">Held In</h4>
 			<p>The Port of Rotterdam is the largest port in Europe, located in the city of Rotterdam, Netherlands. In 2011, Rotterdam was the world's eleventh-largest container port in terms of twenty-foot equivalent units (TEU) handled (2009: tenth; 2008: ninth, 2006: sixth). In 2012 Rotterdam was the world's sixth-largest port in terms of annual cargo tonnage.</p>
 			<p>World Port Center (WPC)<br>Wilhelminakade 909<br>3072 AP Rotterdam<br>The Netherlands</p>
-			<p><a href="http://www.nbjt.gov.cn/" target="_blank">www.nbjt.gov.cn</a></p>
 		</figcaption>
 	</figure>
 	<div class="par-gallery">
 		<h4 class="par-title">Image Gallery</h4>
 		<ul class="clearfix">
-			<li><img src="/images/Event2016/par-2016-photogallery-1.jpg" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/par-2016-photogallery-1.png" alt="Photo Gallery 2016"></li>
 			<li><img src="/images/Event2016/par-2016-photogallery-2.jpg" alt="Photo Gallery 2016"></li>
 			<li><img src="/images/Event2016/par-2016-photogallery-3.jpg" alt="Photo Gallery 2016"></li>
-			<li><img src="/images/Event2016/par-2016-photogallery-4.jpg" alt="Photo Gallery 2016"></li>
+			<li><img src="/images/Event2016/par-2016-photogallery-4.png" alt="Photo Gallery 2016"></li>
 		</ul>
 		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/sets/72157674792137082" target="_blank">View Full Album</a></div>
 	</div>
