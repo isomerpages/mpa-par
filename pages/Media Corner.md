@@ -3,7 +3,6 @@ title: Media Corner
 permalink: /media-corner
 description: ""
 ---
-
 <style>
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
@@ -57,7 +56,7 @@ description: ""
 				<div class="media-title">Maritime Sector "Entering New Era of Challenge and Opportunity," say Leaders at Port Authorities Roundtable</div>
 			</div>
 			<div class="media-link">
-				<a href="https://www.adportsgroup.com/en/news-detail?id=-42" target="_blank">View</a>
+				<a href="https://www.adportsgroup.com/en/news-and-media/2022/06/01/maritime-sector-entering-new-era-of-challenge-and-opportunity-say-leaders-at-port-authorities-ro" target="_blank">View</a>
 			</div>
 		</div>
 		<div class="entry">
