@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Shared/logo-mpa.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
-    resource_room: true
+  - title: Home
+    url: /
+  - title: Agenda
+    url: /agenda
+  - title: Head of Delegation
+    url: /head-of-delegation
+  - title: Media Corner
+    url: /media-corner
+  - title: Photo Gallery
+    url: https://www.flickr.com/photos/195859929@N06/sets/72177720299735559
+  - title: Past Events
+    collection: past-events
+  - title: PAR Secretariat
+    url: /par-secretariat

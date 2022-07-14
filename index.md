@@ -1,36 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
+title: PAR Forum
 description: Brief site description here
 image: /images/isomer-logo.svg
-permalink: /
-notification: Here's a notification bar you can use!
+permalink: /home1
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Port Authorities Roundtable
+      subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
+        Trade Together
+      background: /images/Homepage/bg-homepage-d.jpg
+  - infobar:
+      title: What is PAR?
+      description: The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group,
+        will be held from 31 May to 2 June 2022.
+  - infopic:
+      title: Head of Delegation
+      button: Find out more
+      url: /head-of-delegation
+      image: /images/Homepage/bg-head-of-delegation-d.jpg
+      alt: thumbnail-head-of-delegation
+  - infopic:
+      title: Event Agenda
+      button: Find out more
+      url: /agenda
+      image: /images/Homepage/bg-event-d.jpg
+      alt: thumbnail-event-agenda
+  - infopic:
+      title: About the Host Port Authority
+      button: Find out more
+      url: /about
+      image: /images/Homepage/bg-about-d.jpg
+      alt: thumbnail-about
+  - infopic:
+      image: /images/Homepage/map-d.png
+      alt: Image alt text
 ---
-
