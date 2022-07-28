@@ -33,6 +33,4 @@ sections:
       url: /about
       image: /images/Homepage/bg-about-d.jpg
       alt: thumbnail-about
-  - hero:
-      background: /images/Homepage/map-d.png
 ---
