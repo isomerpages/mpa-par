@@ -12,7 +12,6 @@ sections:
       subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
         Trade Together
       background: /images/Homepage/homepage-opt-with-overlay.jpg
-  - infobar:
-      button: Read More
+      button: Read more
       url: /home
 ---
