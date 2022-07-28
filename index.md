@@ -36,4 +36,9 @@ sections:
   - infopic:
       image: /images/Homepage/map-d.png
       alt: Image alt text
+  - hero:
+      title: Port Authorities Roundtable
+      subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
+        Trade Together
+      background: /images/Homepage/bg-homepage-d.jpg
 ---
