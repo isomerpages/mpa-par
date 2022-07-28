@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: PAR Forum
-description: Brief site description here
+description: "Port Authorities Roundtable (PAR) is a by-invitation event for
+  CEO/Chairman/President/DG of leading port authorities. "
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -37,3 +38,4 @@ sections:
       image: /images/Homepage/map-d.png
       alt: PAR Map
 ---
+
