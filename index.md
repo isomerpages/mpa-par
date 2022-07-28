@@ -33,4 +33,7 @@ sections:
       url: /about
       image: /images/Homepage/bg-about-d.jpg
       alt: thumbnail-about
+  - infopic:
+      image: /images/Homepage/map-d.png
+      alt: PAR Map
 ---
