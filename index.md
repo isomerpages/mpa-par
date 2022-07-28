@@ -11,7 +11,9 @@ sections:
       title: Port Authorities Roundtable
       subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
         Trade Together
-      background: /images/Homepage/bg-homepage-m.jpg
-      button: Read more
-      url: /home
+      background: /images/Homepage/homepage-opt-with-overlay.jpg
+      key_highlights:
+        - title: Read more
+          description: ""
+          url: /home
 ---
