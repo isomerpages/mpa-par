@@ -3,7 +3,7 @@ layout: homepage
 title: PAR Forum
 description: Brief site description here
 image: /images/isomer-logo.svg
-permalink: /home1
+permalink: /
 notification: ""
 sections:
   - hero:
