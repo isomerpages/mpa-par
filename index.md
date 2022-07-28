@@ -31,11 +31,10 @@ sections:
   - infopic:
       title: About the Host Port Authority
       button: Find out more
-      url: /about
+      url: /about-the-host-port-authority
       image: /images/Homepage/bg-about-d.jpg
       alt: thumbnail-about
   - infopic:
       image: /images/Homepage/map-d.png
       alt: PAR Map
 ---
-
