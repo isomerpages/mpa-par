@@ -16,4 +16,6 @@ sections:
         - title: Read more
           description: ""
           url: /home
+      button: Read more
+      url: /home
 ---
