@@ -1,2 +1,6 @@
 show_reach: false
-social_media: {}
+social_media:
+  facebook: ""
+  linkedin: ""
+  twitter: ""
+  youtube: https://www.youtube.com/user/mpasmw
