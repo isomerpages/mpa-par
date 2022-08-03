@@ -1,39 +1,18 @@
 ---
 layout: homepage
 title: PAR Forum
-description: Brief site description here
+description: "Port Authorities Roundtable (PAR) is a by-invitation event for
+  CEO/Chairman/President/DG of leading port authorities. "
 image: /images/isomer-logo.svg
-permalink: /home1
+permalink: /
 notification: ""
 sections:
   - hero:
       title: Port Authorities Roundtable
-      subtitle: PAR2022@Abu Dhabi | 31 May to 2 June 2022 Reimagining a New Era of
-        Trade Together
-      background: /images/Homepage/bg-homepage-d.jpg
-  - infobar:
-      title: What is PAR?
-      description: The 7th Edition PAR2022@Abu Dhabi, hosted by Abu Dhabi Ports Group,
-        will be held from 31 May to 2 June 2022.
-  - infopic:
-      title: Head of Delegation
-      button: Find out more
-      url: /head-of-delegation
-      image: /images/Homepage/bg-head-of-delegation-d.jpg
-      alt: thumbnail-head-of-delegation
-  - infopic:
-      title: Event Agenda
-      button: Find out more
-      url: /agenda
-      image: /images/Homepage/bg-event-d.jpg
-      alt: thumbnail-event-agenda
-  - infopic:
-      title: About the Host Port Authority
-      button: Find out more
-      url: /about
-      image: /images/Homepage/bg-about-d.jpg
-      alt: thumbnail-about
-  - infopic:
-      image: /images/Homepage/map-d.png
-      alt: Image alt text
+      subtitle: A platform of choice for port authorities to exchange best practices,
+        discuss issues of common interest and build mutually beneficial
+        collaboration.
+      background: /images/Homepage/homepage-opt-with-overlay.jpg
+      button: Read more
+      url: /home
 ---

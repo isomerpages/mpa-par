@@ -45,7 +45,7 @@ description: ""
 	.speaker-img-wrapper {display:table;width:100%;background: #fff;}
 	.speaker-img-wrapper > div, .speaker-img-wrapper h5 {display: table-cell;vertical-align: middle;}
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
-	.speaker-img-wrapper h5 {padding:0 15px;font-size:12px;font-weight:700;line-height:1.2;}
+	.speaker-img-wrapper h5 {padding:0 15px;font-size:12px;font-weight:700;line-height:1.2;color:#0071c0;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
 	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
 	.speaker-img-wrapper .icon-wrapper {width:30px;color: #0fa678;}

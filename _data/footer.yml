@@ -1,3 +1,6 @@
 show_reach: false
-feedback: null
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/MPA.SG/
+  linkedin: https://www.linkedin.com/company/maritime-and-port-authority-of-singapore
+  twitter: https://twitter.com/MPA_Singapore
+  youtube: https://www.youtube.com/user/mpasmw
