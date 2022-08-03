@@ -1,8 +1,9 @@
 ---
-title: PAR 2020
+title: PAR COVID 19 Declaration
 permalink: /past-events/2020
 description: ""
 ---
+
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
@@ -108,7 +109,7 @@ description: ""
 		<div class="tab-nav">
 			<ul>
 				<li><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
-				<li class="active"><a href="/past-events/2020">PAR 2020</a></li>
+				<li class="active"><a href="/past-events/2020">PAR COVID-19 Declaration</a></li>
 				<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
 				<li><a href="/past-events/2018">PAR 2018 @ Long Beach</a></li>
 				<li><a href="/past-events/2017">PAR 2017 @ Ningbo</a></li>

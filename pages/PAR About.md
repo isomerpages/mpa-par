@@ -52,7 +52,7 @@ description: ""
 	}
 </style>
 <div class="par-main">
-	<p>The 7th Edition of the Port Authorities Roundtable, hosted by Abu Dhabi Ports Group, will be held in Abu Dhabi from 31 May to 2 June 2022.</p>
+	<p>The 7th Edition of the Port Authorities Roundtable, hosted by AD Ports Group, will be held in Abu Dhabi from 31 May to 2 June 2022.</p>
 	<p>The theme for PAR2022@Abu Dhabi is “Reimaging a New Era of Trade Together”. It would be a closed-door, by-invitation event in a roundtable format for the CEO/Chairman/ Director General/President of invited port authorities.</p>
 	<p>Port and shipping, which constitute the crucial part of the global logistics network, are the backbone of international trade and support the innovative development of global supply chain. PAR 2022 will be a platform for strengthened consensus and cooperation amongst stakeholders.</p>
 	<figure class="par-map">
