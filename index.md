@@ -13,6 +13,6 @@ sections:
         discuss issues of common interest and build mutually beneficial
         collaboration.
       background: /images/Homepage/homepage-opt-with-overlay.jpg
-      button: Go to Home
+      button: Find out more
       url: /home
 ---
