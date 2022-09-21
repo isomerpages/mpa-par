@@ -12,7 +12,7 @@ sections:
       subtitle: A platform of choice for port authorities to exchange best practices,
         discuss issues of common interest and build mutually beneficial
         collaboration.
-      background: /images/Homepage/homepage-opt-with-overlay.jpg
-      button: Read more
+      background: /images/Homepage/homepage-opt-with-overlay-v1.jpg
+      button: Find out more
       url: /home
 ---
