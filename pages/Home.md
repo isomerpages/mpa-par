@@ -70,12 +70,12 @@ description: Port Authorities Roundtable (PAR) is a by-invitation event for
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img height="1280" width="1920" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
-		<img height="1280" width="1920" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
+		<img height="390" width="640" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
+		<img height="458" width="751" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
 	</div>
 	<div class="desktop">
-		<img height="1280" width="1920" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
-		<img height="1280" width="1920" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
+		<img height="700" width="1440" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
+		<img height="700" width="1440" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
