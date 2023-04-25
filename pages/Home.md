@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /home
+permalink: /home/
 description: ""
 ---
 <style>
@@ -69,16 +69,16 @@ description: ""
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay" />
-		<img src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner" />
+		<img height="auto" width="auto" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
+		<img height="auto" width="auto" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
 	</div>
 	<div class="desktop">
-		<img class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay" />
-		<img src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner" />
+		<img height="auto" width="auto" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
+		<img height="auto" width="auto" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
-		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br/>Reimagining a New Era of Trade Together</h3>
+		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br>Reimagining a New Era of Trade Together</h3>
 	</figcaption>
 </figure>
 <div class="home-main">
@@ -91,10 +91,10 @@ description: ""
 		<div class="entry">
 			<a href="/head-of-delegation">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation" />
-					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation" />
+					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation">
+					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation">
 					<figcaption>
-						<h4>Head of <br/>Delegation</h4>
+						<h4>Head of <br>Delegation</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -103,10 +103,10 @@ description: ""
 		<div class="entry">
 			<a href="/agenda">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda" />
-					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda" />
+					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda">
+					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda">
 					<figcaption>
-						<h4>Event <br/>Agenda</h4>
+						<h4>Event <br>Agenda</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -115,10 +115,10 @@ description: ""
 		<div class="entry">
 			<a href="/about-the-host-port-authority">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR" />
-				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR" />
+					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR">
+				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR">
 					<figcaption>
-						<h4>About the Host <br/>Port Authority</h4>
+						<h4>About the Host <br>Port Authority</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -126,7 +126,7 @@ description: ""
 		</div>
 	</div>
 	<div class="par-global">
-		<img class="mobile" src="/images/Homepage/map-m.png" alt="Map of PAR" />
-		<img class="desktop" src="/images/Homepage/map-d.png" alt="Map of PAR" />
+		<img class="mobile" src="/images/Homepage/map-m.png" alt="Map of PAR">
+		<img class="desktop" src="/images/Homepage/map-d.png" alt="Map of PAR">
 	</div>
 </div>
