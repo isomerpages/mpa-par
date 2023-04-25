@@ -127,6 +127,6 @@ description: ""
 	</div>
 	<div class="par-global">
 		<img height="500" width="720" class="mobile" src="/images/Homepage/map-m.png" alt="Map of PAR">
-		<img height="452" width="1200" class="desktop" src="/images/Homepage/bg-map-d.png" alt="Map of PAR">
+		<img height="452" width="1200" class="desktop" src="/images/Homepage/bg-map-d.jpg" alt="Map of PAR">
 	</div>
 </div>
