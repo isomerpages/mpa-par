@@ -3,7 +3,7 @@ title: Home
 permalink: /home/
 description: ""
 ---
-<style>
+<style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
 	a[href$=".pdf"] {margin-left:0;}
