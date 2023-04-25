@@ -69,12 +69,12 @@ description: ""
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img height="auto" width="auto" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
-		<img height="auto" width="auto" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
+		<img height="auto" width="100%" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
+		<img height="auto" width="100%" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
 	</div>
 	<div class="desktop">
-		<img height="auto" width="auto" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
-		<img height="auto" width="auto" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
+		<img height="auto" width="100%" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
+		<img height="auto" width="100%" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
