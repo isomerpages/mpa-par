@@ -91,8 +91,8 @@ description: ""
 		<div class="entry">
 			<a href="/head-of-delegation">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation">
-					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation">
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation">
+					<img height="250" width="513" class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation">
 					<figcaption>
 						<h4>Head of <br>Delegation</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
@@ -103,8 +103,8 @@ description: ""
 		<div class="entry">
 			<a href="/agenda">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda">
-					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda">
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda">
+					<img height="250" width="513" class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda">
 					<figcaption>
 						<h4>Event <br>Agenda</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
@@ -115,8 +115,8 @@ description: ""
 		<div class="entry">
 			<a href="/about-the-host-port-authority">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR">
-				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR">
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR">
+				<img height="250" width="513" class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR">
 					<figcaption>
 						<h4>About the Host <br>Port Authority</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
