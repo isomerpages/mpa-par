@@ -247,7 +247,7 @@ description: PAR 2016 @ Rotterdam
 	<p>The 2nd edition of PAR was organized by the Port of Rotterdam Authority. It was held at the Port of Rotterdam from 22 to 24 June 2016. Topics addressed at PAR2016@Rotterdam included safety, security, sustainability and efficiency. PAR2016 was attended by past PAR2015 participants as well as new participants from USA and Europe.</p>
 	
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157501.57954172711!2d4.209246426540697!3d51.91640111180245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c43364d5024c2b%3A0x10e34479d6c9104d!2sPort+of+Rotterdam+Authority!5e0!3m2!1sen!2ssg!4v1498719191297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Rotterdam" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157501.57954172711!2d4.209246426540697!3d51.91640111180245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c43364d5024c2b%3A0x10e34479d6c9104d!2sPort+of+Rotterdam+Authority!5e0!3m2!1sen!2ssg!4v1498719191297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>The Port of Rotterdam is the largest port in Europe, located in the city of Rotterdam, Netherlands. In 2011, Rotterdam was the world's eleventh-largest container port in terms of twenty-foot equivalent units (TEU) handled (2009: tenth; 2008: ninth, 2006: sixth). In 2012 Rotterdam was the world's sixth-largest port in terms of annual cargo tonnage.</p>
