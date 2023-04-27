@@ -289,7 +289,7 @@ description: PAR 2019 @ Kobe
 		<li>Safety and security.</li>
 	</ul>
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31441.268762405194!2d135.20134828331027!3d34.677927778853594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008de17e626a0d%3A0x89c23fe3120d8b8a!2sPort%20of%20Kobe!5e0!3m2!1sen!2ssg!4v1623914215739!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Kobe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31441.268762405194!2d135.20134828331027!3d34.677927778853594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008de17e626a0d%3A0x89c23fe3120d8b8a!2sPort%20of%20Kobe!5e0!3m2!1sen!2ssg!4v1623914215739!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>The Port of Kobe, originally an excellent natural harbor, flourished as a hub of trading during ancient and medieval times. Since 1868, when the port of Kobe opened as a major Japanese international port, it has supported Japanese lives and industries.</p>
