@@ -1,7 +1,7 @@
 ---
 title: Agenda
-permalink: /agenda
-description: ""
+permalink: /agenda/
+description: "Disruption, Digitalisation, Decarbonisation, Diversification "
 ---
 <style>
 	body {font-size:14px;line-height:1.42857143;}

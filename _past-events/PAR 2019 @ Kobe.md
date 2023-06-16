@@ -1,7 +1,7 @@
 ---
 title: PAR 2019 @ Kobe
-permalink: /past-events/2019
-description: ""
+permalink: /past-events/2019/
+description: PAR 2019 @ Kobe
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -117,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2019/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2019/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2019/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2019/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2019 @ Kobe</h3>
 				<ul>
@@ -135,7 +135,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/capt-maktoum-al-houqani.jpg" alt="Capt. Maktoum Al Houqani"/>
+				<img src="/images/Event2019/Delegation/capt-maktoum-al-houqani.jpg" alt="Capt. Maktoum Al Houqani">
 				<figcaption>
 					<h5>Capt. Maktoum Al Houqani</h5>
 					<p>Chief Corporate Authority Officer, Abu Dhabi Ports</p>
@@ -144,26 +144,26 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/chen-siyong.png" alt="Chen Siyong"/>
+				<img src="/images/Event2019/Delegation/chen-siyong.png" alt="Chen Siyong">
 				<figcaption>
 					<h5>Chen Siyong</h5>
-					<p>Deputy Director-General (R&D) of Guangzhou Port Authority</p>
+					<p>Deputy Director-General (R&amp;D) of Guangzhou Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/fox-chu.png" alt="Fox Chu"/>
+				<img src="/images/Event2019/Delegation/fox-chu.png" alt="Fox Chu">
 				<figcaption>
 					<h5>Fox Chu</h5>
 					<strong>Guest Speaker</strong>
-					<p>Partner, Hong Kong Office, Mckinsey & Company</p>
+					<p>Partner, Hong Kong Office, Mckinsey &amp; Company</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/ge-geng-jian.jpg" alt="Ge Gengjian"/>
+				<img src="/images/Event2019/Delegation/ge-geng-jian.jpg" alt="Ge Gengjian">
 				<figcaption>
 					<h5>Ge Gengjian</h5>
 					<p>Director-General, Ningbo Port and Shipping Bureau</p>
@@ -172,7 +172,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/seroka.jpg" alt="Gene Seroka"/>
+				<img src="/images/Event2019/Delegation/seroka.jpg" alt="Gene Seroka">
 				<figcaption>
 					<h5>Gene Seroka</h5>
 					<p>Executive Director, Port of Los Angeles</p>
@@ -181,7 +181,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/hideyuki-tsuji.png" alt="Hideyuki Tsuji"/>
+				<img src="/images/Event2019/Delegation/hideyuki-tsuji.png" alt="Hideyuki Tsuji">
 				<figcaption>
 					<h5>Hideyuki Tsuji</h5>
 					<p>Director General, Port and Urban Projects Bureau, Kobe</p>
@@ -190,7 +190,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/hirashi-hara.jpg" alt="Hiroshi Hara"/>
+				<img src="/images/Event2019/Delegation/hirashi-hara.jpg" alt="Hiroshi Hara">
 				<figcaption>
 					<h5>Hiroshi Hara</h5>
 					<p>Deputy Director General for Technical Affairs, Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
@@ -199,25 +199,25 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/luc-arnouts.png" alt="Luc Arnouts"/>
+				<img src="/images/Event2019/Delegation/luc-arnouts.png" alt="Luc Arnouts">
 				<figcaption>
 					<h5>Luc Arnouts</h5>
-					<p>Vice President - International Relations & Networks, Antwerp Port Authority</p>
+					<p>Vice President - International Relations &amp; Networks, Antwerp Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/nam-ki-chan.jpg" alt="Nam Ki-chan"/>
+				<img src="/images/Event2019/Delegation/nam-ki-chan.jpg" alt="Nam Ki-chan">
 				<figcaption>
 					<h5>Nam Ki-chan</h5>
-					<p>President & CEO of Busan Port Authority</p>
+					<p>President &amp; CEO of Busan Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/noel-hacegaba.png" alt="Noel Hacegaba"/>
+				<img src="/images/Event2019/Delegation/noel-hacegaba.png" alt="Noel Hacegaba">
 				<figcaption>
 					<h5>Noel Hacegaba</h5>
 					<p>Deputy Executive Director, Port of Long Beach</p>
@@ -226,7 +226,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/quah-ley-hoon.jpg" alt="Quah Ley Hoon"/>
+				<img src="/images/Event2019/Delegation/quah-ley-hoon.jpg" alt="Quah Ley Hoon">
 				<figcaption>
 					<h5>Quah Ley Hoon</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
@@ -235,7 +235,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/rene-van-der-plas.png" alt="Rene van der Plas"/>
+				<img src="/images/Event2019/Delegation/rene-van-der-plas.png" alt="Rene van der Plas">
 				<figcaption>
 					<h5>Rene van der Plas</h5>
 					<p>Director Port of Rotterdam</p>
@@ -244,7 +244,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/shen-ai-hua.png" alt="Shen Ai Hua"/>
+				<img src="/images/Event2019/Delegation/shen-ai-hua.png" alt="Shen Ai Hua">
 				<figcaption>
 					<h5>Shen Ai Hua</h5>
 					<p>Deputy Director of Shanghai Municipal Terminal Administrative Center</p>
@@ -253,7 +253,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/stephanie-jones-stebbins.png" alt="Stephanie Jones Stebbins"/>
+				<img src="/images/Event2019/Delegation/stephanie-jones-stebbins.png" alt="Stephanie Jones Stebbins">
 				<figcaption>
 					<h5>Stephanie Jones Stebbins</h5>
 					<p>Managing Director, Maritime Port of Seattle</p>
@@ -262,7 +262,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/tino-klemm.png" alt="Tino Klemm"/>
+				<img src="/images/Event2019/Delegation/tino-klemm.png" alt="Tino Klemm">
 				<figcaption>
 					<h5>Tino Klemm</h5>
 					<p>Chief Finance Officer, Hamburg Port Authority</p>
@@ -271,7 +271,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2019/Delegation/yokohama.png" alt="Yasuhiro Shinbo"/>
+				<img src="/images/Event2019/Delegation/yokohama.png" alt="Yasuhiro Shinbo">
 				<figcaption>
 					<h5>Yasuhiro Shinbo</h5>
 					<p>Executive Director, Policy Coordination Department, Port and Harbor Bureau, City of Yokohama</p>
@@ -289,7 +289,7 @@ description: ""
 		<li>Safety and security.</li>
 	</ul>
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31441.268762405194!2d135.20134828331027!3d34.677927778853594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008de17e626a0d%3A0x89c23fe3120d8b8a!2sPort%20of%20Kobe!5e0!3m2!1sen!2ssg!4v1623914215739!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Kobe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31441.268762405194!2d135.20134828331027!3d34.677927778853594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60008de17e626a0d%3A0x89c23fe3120d8b8a!2sPort%20of%20Kobe!5e0!3m2!1sen!2ssg!4v1623914215739!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>The Port of Kobe, originally an excellent natural harbor, flourished as a hub of trading during ancient and medieval times. Since 1868, when the port of Kobe opened as a major Japanese international port, it has supported Japanese lives and industries.</p>

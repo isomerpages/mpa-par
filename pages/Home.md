@@ -1,9 +1,10 @@
 ---
 title: Home
-permalink: /home
-description: ""
+permalink: /home/
+description: Port Authorities Roundtable (PAR) is a by-invitation event for
+  CEO/Chairman/President/DG of leading port authorities.
 ---
-<style>
+<style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
 	a[href$=".pdf"] {margin-left:0;}
@@ -69,16 +70,16 @@ description: ""
 </style>
 <figure class="masthead">
 	<div class="mobile">
-		<img class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay" />
-		<img src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner" />
+		<img height="390" width="640" class="overlay" src="/images/Homepage/overlay-m.png" alt="Homepage Overlay">
+		<img height="458" width="751" src="/images/Homepage/bg-homepage-m.jpg" alt="Homepage Banner">
 	</div>
 	<div class="desktop">
-		<img class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay" />
-		<img src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner" />
+		<img height="700" width="1440" class="overlay" src="/images/Homepage/overlay-d.png" alt="Homepage Overlay">
+		<img height="700" width="1440" src="/images/Homepage/bg-homepage-d.jpg" alt="Homepage Banner">
 	</div>
 	<figcaption>
 		<h1>Port Authorities Roundtable</h1>
-		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br/>Reimagining a New Era of Trade Together</h3>
+		<h3>PAR2022@Abu Dhabi | 31 May to 2 June 2022<br>Reimagining a New Era of Trade Together</h3>
 	</figcaption>
 </figure>
 <div class="home-main">
@@ -91,10 +92,10 @@ description: ""
 		<div class="entry">
 			<a href="/head-of-delegation">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation" />
-					<img class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation" />
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-head-of-delegation-m.jpg" alt="Background of Head of Delegation">
+					<img height="250" width="513" class="desktop" src="/images/Homepage/bg-head-of-delegation-d.jpg" alt="Background of Head of Delegation">
 					<figcaption>
-						<h4>Head of <br/>Delegation</h4>
+						<h4>Head of <br>Delegation</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -103,10 +104,10 @@ description: ""
 		<div class="entry">
 			<a href="/agenda">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda" />
-					<img class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda" />
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-event-m.jpg" alt="Background of Agenda">
+					<img height="250" width="513" class="desktop" src="/images/Homepage/bg-event-d.jpg" alt="Background of Agenda">
 					<figcaption>
-						<h4>Event <br/>Agenda</h4>
+						<h4>Event <br>Agenda</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -115,10 +116,10 @@ description: ""
 		<div class="entry">
 			<a href="/about-the-host-port-authority">
 				<figure>
-					<img class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR" />
-				<img class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR" />
+					<img height="228" width="720" class="mobile" src="/images/Homepage/bg-about-m.jpg" alt="Background of About PAR">
+				<img height="250" width="513" class="desktop" src="/images/Homepage/bg-about-d.jpg" alt="Background of About PAR">
 					<figcaption>
-						<h4>About the Host <br/>Port Authority</h4>
+						<h4>About the Host <br>Port Authority</h4>
 						<span>Find out more <i class="sgds-icon sgds-icon-arrow-right"></i></span>
 					</figcaption>
 				</figure>
@@ -126,7 +127,7 @@ description: ""
 		</div>
 	</div>
 	<div class="par-global">
-		<img class="mobile" src="/images/Homepage/map-m.png" alt="Map of PAR" />
-		<img class="desktop" src="/images/Homepage/map-d.png" alt="Map of PAR" />
+		<img height="500" width="720" class="mobile" src="/images/Homepage/bg-map-m.jpg" alt="Map of PAR">
+		<img height="452" width="1200" class="desktop" src="/images/Homepage/bg-map-d.jpg" alt="Map of PAR">
 	</div>
 </div>

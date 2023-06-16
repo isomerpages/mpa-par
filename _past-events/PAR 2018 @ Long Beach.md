@@ -1,7 +1,7 @@
 ---
 title: PAR 2018 @ Long Beach
-permalink: /past-events/2018
-description: ""
+permalink: /past-events/2018/
+description: PAR 2018 @ Long Beach
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -117,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2018/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2018/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2018/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2018/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2018 @ Long Beach</h3>
 				<ul>
@@ -135,7 +135,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/allard.jpg" alt="Allard Castelein"/>
+				<img src="/images/Event2018/Delegation/allard.jpg" alt="Allard Castelein">
 				<figcaption>
 					<h5>Allard Castelein</h5>
 					<p>Chief Executive Officer, Port of Rotterdam</p>
@@ -144,7 +144,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/andrew-tan.png" alt="Andrew Tan"/>
+				<img src="/images/Event2018/Delegation/andrew-tan.png" alt="Andrew Tan">
 				<figcaption>
 					<h5>Andrew Tan</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
@@ -153,16 +153,16 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/daniel-olivier.jpg" alt="Daniel Olivier"/>
+				<img src="/images/Event2018/Delegation/daniel-olivier.jpg" alt="Daniel Olivier">
 				<figcaption>
 					<h5>Daniel Olivier</h5>
-					<p>Director (Business Intelligence & Innovation), Montreal Port Authority</p>
+					<p>Director (Business Intelligence &amp; Innovation), Montreal Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/gene-seroko.jpg" alt="Gene Seroka"/>
+				<img src="/images/Event2018/Delegation/gene-seroko.jpg" alt="Gene Seroka">
 				<figcaption>
 					<h5>Gene Seroka</h5>
 					<p>Executive Director, Port of Los Angeles</p>
@@ -171,7 +171,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/hang-ming-sheng.jpg" alt="Hang Ming Sheng"/>
+				<img src="/images/Event2018/Delegation/hang-ming-sheng.jpg" alt="Hang Ming Sheng">
 				<figcaption>
 					<h5>Hang Ming Sheng</h5>
 					<p>Director of Port Administration division, Ningbo Port Administration Bureau</p>
@@ -180,7 +180,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/huang-bo.jpg" alt="Huang Bo"/>
+				<img src="/images/Event2018/Delegation/huang-bo.jpg" alt="Huang Bo">
 				<figcaption>
 					<h5>Huang Bo</h5>
 					<p>Deputy Derector General, Guangzhou Port Authority</p>
@@ -189,7 +189,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/hui-xiao.jpg" alt="Hui Xiao"/>
+				<img src="/images/Event2018/Delegation/hui-xiao.jpg" alt="Hui Xiao">
 				<figcaption>
 					<h5>Hui Xiao</h5>
 					<p>Director (Comprehensive Planning Division), Shanghai Municipal Transportation Commision</p>
@@ -198,7 +198,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/jens-meier.jpg" alt="Jens Meier"/>
+				<img src="/images/Event2018/Delegation/jens-meier.jpg" alt="Jens Meier">
 				<figcaption>
 					<h5>Jens Meier</h5>
 					<p>Chief Executive Officer, Hamburg Port Authority</p>
@@ -207,7 +207,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/koichi-ono.png" alt="Kyoichi Ono"/>
+				<img src="/images/Event2018/Delegation/koichi-ono.png" alt="Kyoichi Ono">
 				<figcaption>
 					<h5>Kyoichi Ono</h5>
 					<p>Deputy Director General for Technical Affairs, Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
@@ -216,7 +216,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/luc-arnouts.jpg" alt="Luc Arnouts"/>
+				<img src="/images/Event2018/Delegation/luc-arnouts.jpg" alt="Luc Arnouts">
 				<figcaption>
 					<h5>Luc Arnouts</h5>
 					<p>CCO, Antwerp Port Authority</p>
@@ -225,7 +225,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/mario-cordero.jpg" alt="Mario Cordero"/>
+				<img src="/images/Event2018/Delegation/mario-cordero.jpg" alt="Mario Cordero">
 				<figcaption>
 					<h5>Mario Cordero</h5>
 					<p>Executive Director, Port of Long Beach, California</p>
@@ -234,7 +234,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/noritaka-hasegawa.jpg" alt="Noritaka Hasegawa"/>
+				<img src="/images/Event2018/Delegation/noritaka-hasegawa.jpg" alt="Noritaka Hasegawa">
 				<figcaption>
 					<h5>Noritaka Hasegawa</h5>
 					<p>Deputy Director General, Engineering, Port of Kobe</p>
@@ -243,17 +243,17 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/patrick-verhoeven.jpg" alt="Patrick Verhoeven"/>
+				<img src="/images/Event2018/Delegation/patrick-verhoeven.jpg" alt="Patrick Verhoeven">
 				<figcaption>
 					<h5>Patrick Verhoeven</h5>
 					<strong>Guest Speaker</strong>
-					<p>Managing Director Policy & Strategy</p>
+					<p>Managing Director Policy &amp; Strategy</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/santiago-garcia-mila.jpg" alt="Santiago Garcia Mila"/>
+				<img src="/images/Event2018/Delegation/santiago-garcia-mila.jpg" alt="Santiago Garcia Mila">
 				<figcaption>
 					<h5>Santiago Garcia Mila</h5>
 					<p>Deputy General Manager, Barcelona Port Authority</p>
@@ -262,7 +262,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2018/Delegation/subramaniam-karuppiah.jpg" alt="Subramaniam Karuppiah"/>
+				<img src="/images/Event2018/Delegation/subramaniam-karuppiah.jpg" alt="Subramaniam Karuppiah">
 				<figcaption>
 					<h5>Subramaniam Karuppiah</h5>
 					<p>General Manager, Port Klang Authority</p>
@@ -277,12 +277,12 @@ description: ""
 	<ul>
 		<li>Emerging Trends Affecting Port Authorities;</li>
 		<li>Optimising Port Operations;</li>
-		<li>Integrating Ports & Cities: Sustainability & Stewardship</li>
+		<li>Integrating Ports &amp; Cities: Sustainability &amp; Stewardship</li>
 		<li>Protecting Ports in the Future and</li>
 		<li>Preparing the Workforce of the Future.</li>
 	</ul>
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26539.532265147096!2d-118.2164822!3d33.7492545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd36d0617ea633%3A0x4f2f123f5acab771!2sPort+of+Long+Beach!5e0!3m2!1sen!2ssg!4v1527745720372" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Long Beach" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d26539.532265147096!2d-118.2164822!3d33.7492545!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd36d0617ea633%3A0x4f2f123f5acab771!2sPort+of+Long+Beach!5e0!3m2!1sen!2ssg!4v1527745720372" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>POLB Interim Headquarters</p>

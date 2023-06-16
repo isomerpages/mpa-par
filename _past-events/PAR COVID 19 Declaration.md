@@ -1,9 +1,8 @@
 ---
 title: PAR COVID 19 Declaration
-permalink: /past-events/2020
-description: ""
+permalink: /past-events/2020/
+description: PAR COVID 19 Declaration
 ---
-
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
 	h1, h2, h3, h4, h5, h6 {line-height:1.1;}
@@ -118,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2015/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2015/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2015/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2015/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR COVID-19 Declaration</h3>
 			</figcaption>

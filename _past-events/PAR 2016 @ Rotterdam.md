@@ -1,7 +1,7 @@
 ---
 title: PAR 2016 @ Rotterdam
-permalink: /past-events/2016
-description: ""
+permalink: /past-events/2016/
+description: PAR 2016 @ Rotterdam
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -117,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2016/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2016/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2016/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2016/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2016 @ Rotterdam</h3>
 				<ul>
@@ -135,7 +135,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/akihisa-ishiyama.png" alt="Akihisa Ishiyama"/>
+				<img src="/images/Event2016/Delegation/akihisa-ishiyama.png" alt="Akihisa Ishiyama">
 				<figcaption>
 					<h5>Akihisa Ishiyama</h5>
 					<p>Deputy Director General for Technical Affairs Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
@@ -144,16 +144,16 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/allard-castelein.png" alt="Allard Castelein"/>
+				<img src="/images/Event2016/Delegation/allard-castelein.png" alt="Allard Castelein">
 				<figcaption>
 					<h5>Allard Castelein</h5>
-					<p>President & CEO, Port of Rotterdam Authority</p>
+					<p>President &amp; CEO, Port of Rotterdam Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/andrew-tan.png" alt="Andrew Tan"/>
+				<img src="/images/Event2016/Delegation/andrew-tan.png" alt="Andrew Tan">
 				<figcaption>
 					<h5>Andrew Tan</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
@@ -162,7 +162,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/bart-kujipers.png" alt="Bart Kuipers"/>
+				<img src="/images/Event2016/Delegation/bart-kujipers.png" alt="Bart Kuipers">
 				<figcaption>
 					<h5>Bart Kuipers</h5>
 					<strong>Guest Speaker</strong>
@@ -172,7 +172,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/eric-caris.png" alt="Eric Caris"/>
+				<img src="/images/Event2016/Delegation/eric-caris.png" alt="Eric Caris">
 				<figcaption>
 					<h5>Eric Caris</h5>
 					<p>Director of Cargo Marketing, Port of Los Angeles</p>
@@ -181,7 +181,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/huang-bo.jpg" alt="Huang Bo"/>
+				<img src="/images/Event2016/Delegation/huang-bo.jpg" alt="Huang Bo">
 				<figcaption>
 					<h5>Huang Bo</h5>
 					<p>Deputy Director General, Port of Guangzhou</p>
@@ -190,7 +190,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/jens-meier.png" alt="Jens Meier"/>
+				<img src="/images/Event2016/Delegation/jens-meier.png" alt="Jens Meier">
 				<figcaption>
 					<h5>Jens Meier</h5>
 					<p>Chief Executive Officer, Hamburg Port Authority</p>
@@ -199,16 +199,16 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/kris-de-craene.jpg" alt="Kris De Craene"/>
+				<img src="/images/Event2016/Delegation/kris-de-craene.jpg" alt="Kris De Craene">
 				<figcaption>
 					<h5>Kris De Craene</h5>
-					<p>Chairman of PIANC/IAPH working group & Manager, Spatial Development and Environment, Port of Antwerp</p>
+					<p>Chairman of PIANC/IAPH working group &amp; Manager, Spatial Development and Environment, Port of Antwerp</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/noel-hacegaba.png" alt="Noel Hacegaba"/>
+				<img src="/images/Event2016/Delegation/noel-hacegaba.png" alt="Noel Hacegaba">
 				<figcaption>
 					<h5>Noel Hacegaba</h5>
 					<p>Chief Commercial Officer, Port of Long Beach</p>
@@ -217,7 +217,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/woo-ye-jong.png" alt="Woo Ye-Jong"/>
+				<img src="/images/Event2016/Delegation/woo-ye-jong.png" alt="Woo Ye-Jong">
 				<figcaption>
 					<h5>Woo Ye-Jong</h5>
 					<p>Chief Executive Officer, Busan Port Authority</p>
@@ -226,7 +226,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/y-bhg-dato-capt-david-padman.png" alt="Y. Bhg. Dato’ Capt. David Padman"/>
+				<img src="/images/Event2016/Delegation/y-bhg-dato-capt-david-padman.png" alt="Y. Bhg. Dato’ Capt. David Padman">
 				<figcaption>
 					<h5>Y. Bhg. Dato’ Capt. David Padman</h5>
 					<p>General Manager, Port Klang Authority</p>
@@ -235,7 +235,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2016/Delegation/zhao-tie-wei.png" alt="Zhao Tiewei"/>
+				<img src="/images/Event2016/Delegation/zhao-tie-wei.png" alt="Zhao Tiewei">
 				<figcaption>
 					<h5>Zhao Tiewei</h5>
 					<p>Deputy Director General, Ningbo Municipal Port and Shipping Administration Bureau</p>
@@ -247,7 +247,7 @@ description: ""
 	<p>The 2nd edition of PAR was organized by the Port of Rotterdam Authority. It was held at the Port of Rotterdam from 22 to 24 June 2016. Topics addressed at PAR2016@Rotterdam included safety, security, sustainability and efficiency. PAR2016 was attended by past PAR2015 participants as well as new participants from USA and Europe.</p>
 	
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157501.57954172711!2d4.209246426540697!3d51.91640111180245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c43364d5024c2b%3A0x10e34479d6c9104d!2sPort+of+Rotterdam+Authority!5e0!3m2!1sen!2ssg!4v1498719191297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Rotterdam" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d157501.57954172711!2d4.209246426540697!3d51.91640111180245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c43364d5024c2b%3A0x10e34479d6c9104d!2sPort+of+Rotterdam+Authority!5e0!3m2!1sen!2ssg!4v1498719191297" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>The Port of Rotterdam is the largest port in Europe, located in the city of Rotterdam, Netherlands. In 2011, Rotterdam was the world's eleventh-largest container port in terms of twenty-foot equivalent units (TEU) handled (2009: tenth; 2008: ninth, 2006: sixth). In 2012 Rotterdam was the world's sixth-largest port in terms of annual cargo tonnage.</p>

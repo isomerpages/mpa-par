@@ -1,7 +1,7 @@
 ---
 title: PAR 2015 @ Singapore
-permalink: /past-events/2015
-description: ""
+permalink: /past-events/2015/
+description: PAR 2015 @ Singapore
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -117,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2015/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2015/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2015/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2015/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2015 @ Singapore</h3>
 				<ul>
@@ -135,7 +135,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/akihisa-ishiyama.png" alt="Akihisa Ishiyama"/>
+				<img src="/images/Event2015/Delegation/akihisa-ishiyama.png" alt="Akihisa Ishiyama">
 				<figcaption>
 					<h5>Akihisa Ishiyama</h5>
 					<p>Deputy Director General for Technical Affairs Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
@@ -144,16 +144,16 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/allard-castelein.png" alt="Allard Castelein"/>
+				<img src="/images/Event2015/Delegation/allard-castelein.png" alt="Allard Castelein">
 				<figcaption>
 					<h5>Allard Castelein</h5>
-					<p>President & CEO, Port of Rotterdam Authority</p>
+					<p>President &amp; CEO, Port of Rotterdam Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/andrew-tan.png" alt="Andrew Tan"/>
+				<img src="/images/Event2015/Delegation/andrew-tan.png" alt="Andrew Tan">
 				<figcaption>
 					<h5>Andrew Tan</h5>
 					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
@@ -162,7 +162,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/atty-juan-c-sta-ana.png" alt="Atty Juan C. Sta Ana"/>
+				<img src="/images/Event2015/Delegation/atty-juan-c-sta-ana.png" alt="Atty Juan C. Sta Ana">
 				<figcaption>
 					<h5>Atty Juan C. Sta Ana</h5>
 					<p>General Manager, Philippines Port Authority</p>
@@ -171,7 +171,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/eddy-bruyninckx.png" alt="Eddy Bruyninckx"/>
+				<img src="/images/Event2015/Delegation/eddy-bruyninckx.png" alt="Eddy Bruyninckx">
 				<figcaption>
 					<h5>Eddy Bruyninckx</h5>
 					<p>CEO, Antwerp Port Authority</p>
@@ -180,7 +180,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/grant-gilfillan.png" alt="Grant Gilfillan"/>
+				<img src="/images/Event2015/Delegation/grant-gilfillan.png" alt="Grant Gilfillan">
 				<figcaption>
 					<h5>Grant Gilfillan</h5>
 					<p>Chief Executive Officer, Port Authority of New South Wales</p>
@@ -189,7 +189,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/lao-ke-jun.png" alt="Lao KeJun"/>
+				<img src="/images/Event2015/Delegation/lao-ke-jun.png" alt="Lao KeJun">
 				<figcaption>
 					<h5>Lao KeJun</h5>
 					<p>Director General, Ningbo Municipal Port Administration Bureau</p>
@@ -198,7 +198,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/lim-ki-tack.png" alt="Lim Ki-tack"/>
+				<img src="/images/Event2015/Delegation/lim-ki-tack.png" alt="Lim Ki-tack">
 				<figcaption>
 					<h5>Lim Ki-tack</h5>
 					<p>President, Busan Port Authority</p>
@@ -207,7 +207,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/martin-stopford.png" alt="Martin Stopford"/>
+				<img src="/images/Event2015/Delegation/martin-stopford.png" alt="Martin Stopford">
 				<figcaption>
 					<h5>Martin Stopford</h5>
 					<strong>Guest Speaker</strong>
@@ -217,7 +217,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/sub-lt-songtham-chantaprasit.png" alt="Sub Lt. Songtham Chantaprasit"/>
+				<img src="/images/Event2015/Delegation/sub-lt-songtham-chantaprasit.png" alt="Sub Lt. Songtham Chantaprasit">
 				<figcaption>
 					<h5>Sub Lt. Songtham Chantaprasit</h5>
 					<p>Acting Director General, Port Authority of Thailand</p>
@@ -226,7 +226,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2015/Delegation/y-bhg-dato-capt-david-padman.png" alt="Y. Bhg. Dato’ Capt. David Padman"/>
+				<img src="/images/Event2015/Delegation/y-bhg-dato-capt-david-padman.png" alt="Y. Bhg. Dato’ Capt. David Padman">
 				<figcaption>
 					<h5>Y. Bhg. Dato’ Capt. David Padman</h5>
 					<p>General Manager, Port Klang Authority</p>
@@ -238,7 +238,7 @@ description: ""
 	<p>The inaugural Port Authorities Roundtable (PAR) 2015 held in conjunction with the 10th Singapore Maritime Week 2015 brought together port authorities from major Asian and European ports to network, share insights on pertinent issues and best practices, as well as to explore areas of collaboration.  With the theme ‘Future Ready Ports - Challenges and Opportunities for Port Authorities’, topics discussed include port developments, efforts to improve port safety, efficiency, sustainability, and the adoption of future-ready technology and infrastructure in ports.</p>
 	
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14214.532255280843!2d103.86646006645614!3d1.2830557751495613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19ee4cc09203%3A0x26c9afefa555dd7!2sMarina%20Bay%20Sands%20Singapore!5e0!3m2!1sen!2ssg!4v1656646875823!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Singapore" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14214.532255280843!2d103.86646006645614!3d1.2830557751495613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da19ee4cc09203%3A0x26c9afefa555dd7!2sMarina%20Bay%20Sands%20Singapore!5e0!3m2!1sen!2ssg!4v1656646875823!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>Singapore is the busiest container transhipment hub in the world, with more than 30.9 million TEUs of container throughput in 2016. It is connected to 600 ports from over 120 countries. The port's strategic location, accessibility and efficiency make it a preferred port of call attracting more than 130,000 vessels each year.</p>

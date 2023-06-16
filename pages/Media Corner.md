@@ -1,7 +1,7 @@
 ---
 title: Media Corner
-permalink: /media-corner
-description: ""
+permalink: /media-corner/
+description: Media Corner (PAR Forum)
 ---
 <style>
 	body {font-size:14px;line-height:1.42857143;}
@@ -98,7 +98,7 @@ description: ""
 		<div class="entry">
 			<div class="media-item">
 				<div class="media-type">News Releases</div>
-				<div class="media-title">MPA Renews Memorandum of Understanding With Port of Rotterdam Authority to Strengthen Cooperation in Information Exchange and R&D</div>
+				<div class="media-title">MPA Renews Memorandum of Understanding With Port of Rotterdam Authority to Strengthen Cooperation in Information Exchange and R&amp;D</div>
 			</div>
 			<div class="media-link">
 				<a href="https://www.mpa.gov.sg/media-centre/details/mpa-renews-memorandum-of-understanding-with-port-of-rotterdam-authority-to-strengthen-cooperation-in-information-exchange-and-r-d" target="_blank">View</a>

@@ -1,7 +1,7 @@
 ---
 title: PAR 2017 @ Ningbo
-permalink: /past-events/2017
-description: ""
+permalink: /past-events/2017/
+description: PAR 2017 @ Ningbo
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -117,10 +117,10 @@ description: ""
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop"/>
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch"/>
-			<img src="/images/Event2017/bg-past-events-m.jpg" class="is-hidden-desktop"/>
-			<img src="/images/Event2017/bg-past-events-d.jpg" class="is-hidden-touch"/>
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img src="/images/Event2017/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img src="/images/Event2017/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2017 @ Ningbo</h3>
 				<ul>
@@ -135,7 +135,7 @@ description: ""
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/andrew-tan.png" alt="Andrew Tan"/>
+				<img src="/images/Event2017/Delegation/andrew-tan.png" alt="Andrew Tan">
 				<figcaption>
 					<h5>Andrew Tan</h5>
 					<p>Chief Executive Officer, Maritime and Port Authority of Singapore</p>
@@ -144,16 +144,16 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/herve-martel.png" alt="Hervé Martel"/>
+				<img src="/images/Event2017/Delegation/herve-martel.png" alt="Hervé Martel">
 				<figcaption>
 					<h5>Hervé Martel</h5>
-					<p>President HAROPA & CEO Port of Le Havre</p>
+					<p>President HAROPA &amp; CEO Port of Le Havre</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/ichiro-nishimura.jpg" alt="Ichiro Nishimura"/>
+				<img src="/images/Event2017/Delegation/ichiro-nishimura.jpg" alt="Ichiro Nishimura">
 				<figcaption>
 					<h5>Ichiro Nishimura</h5>
 					<p>Deputy Director General, Port and Harbor Bureau, Kobe City Government</p>
@@ -162,7 +162,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jan-van-der-borght.jpg" alt="Jan Van der Borght"/>
+				<img src="/images/Event2017/Delegation/jan-van-der-borght.jpg" alt="Jan Van der Borght">
 				<figcaption>
 					<h5>Jan Van der Borght</h5>
 					<p>Chief Representative for China, Antwerp Port Authority</p>
@@ -171,7 +171,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jens-meier.jpg" alt="Jens Meier"/>
+				<img src="/images/Event2017/Delegation/jens-meier.jpg" alt="Jens Meier">
 				<figcaption>
 					<h5>Jens Meier</h5>
 					<p>Chief Executive Officer, Hamburg Port Authority</p>
@@ -180,7 +180,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jiang-yi.jpg" alt="Jiang Yi"/>
+				<img src="/images/Event2017/Delegation/jiang-yi.jpg" alt="Jiang Yi">
 				<figcaption>
 					<h5>Jiang Yi</h5>
 					<p>Deputy Director of Port of Dalian Authority</p>
@@ -189,7 +189,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/k-subramaniam.jpg" alt="K. Subramaniam"/>
+				<img src="/images/Event2017/Delegation/k-subramaniam.jpg" alt="K. Subramaniam">
 				<figcaption>
 					<h5>K. Subramaniam</h5>
 					<p>General Manager, Port Klang Authority</p>
@@ -198,7 +198,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/kenji-kuriyagawa.jpg" alt="Kenji Kuriyagawa"/>
+				<img src="/images/Event2017/Delegation/kenji-kuriyagawa.jpg" alt="Kenji Kuriyagawa">
 				<figcaption>
 					<h5>Kenji Kuriyagawa</h5>
 					<p>Executive Director of Policy Coordination Department, Port and Harbor Bureau, City of Yokohama</p>
@@ -207,7 +207,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/kyoichi-ono.png" alt="Kyoichi Ono"/>
+				<img src="/images/Event2017/Delegation/kyoichi-ono.png" alt="Kyoichi Ono">
 				<figcaption>
 					<h5>Kyoichi Ono</h5>
 					<p>Deputy Director General for Technical Affairs, Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
@@ -216,7 +216,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/li-biao-kang.jpg" alt="Li Biaokang"/>
+				<img src="/images/Event2017/Delegation/li-biao-kang.jpg" alt="Li Biaokang">
 				<figcaption>
 					<h5>Li Biaokang</h5>
 					<p>Director General, Ningbo Maritime Safety Administration</p>
@@ -225,7 +225,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/randy-d-parsons.jpg" alt="Randy D. Parsons"/>
+				<img src="/images/Event2017/Delegation/randy-d-parsons.jpg" alt="Randy D. Parsons">
 				<figcaption>
 					<h5>Randy D. Parsons</h5>
 					<p>Director of Security, Port of Long Beach, CA</p>
@@ -234,7 +234,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/victor-schoenmakers.jpg" alt="Victor Schoenmakers"/>
+				<img src="/images/Event2017/Delegation/victor-schoenmakers.jpg" alt="Victor Schoenmakers">
 				<figcaption>
 					<h5>Victor Schoenmakers</h5>
 					<p>Director Corporate Strategy, Port of Rotterdam Authority</p>
@@ -243,7 +243,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/yuan-yue.jpg" alt="Yuan Yue"/>
+				<img src="/images/Event2017/Delegation/yuan-yue.jpg" alt="Yuan Yue">
 				<figcaption>
 					<h5>Yuan Yue</h5>
 					<p>Deputy Director General, Guangzhou Port Administration Bureau</p>
@@ -252,7 +252,7 @@ description: ""
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/zhang-shi-fang.png" alt="Zhang Shifang"/>
+				<img src="/images/Event2017/Delegation/zhang-shi-fang.png" alt="Zhang Shifang">
 				<figcaption>
 					<h5>Zhang Shifang</h5>
 					<p>Director General, Ningbo Municipal Port Administration Bureau</p>
@@ -263,7 +263,7 @@ description: ""
 	<h4 class="par-title">ABOUT PAR 2017@ NINGBO</h4>
 	<p>The 3rd edition of PAR was organized by the Ningbo Municipal Administration Bureau. It was held in Ningbo from 9 to 11 July 2017. Topics discussed at PAR2017@Ningbo included port resource integration, port logistics, sustainability, port safety, emergency response and security. PAR2017@Ningbo saw 14 organisations participating in the event including Port and Urban Projects Bureau, Kobe City Government, Port and Harbour Bureau, City of Yokohama, Port of Le Havre and Port of Dalian Authority who participated for the first time.</p>
 	<figure class="par-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3459.860878295499!2d121.55994516522674!3d29.868285781946813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x344d6335cf214517%3A0xe24e3b18eece0162!2sShangri-La+Hotel+Ningbo%2C+Jiangdong+Qu%2C+Ningbo+Shi%2C+Zhejiang+Sheng%2C+China%2C+315020!5e0!3m2!1sen!2ssg!4v1498719048480" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe title="Map of Port Ningbo" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3459.860878295499!2d121.55994516522674!3d29.868285781946813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x344d6335cf214517%3A0xe24e3b18eece0162!2sShangri-La+Hotel+Ningbo%2C+Jiangdong+Qu%2C+Ningbo+Shi%2C+Zhejiang+Sheng%2C+China%2C+315020!5e0!3m2!1sen!2ssg!4v1498719048480" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
 			<p>Ningbo Port is composed of Beilun Port Area, Zhenhai Port Area, Ningbo Port Area, Daxie Port Area and Chuanshan Port Area and is a multi-functional and comprehensive modern deep-water port integrated by inner river port, estuary port and seaport. Ningbo Port mainly engages in stevedoring, storage and transfer of imported iron ores, domestic and foreign trade containers, crude oil and product oil, liquid chemical products, coals and other bulk cargos. In September 2015, the Ningbo Port Co. revealed it had completed merger procedures with Zhoushan Port Co. The new company is called Ningbo- Zhoushan Port Group Co. Ningbo- Zhoushan port handled a total throughput of 24.6m TEU in 2017, an increase of 14.1% compared to 2016 volume of 23.3m TEU. Ningbo- Zhoushan port is ranked the world’s fourth busiest container port in 2017 by Alphaliner.</p>
