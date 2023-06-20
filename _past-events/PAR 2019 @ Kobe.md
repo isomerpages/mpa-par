@@ -117,10 +117,10 @@ description: PAR 2019 @ Kobe
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
-			<img src="/images/Event2019/bg-past-events-m.jpg" class="is-hidden-desktop">
-			<img src="/images/Event2019/bg-past-events-d.jpg" class="is-hidden-touch">
+			<img alt="overlay" src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
+			<img alt="overlay" src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
+			<img alt="bg-image" src="/images/Event2019/bg-past-events-m.jpg" class="is-hidden-desktop">
+			<img alt="bg-image" src="/images/Event2019/bg-past-events-d.jpg" class="is-hidden-touch">
 			<figcaption>
 				<h3>PAR 2019 @ Kobe</h3>
 				<ul>
