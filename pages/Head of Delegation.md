@@ -47,7 +47,7 @@ description: Head of Delegation (PAR@2022)
 	.speaker-img-wrapper .speaker-img {width:60px;height:60px;}
 	.speaker-img-wrapper h5 {padding:0 15px;font-size:12px;font-weight:700;line-height:1.2;color:#0071c0;}
 	.speaker-img-wrapper .org-logo {width: 20%;}
-	.speaker-img-wrapper .org-logo img {width:auto;height: 60px;margin:0 15px 0 auto;}
+	.speaker-img-wrapper .org-logo img {width:auto;height: auto;margin:0 15px 0 auto;}
 	.speaker-img-wrapper .icon-wrapper {width:30px;color: #0fa678;}
 	.speaker-content {padding:30px;background: #f6f6f6;}
 	.speaker-content h6 {color: #0071c0;font-weight: 700;margin:0 0 15px;}
