@@ -107,6 +107,7 @@ description: PAR COVID 19 Declaration
 	<div class="tab">
 		<div class="tab-nav">
 			<ul>
+				<li><a href="/past-events/2022">PAR 2022 @ Abu Dhabi</a></li>
 				<li><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 				<li class="active"><a href="/past-events/2020">PAR COVID-19 Declaration</a></li>
 				<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
