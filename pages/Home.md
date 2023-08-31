@@ -33,7 +33,7 @@ description: Port Authorities Roundtable (PAR) is a by-invitation event for
 	.home-main {padding:20px 15px;background:#fff;}
 	.what-is-par {margin:0 0 20px;}
 	.what-is-par h5 {color: #0071c0;font-size: 22px;margin-bottom:20px;}
-	.what-is-par ul>li {font-size:1.4px;color:#484848;}
+	.what-is-par ul>li {font-size:14px;color:#484848;line-height:1.1;}
 	.par-highlights {display:flex;flex-wrap:wrap;}
 	.par-highlights .entry {width:100%;margin:0 0 5px;}
 	.par-highlights figure {position:relative;margin:0;}
