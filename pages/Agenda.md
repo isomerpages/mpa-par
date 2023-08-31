@@ -1,7 +1,7 @@
 ---
 title: Agenda
 permalink: /agenda/
-description: "Disruption, Digitalisation, Decarbonisation, Diversification "
+description: Disruption, Digitalisation, Decarbonisation, Diversification
 ---
 <style>
 	body {font-size:14px;line-height:1.42857143;}
@@ -38,11 +38,10 @@ description: "Disruption, Digitalisation, Decarbonisation, Diversification "
 </style>
 
 <div class="par-main">
-	<p>The discussions at PAR2022@Abu Dhabi will include:</p>
-	<ul class="par-list-none">
-		<li><b>Disruption</b> - The role of ports in enabling global supply chain resilience</li>
-		<li><b>Digitalisation</b> - Cooperation, collaboration and the digital transformation of trade</li>
-		<li><b>Decarbonisation</b> - Building sustainable port operations and facilitating climate change action</li>
-		<li><b>Diversification</b> - The evolving role of ports as facilitators of global trade</li>
+	<p>The discussions at PAR2023@Shanghai will include:</p>
+	<ul>
+		<li>Global Port &amp; Shipping Development Trend in Post-Covid Era</li>
+		<li>Port Decarbonisation and Sustainable Port Development</li>
+		<li>Port Digital Transformation</li>
 	</ul>
 </div>
