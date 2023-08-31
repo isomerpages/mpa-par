@@ -33,7 +33,6 @@ description: Port Authorities Roundtable (PAR) is a by-invitation event for
 	.home-main {padding:20px 15px;background:#fff;}
 	.what-is-par {margin:0 0 20px;}
 	.what-is-par h5 {color: #0071c0;font-size: 22px;margin-bottom:20px;}
-	.what-is-par ul>li {font-size:14px;color:#484848;line-height:1.1;}
 	.par-highlights {display:flex;flex-wrap:wrap;}
 	.par-highlights .entry {width:100%;margin:0 0 5px;}
 	.par-highlights figure {position:relative;margin:0;}
@@ -88,16 +87,6 @@ description: Port Authorities Roundtable (PAR) is a by-invitation event for
 		<h5>What is PAR?</h5>
 		<p>The Port Authorities Roundtable (PAR) is an annual by-invitation event for CEO/Chairman/ Director General/President of leading port authorities, which aims to be the platform of choice for port authorities to exchange best practices, discuss issues of common interest and build mutually beneficial collaboration in today’s evolving maritime landscape. The Maritime and Port Authority of Singapore (MPA) initiated the PAR in 2015 and serves as its Secretariat.</p>
 		<p>The 8th Edition PAR2022@Shanghai, co-hosted by Shanghai Municipal Transportation Commission and Shanghai International Port Group, will be held from 22 to 24 September 2023.</p>
-		<p>The 8th Edition of the Port Authorities Roundtable, co-hosted by Shanghai Municipal Transportation Commission and Shanghai International Port Group, will be held in Shanghai from 22 to 24 September 2023.</p>
-		<p>The theme for PAR2023@Shanghai is “Seizing New Opportunities Amidst Global Port Transformation”. It would be a closed-door, by-invitation event in a roundtable format for the CEO/Chairman/ Director General/President of invited port authorities.</p>
-		<p>Port and shipping, which constitute the crucial part of the global logistics network, are the backbone of international trade and support the innovative development of global supply chain. PAR 2023 will be a platform for strengthened consensus and cooperation.</p>
-		<p>Topics for discussion include:
-			</p><ul>
-				<li>Global Port &amp; Shipping Development Trend in Post-Covid Era</li>
-				<li>Port Decarbonisation and Sustainable Port Development</li>
-				<li>Port Digital Transformation</li>
-			</ul>
-		<p></p>
 	</div>
 	<div class="par-highlights">
 		<div class="entry">
