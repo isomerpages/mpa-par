@@ -62,55 +62,13 @@ description: Head of Delegation (PAR@2022)
 </style>
 <div class="par-main">
 	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled="">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/mohamed-juma-al-shamisi.jpeg" alt="Captain Mohamed Juma Al Shamisi">
-				</div>
-				<h5>Captain Mohamed Juma Al Shamisi, Managing Director and Group CEO, AD Ports Group - Opening Address</h5>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled="">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/omar-bin-talal-hariri.jpg" alt="H.E. Omar bin Talal Hariri">
-				</div>
-				<h5>H.E. Omar bin Talal Hariri, President, Saudi Ports Authority (MAWANI) - Guest Address</h5>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true" disabled="">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/he-suhail-mohamed-al-mazrouei.jpg" alt="H.E. Suhail Mohamed Al Mazrouei">
-				</div>
-				<h5>H.E. Suhail Mohamed Al Mazrouei, Minister of Energy and Infrastructure, United Arab Emirates - Welcome Address</h5>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-	</div>
-	<div class="accordion">
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/farhan-al-fartosi.jpg" alt="Dr. Farhan Al Fartosi">
+					<img height="60" width="60" src="/images/Event2023/Delegation/teo-eng-dih.jpg" alt="Mr Teo Eng Dih">
 				</div>
-				<h5>Dr. Farhan Al Fartosi, General Manager, General Company for Ports of Iraq</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-iraq.jpg" alt="Port of Iraq"></div>
+				<h5>Mr Teo Eng Dih, Chief Executive, Maritime and Port Authority of Singapore</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-mpa.jpg" alt="Logo of MPA"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -120,11 +78,11 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Dr. Farhan Al Fartosi is the General Manager of the Iraq Ports Company and the Chairman of the board.</p>
-				<p>Dr. Al Fartosi has a long experience in Maritime field and holds many certifications including second marine engineer certificate from Arabian Gulf Academy for Maritime Studies in 1990. And chief marine engineer certification from the Jordanian Academy in Amman in 2000. And also certification on how to implement the maritime Labour Convention (2006).</p>
-				<p>In 2013, Dr. Farhan Al Fartosi obtained his master's degree in Maritime affairs <span>—</span>&nbsp;Maritime Safety and Environmental Administration from The World Maritime University in Sweden. He has worked in Iraq Maritime Transport as second marine engineer and then he was graded to chief marine engineer and took over the duties of chief engineer on many ships including cargo ships, RORO ships and bulk ships. After that he held several positions including Manager of Security Administration department in General Company of Maritime Transport in 2014.</p>
-				<p>In 2020 he obtained PhD in Business Management from the Ain shams University in Egypt.</p>
-				<p>Dr Farhan Al Fartosi has participated in many conferences and seminars including ship Recycling conference in Denmark.</p>
+				<p>Mr Teo was appointed Chief Executive, Maritime and Port Authority of Singapore from 5 September 2022. Prior to this, Mr Teo was Deputy Secretary (Policy) in the Ministry of Defence.</p>
+				<p>Mr Teo had served in various government agencies in the areas of Policy and Planning, Manpower, Strategy, Technology, Energy, Climate Change, Enterprise Services and International Trade. He was Special Assistant to then-Deputy Prime Minister Teo Chee Hean from 2016 to 2018.</p>
+				<p>He is a volunteer with SAFRA, an association looking after the needs of national servicemen.</p>
+				<p>He took up the Trade Development Board Scholarship in 1999 and obtained a Master’s in Chemical Engineering with a Year Abroad (First Class) from Imperial College London. He was awarded the Fulbright Scholarship in 2012 and graduated with a Master in Public Administration from the Kennedy School of Government, Harvard University. Mr Teo attended the Eisenhower Fellowships Global Program in 2022.</p>
+				<p>For his contributions to Public Service, Mr Teo was awarded the Public Administration Medal (Silver) in 2021.</p>
 			</div>
 		</div>
 	</div>
@@ -132,10 +90,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/essam-al-sheibany.jpg" alt="Mr Essam Al Sheibany">
+					<img height="60" width="60" src="/images/Event2023/Delegation/matthijs-van-doorn.jpg" alt="Mr Matthijs van Doorn">
 				</div>
-				<h5>Mr Essam Al Sheibany, Vice President, Sustainability, ASYAD Group</h5>
-				<div class="org-logo"><img height="60" width="198" src="/images/Event2022/LogoOfPorts/logo-asyad.png" alt="Port of ASYAD"></div>
+				<h5>Mr Matthijs van Doorn, Vice President Commercial, Port of Rotterdam Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-rotterdam.jpg" alt="Logo of Rotterdam"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -145,8 +103,12 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Essam Al Sheibany is the Vice President of Sustainability at Asyad group, Oman's flagship logistics and supply chain group, offering end-to-end solutions from ports, free zones, maritime shipping, and last-mile express delivery. As a Sustainability VP, Essam plays a key role in building and maintaining all the Environmental, Social and Governance (ESG) activities within the group to position Asyad among the top 10 integrated logistics companies in the world; Essam is also driving the Decarbonization initiatives and facilitate the Green Hydrogen projects initiatives within the group, previously he was Group VP for QHSSE where he was taking care of health and safety of employees, contractors, and costumers, and protect environment and recently he took over the scope of Sustainability Development initiatives within the Group.</p>
-				<p>Al Sheibany is a member of several local and international bodies such as the National Petroleum Council, the Main committee of Health and Safety in Oman. Essam led the implementation of a number of operational projects in Oman and internationally. As an engineer, Energy Expert, Climate Change activist and he has more than 30 years of experience in Oil and Gas, Project Management, HSE and many areas mainly centered Operational Excellence.</p>
+				<p>Matthijs van Doorn is Vice President Commercial at the Port of Rotterdam Authority since 1 March 2022.</p>
+				<p>In this role, Matthijs is commercially responsible for containers, warehousing &amp; distribution, breakbulk, logistics, dry &amp; liquid bulk and port &amp; maritime services. Customer engagement, stakeholder management and networking form an important element of the role as well as high level governmental contacts (local, national and international).</p>
+				<p>As non-executive member of the board of Port of Rotterdam, Matthijs is committed to the transformation of the port and industrial complex into the sustainable port of the future for the generations to come.</p>
+				<p>In the preceding seven years, Matthijs was responsible for developing the inland network as Director Logistics and built an extensive network in the logistics industry in The Netherlands, Germany, Austria and Switzerland. He was also involved in setting up the digital strategy and responsible for the digital portfolio of the Port of Rotterdam Authority.</p>
+				<p>Before joining the Port of Rotterdam Authority Matthijs had worked in various commercial positions at TNT Express. Besides his knowledge of the logistics sector, his experience includes complex projects in digitisation, sales and supply chain optimisation.</p>
+				<p>Matthijs is internationally orientated. Apart from his career in an international business environment, Matthijs grew up in Germany and spent half a year living in Brazil.</p>
 			</div>
 		</div>
 	</div>
@@ -154,10 +116,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/hiroyuki-saito.jpg" alt="Mr Hiroyuki Saito">
+					<img height="60" width="60" src="/images/Event2023/Delegation/luc-arnouts.jpg" alt="Mr Luc Arnouts">
 				</div>
-				<h5>Mr Hiroyuki Saito, Director General, Environmental Policy in Port and Airport, Port and Harbour Bureau, Kobe City Government</h5>
-				<div class="org-logo"><img height="60" width="59" src="/images/Event2022/LogoOfPorts/logo-kobe.jpg" alt="Port of Kobe"></div>
+				<h5>Mr Luc Arnouts, Vice President International Relations and Networks, Port of Antwerp-Bruges</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-antwerp.png" alt="Logo of Antwerp Bruges"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -167,82 +129,13 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Mr. SAITO Hiroyuki is Director General, Environmental Policy in Port and Airport in Port and Harbor Bureau, Kobe City Government as of April 2022.</p>
-				<p>More recently, he served as Director General, Chief COVID-19 Vaccination Officer in Public Health Bureau from 2021-2022. Previously, he served as Director of Environmental Conservation Department (2017-2021); Manager of Business Waste Management Division (2014-2017); Manager of Recycling Division (2013-2014) in Environment Bureau, Kobe City Government.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/jordi-torrent.jpg" alt="Mr Jordi Torrent">
-				</div>
-				<h5>Mr Jordi Torrent, Strategy Director, Port of Barcelona</h5>
-				<div class="org-logo"><img height="60" width="123" src="/images/Event2022/LogoOfPorts/logo-vector-port-de-barcelona.jpg" alt="Port of Barcelona"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Jordi Torrent is currently the Strategy Director of the Port of Barcelona. In this position he has recently developed the Port's IV Strategic Plan which has adapted the Port's strategy and objectives to the latest global and regional trade and logistics trends. He is particularly involved in the intermodal sector, and has designed and implemented initiatives in this field, such as the development of PPP projects of inland terminals and rail services in Spain and France. He has been involved in the Port, logistics and rail sectors for 15 years.</p>
-				<p>Jordi Torrent is also Managing Director of the company B2B Logistics Busan Barcelona Hub, and member of the board of directors of several societies managing intermodal terminals in Spain and France. He represents the Port of Barcelona in various international organizations, such as WPCAP, MEDports and ESPO.</p>
-				<p>He holds a Law Degree from the Autonomous University of Barcelona and a Master Degree on International Affairs from the University of Barcelona. He has also an advanced Management program from ESADE Business School.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/koo-ja-rim.jpg" alt="Mr Koo Ja-rim">
-				</div>
-				<h5>Mr Koo Ja-rim, Vice President, Global Business Division, Busan Port Authority</h5>
-				<div class="org-logo"><img height="60" width="228" src="/images/Event2022/LogoOfPorts/logo-busan.png" alt="Port of Busan"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Mr. Koo Ja Rim has been a Head of Overseas Business Department of Busan Port Authority (BPA) since 2018 and Vice President of BPA (Global Business Division) since 2021.</p>
-				<p>Since he joined BPA in 2014, Mr Koo has worked at such various departments as Logistics Planning, and Overseas Business, and he has dedicated to conducting Busan Port Redevelopment Project and developing first overseas logistics businesses projects in Rotterdam (Netherlands), Barcelona (Spain), and Probolinggo (Indonesia).</p>
-				<p>With his experience and expertise in port, logistics, and legal area, he has been performed as an advisor of Campus Asia Aims and for Investor Relations (IR) Committee of Busan Metropolitan Council.</p>
-				<p>In 2003, Mr Koo earned Master's degree of Laws (LL.M.) in School of Law from Indiana University and he got license as an attorney at Law of New York State Bar Association in U.S. in the same year. In 2017, Koo studied for a Master's degree of Science (MSc) at World Maritime University.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/luc-arnouts.jpg" alt="Mr Luc Arnouts">
-				</div>
-				<h5>Mr Luc Arnouts, Vice President - Director International Relations and Networks, Antwerp-Bruges Port Authority</h5>
-				<div class="org-logo"><img height="60" width="150" src="/images/Event2022/LogoOfPorts/logo-antwerp.png" alt="Port of Antwerp"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Mr. Luc Arnouts obtained a  Master in Law at the University of Antwerp and a Master in General Management at the University of Ghent. He has been active in the port and logistics sector ever since.</p>
+				<p>Mr. Luc Arnouts was born on November 26th 1962 and lives close to Antwerp, Belgium.</p>
+				<p>He is married and has three children.</p>
+				<p>He obtained a Master in Law at the University of Antwerp and a Master in General Management at the University of Ghent.  He has been active in the port and logistics sector ever since.</p>
 				<p>He started his career and gained operational experience in stevedoring, warehousing and ocean freight forwarding at the logistics company Group Katoennatie from 1986 until 1992.</p>
-				<p>In 1992, he moved to SGS-Group Belgium where he officiated as General Manager of SGS-Van Bree. He was Member of the Central Management Committee and the Strategic Committee. He was in charge of the logistics and port handling business of SGS in Belgium. Aviapartner, European leading airport handling company became his new employer in 2000, where he held the position of VP Cargo Handling Europe and was Member of the Central Board.</p>
-				<p>In 2007, he joined the Antwerp Port Authority as Chief Commercial Officer. Since mid 2017 he holds the function of Director International Relations and Networks. As Vice President he is member of the Management Board.</p>
-				<p>Furthermore he also holds the following functions :<br>
-				- Member of the board of directors of Port of Antwerp International, a subsidiary company of Port of Antwerp, focussed on international consultancy, port management and participations in overseas port projects<br>
-				- Member of the board of directors of APEC, the training subsidiary of Port of Antwerp</p>
+				<p>In 1992, he moved to SGS-Group Belgium where he officiated as General Manager of SGS-Van Bree.  He was Member of the Central Management Committee and the Strategic Committee.  He was in charge of the logistics and port handling business of SGS in Belgium.</p>
+				<p>Aviapartner, European leading airport handling company became his new employer in 2000, where he held the position of VP Cargo Handling Europe and was Member of the Central Board.</p>
+				<p>In 2007, he joined the Antwerp Port Authority as Chief Commercial Officer. Since mid 2017 he holds the function of Vice President International Relations and Networks.</p>
 			</div>
 		</div>
 	</div>
@@ -250,10 +143,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/othman-siddeq-mohamed-al-khoori.jpg" alt="Mr Othman Siddeq Mohamed Al Khoori">
+					<img height="60" width="60" src="/images/Event2023/Delegation/santiago-garcia-mila.jpg" alt="Mr Santiago Garcia-Milà">
 				</div>
-				<h5>Mr Othman Siddeq Mohamed Al Khoori, Acting Executive Director - Corporate Authority, Abu Dhabi Ports Group</h5>
-				<div class="org-logo"><img height="60" width="196" src="/images/Event2022/LogoOfPorts/logo-abu-dhabi.jpg" alt="Port of Abu Dhabi"></div>
+				<h5>Mr Santiago Garcia-Milà, Deputy General Manager, Barcelona Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-of-barcelona.jpg" alt="Logo of Barcelona"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -263,12 +156,8 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Othman Siddeq Mohamed Al Khoori serves as the Executive Director of Economic Affairs &amp; Acting Executive Director Corporate Authority at Abu Dhabi Ports and as the Chief Operating Officer (COO) of ZonesCorp, one of the largest operator of purpose-built industrial zones in the UAE.</p>
-				<p>He has held the position of ZonesCorp's COO for almost a decade, during which time he has overseen customer enagements in Abu Dhabi City and Al Ain, while also overseeing the business operations of Customer Services, Zones Facility Management, and BUsiness Development.</p>
-				<p>Before joining ZonesCorp in 2012, Al Khoori served as the Support Service Division Director for the Abu Dhabi Tawteen Council, and also held prominent leadership roles at the National Rehabiliation Center and Abu Dhabi's Cultural Foundation. He began his career as the Head of Purchasing Section &amp; Head of IT Section for the Abu Dhabi FreeZone Authority — Saadiyat in 1997.</p>
-				<p>In addition to his work with Abu Dhabi Ports, Al Khoori is a member of the organisation committee of the World Contribution Conference Abu Dhabi and is also the UAE Delegate for the Volunteer Youth Conference.</p>
-				<p>He has also volunteered for the Red Crescent since 2002 and was awarded a bronze medallion from His Highness Sheik Hamdan bin Zayed Al Nahyan in recognition of his decades-long charity work.</p>
-				<p>Al Khoori holds an MBA from the American University — AUE and a Bachelor of Arts in Business Administration in MIS from California State University in San Bernardino, California.</p>
+				<p>Master’s degree in Economics and Business Administration from the University of Barcelona and two postgraduate studies: Marketing Strategy (ESADE) and General Management (IESE).</p>
+				<p>He is the Deputy General Manager of Innovation and Business Strategy of the Port of Barcelona; immediate Past President of International Association of Ports and Harbours (IAPH); he was ESPO (European Sea Ports Organisation) Chairman from 2012 to 2016, Chairman of the Port Governance Committee from 2016 to 2020, Chairman of Intermodal and Logistics Committee from 2008 to 2012 and member of the Executive Committee from 2008 to now; President of PortIC, the Barcelona’s Port Community System; Chief Executive Officer of tmZ, Zaragoza Inland Terminal; Associate lecturer in International Marketing at the University of Barcelona and was named economist of the year 2017 of the College of Economists of Catalunya.</p>
 			</div>
 		</div>
 	</div>
@@ -276,10 +165,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/rayan-albkri.jpg" alt="Mr Rayan Albakri">
+					<img height="60" width="60" src="/images/Event2023/Delegation/steven-clapperton.jpg" alt="Mr Steven Clapperton">
 				</div>
-				<h5>Mr Rayan Albakri, Advisor to the President, Saudi Ports Authority (MAWANI)</h5>
-				<div class="org-logo"><img height="60" width="110" src="/images/Event2022/LogoOfPorts/logo-saudi.jpg" alt="Port of Saudi"></div>
+				<h5>Mr Steven Clapperton, Director Sustainable Marine Operations, London Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-of-london.jpg" alt="Logo of London"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -289,7 +178,8 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Rayan Albkri is currently the advisor of the President of Mawani, working on priority files such as corporatization project in carving out regulation from assets ownership and operation with more than 20 years’ experience in the services industry, focusing on creating value, driving sustainable growth, enabling revenue generation and stimulating strategic business development. My expertise spans across various government and private sectors within the logistics ecosystem, including shipping lines, port terminals, transportation, warehousing &amp; bonded facilities &amp; sea-port management, all in efforts to support in achieving Visions 2030. Through the years, I was able to enrich my experience and enhance my skills in creating impactful solutions across the industry. Through my experience, I have grown to appreciate the importance of digital transformation and have learned how effective implementation and digitization of services may exponentially streamline user experience.</p>
+				<p>As Director of Sustainable Marine Operations, Steven leads the Port of London Authority’s main operational areas, which includes marine services, civil and marine engineering, hydrographic services, and the port’s corporate risk and compliance function. His responsibilities include manging the port’s marine infrastructure, significant vessel fleet and salvage operations, and delivery of major projects. He has a strong focus on environmental issues and is passionate about conserving and improving our rivers.</p>
+				<p>Prior to the PLA, Steven was Maritime Director &amp; Harbour Master at the Port of Tyne for the preceding 5 years. Following a seagoing career and a subsequent role as a harbour pilot, he worked in the consultancy sector with DNV GL, working on various marine projects, including a period of secondment to an international oil major. Alongside this, Steven has held a number of voluntary roles including being a Trustee of the Tyne Rivers Trust. Steven is a Master Mariner and Associate Fellow of the Nautical Institute.</p>
 			</div>
 		</div>
 	</div>
@@ -297,10 +187,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/rene-van-der-plas.jpg" alt="Mr René van der Plas">
+					<img height="60" width="60" src="/images/Event2023/Delegation/subramaniam-kuruppiah.jpg" alt="Capt Subramaniam Kuruppiah">
 				</div>
-				<h5>Mr René van der Plas, Director, Port of Rotterdam International, Port of Rotterdam Authority</h5>
-				<div class="org-logo"><img height="60" width="203" src="/images/Event2022/LogoOfPorts/logo-rotterdam.jpg" alt="Port of Rotterdam"></div>
+				<h5>Capt Subramaniam Kuruppiah, General Manager, Port Klang Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-of-klang.jpg" alt="Logo of Klang"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -310,14 +200,8 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Mr René van der Plas Director, Port of Rotterdam International, Port of Rotterdam Authority After attaining the Master of Science degree at the university of Delft, René van der Plas started his career at European Container Terminal where he had different operational and managerial positions. In 1997 he changed to Twijnstra Gudde Management Consultants where he has specialized in project management, procurement and public private partnership. He was appointed as a partner in 2002. In 2004 he started at Havenbedrijf Rotterdam N.V. (Port of Rotterdam Authority) as Director Development and construction Maasvlakte II. He was responsible for the overall planning, implementation and construction of the Maasvlakte 2 project (2,000 hectares of new port and industrial area). In 2012 he was promoted Vice President Maasvlakte II. After completion of Maasvlakte II in 2014 he was appointed as Director Rail and president of the exchange platform of rail freight.</p>
-				<p>As per June 1st 2016, René van der Plas was appointed Director Port of Rotterdam International within Havenbedrijf Rotterdam N.V. (Port of Rotterdam Authority).</p>
-				<p>René van der Plas is a member of the board of the following partnerships:<br>
-				o Sohar Port and Freezone<br>
-				o Porto Central, Brazil<br>
-				o PT Pelabuhan Rotterdam Indonesia<br>
-				o Companhia de Desenvolvimento do Complexo Industrial e Portuário do Pecém CIPP S/A), Brazil.</p>
-				<p>Since 2012 René van der Plas is member of the Supervisory Board of NPRC, Dutch cooperation of private entrepreneurs of river navigation.</p>
+				<p>Captain K. Subramaniam began his career in the Merchant Marine in 1981 obtaining his Captaincy in 1992. He joined Port Klang Authority in 1994 as a Harbour Pilot and held several designations before being appointed the General Manager in 2016 becoming the 1st scholar sponsored by PKA to head the organization.</p>
+				<p>He is currently the President of the International Association of Ports &amp; Harbours (IAPH), Advisory Board Member of APEC Port Services Network and Secretary General of Eastern Dredging Association EADA.</p>
 			</div>
 		</div>
 	</div>
@@ -325,10 +209,10 @@ description: Head of Delegation (PAR@2022)
 		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
 			<div class="speaker-img-wrapper">
 				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/stephen-p-metruck.jpg" alt="Mr Stephen P. Metruck">
+					<img height="60" width="60" src="/images/Event2023/Delegation/eugene-seroka.jpg" alt="Mr Eugene D. Seroka">
 				</div>
-				<h5>Mr Stephen P. Metruck, Executive Director, Port of Seattle</h5>
-				<div class="org-logo"><img height="60" width="136" src="/images/Event2022/LogoOfPorts/logo-seattle.png" alt="Port of Seattle"></div>
+				<h5>Mr Eugene D. Seroka, Executive Director, Port of Los Angeles</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-of-la.jpg" alt="Logo of Los Angeles"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -338,97 +222,12 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>As executive director of the Port of Seattle, Steve Metruck leads a country-wide special purpose government responsible for providing world-class trade, travel, and logistics services to one of the nation's most dynamic and fastest growing regions. The Port manages operations for Seattle-Tacoma International Airport — one of the nation's busiest passenger airports — as well as cruise, commercial fishing, grain terminals, recreational marinas, and other real estate activities. The Port also operates one of North America's largest maritime cargo shipping gateways through the Northwest Seaport Alliance, a joint effort with the Port of Tacoma. As executive director, Metruck leads 1,900 employees who deliver safe, efficient, and high quality services to the region while improving local economic opportunities and safeguarding our environment. The Port of Seattle is one of the Pacific Northwest's leading economic engines, generating over 216,000 jobs and $894 million in state and local taxes.</p>
-				<p>Metruck came to the Port of Seattle following a 34 year career with the U.S. Coast Guard, retiring as a Rear Admiral. He has experience across a diverse range of operations and executive level assignments on both coasts, the Great Lakes, and the Gulf of Mexico. As the Chief Financial Officer for the Coast Guard, Metruck was responsible for all Coast Guard financial management and execution of the service's $10 billion annual appropriation. As Commander of the Fifth District in Portsmouth, Virginia, he had overall responsibility for the full range of U.S. Coast Guard missions carried out from central New Jersey to North Carolina.</p>
-				<p>Throughout his career, Metruck has maintained a strong record of advancing a diverse and safe workplace. He is currently leading the Port through a groundbreaking effort to increase diversity in contracting and is supporting expansion of internal employee resource groups and efforts to increase diversity at the Port. Metruck emphasized employee safety and diversity during his Coast Guard career as well. He served three years on the Coast Guard's Sexual Assault Prevention and Response Task force and as a member of the Coast Guard Academy's Board of Trustees, he oversaw significant increases in the diversity of the student body.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/sun-lei.jpg" alt="Mr Sun Lei">
-				</div>
-				<h5>Mr Sun Lei, Deputy Director, Port and Shipping Division, Ningbo Municipal Port Administration Bureau</h5>
-				<div class="org-logo"><img height="60" width="112" src="/images/Event2022/LogoOfPorts/logo-ningbo.png" alt="Port of Ningbo"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Mr Sun Lei joined Ningbo Municipal Port Administration Bureau in 2002 and has been engaged in port and Shipping administration since 2013 as the Deputy Director of Port and Shipping Division.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/jing-yan.jpg" alt="Ms Jing Yan">
-				</div>
-				<h5>Ms Jing Yan, Director, Shipping Division, Shanghai Municipal Transportation Commissions</h5>
-				<div class="org-logo"><img height="60" width="42" src="/images/Event2022/LogoOfPorts/logo-shanghai.jpg" alt="Port of Shanghai"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Jing Yan was graduated from Shanghai Maritime University, she was majored in Maritime Law, and worked at several departments such as Shanghai Municipal Port Administrative Bureau, Shanghai Municipal Transport and Port Authority, Shanghai Municipal Transportation Commission (SMTC). Director Jing has been working for the development of Shanghai International Shipping Center for a long time, now she is the director of the Shipping Division, SMTC.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/quah-ley-hoon.jpg" alt="Ms Quah Ley Hoon">
-				</div>
-				<h5>Ms Quah Ley Hoon, Chief Executive, Maritime and Port Authority of Singapore</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-mpa.jpg" alt="Port of Singapore"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Ms Quah Ley Hoon joined the Maritime and Port Authority of Singapore as Chief Executive (Designate) on 1 November 2018 and was subsequently appointed the Chief Executive with effect from 1 January 2019. Prior to this, she was with MediaCorp as Chief Editor in Channel NewsAsia.</p>
-				<p>She has more than 15 years of work experience in the public sector ranging from economic policies to environmental and social policies, including the US-Singapore Free Trade Agreement, UN Framework Convention on Climate Change, and the National Population Secretariat.</p>
-				<p>Ley Hoon is on the board of Movement for the Intellectually Disabled of Singapore (MINDS), Singapore Chamber of Maritime Arbitration, Singapore Maritime Foundation, Singapore Maritime Institute, Global Centre for Maritime Decarbonisation, Defence Science &amp; Technology and Singapore Trade Data Exchange Agency. She graduated with a MBA from IMD Business School in Switzerland in 2010, and a Masters in Economics from the University of Pantheon Sorbonne, France in 2000. She also holds a degree in Psychology from the University of Southern Queensland.</p>
-				<p>She was awarded the Public Administration Medal (Silver) in 2017.</p>
-			</div>
-		</div>
-	</div>
-	<div class="accordion">
-		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
-			<div class="speaker-img-wrapper">
-				<div class="speaker-img">
-					<img height="60" width="60" src="/images/Event2022/Delegation/yuan-yue.jpg" alt="Ms Yuan Yue">
-				</div>
-				<h5>Ms Yuan Yue, Deputy Director-General, Guangzhou Port Authority</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-guangzhou.jpg" alt="Port of Guangzhou"></div>
-				<div class="icon-wrapper">
-					<i class="sgds-icon sgds-icon-chevron-up"></i>
-					<i class="sgds-icon sgds-icon-chevron-down"></i>
-				</div>
-			</div>
-		</a>
-		<div class="bp-accordion-body">
-			<div class="speaker-content">
-				<h6>Delegate's Bio:</h6>
-				<p>Ms. Yuan Yue, Senior Economist, currently serves as the Deputy Director-general of Guangzhou Port Authority. In her career, she once worked as the Deputy Director-general of Guangzhou Foreign Trade and Economic Cooperation Bureau, the Director of Guangzhou Asian Games Marketing and Broadcasting Department, the Director of Guangzhou Asian Games Ticketing Center, and the General Manager of Guangzhou Hotel etc.</p>
-				<p>In 2014, she was appointed as the Deputy Director-general of Guangzhou Port Authority. Since then, she has been dedicated to promoting the international exchanges and cooperation of Guangzhou Port. Up to now, she has promoted the friendly cooperation relations with nearly 20 major international ports, which effectively increases the international influence and popularity of Guangzhou Port.</p>
+				<p>Gene Seroka is the Executive Director of the Port of Los Angeles, the busiest container port in North America. Nominated by Los Angeles Mayor Eric Garcetti on May 27, 2014, and confirmed by the Los Angeles City Council on June 11, 2014, the Port has experienced a series of historic, record-breaking performances since his appointment.</p>
+				<p>Gene Seroka is the Executive Director of the Port of Los Angeles, the busiest container port in North America. Confirmed by Los Angeles City Council in June 2014, the Port has experienced a series of historic, record-breaking performances since his appointment.</p>
+				<p>As Executive Director, Seroka interacts with a wide range of stakeholders, including Port customers around the globe, industry partners, elected and appointed officials at all levels, business leaders and local residents. A respected global trade expert, Seroka has advocated for rules-based trade agreements that benefit American exporters and manufacturers.</p>
+				<p>Since the pandemic-induced buying surge generated by American consumers in the second half of 2020, the Port of Los Angeles has eclipsed multiple monthly cargo records and recorded eight out of 10 highest-performing quarters in its 115-year history. The Port set two new milestones for the Western Hemisphere in June 2021 as the first port to process 10 million Twenty-Foot Equivalent Units (TEUs) in a 12-month period and in May 2021 the first port to process 1 million TEUs in a single month.</p>
+				<p>Seroka has distinguished himself as a leader throughout his illustrious career in shipping, global logistics and executive management. He received the esteemed Stanley T. Olafson Award from the Los Angeles Area Chamber of Commerce in 2023, recognizing his work in the world trade industry and leadership of the nation’s busiest container port. The Containerization &amp; Intermodal Institute named Seroka the 2021 recipient of the Connie Award, one the most coveted honors in the maritime industry. Lloyd’s List has recognized Seroka as the preeminent source on the supply chain, which earned him a spot in the 2021 Top 100 most influential people in shipping. Also in 2021, the Inland Empire Economic Partnership honored Seroka with its Lifetime Achievement Award, recognizing decades of leadership and accomplishments in the supply chain, logistics and maritime industry. Seroka has been named one of the most influential people in Los Angeles by the Los Angeles Business Journal and featured on the LA500 list each year since 2016.</p>
+				<p>In 2020, Supply Chain Dive named Seroka Executive of the Year for his leadership throughout the pandemic. Throughout the pandemic, Seroka—who lived in China during the 2002-2004 SARS epidemic—led the Port’s response to the global health crisis, keeping cargo flowing as an essential service to the nation. In March 2020, former Mayor Eric Garcetti named Seroka the Chief Logistics Officer for the City of Los Angeles, while concurrently serving as the Port’s Executive Director.</p>
 			</div>
 		</div>
 	</div>
