@@ -125,9 +125,9 @@ description: ""
 			<figcaption>
 				<h3>PAR 2022 @ Abu Dhabi</h3>
 				<ul>
-					<li><i class="sgds-icon sgds-icon-calendar"></i>31 - 2 June 2022</li>
-					<li><i class="sgds-icon sgds-icon-clock"></i>1.00pm (CET) - 5.00pm (CET)</li>
-					<li><i class="sgds-icon sgds-icon-place"></i>Virtual</li>
+					<li><i class="sgds-icon sgds-icon-calendar"></i>1 June 2022</li>
+					<li><i class="sgds-icon sgds-icon-clock"></i>8.30am - 5.00pm</li>
+					<li><i class="sgds-icon sgds-icon-place"></i>Four Seasons Hotel Al Maryah Island, Abu Dhabi, UAE</li>
 				</ul>
 			</figcaption>
 		</figure>
