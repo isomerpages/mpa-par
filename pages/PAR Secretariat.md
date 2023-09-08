@@ -1,7 +1,7 @@
 ---
 title: PAR Secretariat
-permalink: /par-secretariat
-description: ""
+permalink: /par-secretariat/
+description: contact information
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -39,8 +39,8 @@ description: ""
 	}
 </style>
 <div class="par-main">
-	<p><strong>Maritime and Port Authority of Singapore</strong><br/>  
-	460 Alexandra Road, mTower #19-00, Singapore 119963<br/>  
+	<p><strong>Maritime and Port Authority of Singapore</strong><br>  
+	460 Alexandra Road, mTower #19-00, Singapore 119963<br>  
 	Tel: 6375 1600</p>
 	<p>For further enquiries, please contact the following personnel:</p>
 	<ol>

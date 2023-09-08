@@ -1,7 +1,7 @@
 ---
-title: PAR 2017 @ Ningbo
-permalink: /past-events/2017/
-description: PAR 2017 @ Ningbo
+title: PAR 2022 @ Abu Dhabi
+permalink: /past-events/2022/
+description: ""
 ---
 <style type="text/css">
 	body {font-size:14px;line-height:1.42857143;}
@@ -107,27 +107,27 @@ description: PAR 2017 @ Ningbo
 	<div class="tab">
 		<div class="tab-nav">
 			<ul>
-				<li><a href="/past-events/2022">PAR 2022 @ Abu Dhabi</a></li>
+				<li class="active"><a href="/past-events/2022">PAR 2022 @ Abu Dhabi</a></li>
 				<li><a href="/past-events/2021">PAR 2021 @ Antwerp</a></li>
 				<li><a href="/past-events/2020">PAR COVID-19 Declaration</a></li>
 				<li><a href="/past-events/2019">PAR 2019 @ Kobe</a></li>
 				<li><a href="/past-events/2018">PAR 2018 @ Long Beach</a></li>
-				<li class="active"><a href="/past-events/2017">PAR 2017 @ Ningbo</a></li>
+				<li><a href="/past-events/2017">PAR 2017 @ Ningbo</a></li>
 				<li><a href="/past-events/2016">PAR 2016 @ Rotterdam</a></li>
 				<li><a href="/past-events/2015">PAR 2015 @ Singapore</a></li>
 			</ul>
 		</div>
 		<figure class="tab-content">
-			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop">
-			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch">
-			<img src="/images/Event2017/bg-past-events-m.jpg" class="is-hidden-desktop">
-			<img src="/images/Event2017/bg-past-events-d.jpg" class="is-hidden-touch">
+			<img src="/images/Shared/bg-past-events-overlay-m.png" class="overlay is-hidden-desktop" alt="overlay">
+			<img src="/images/Shared/bg-past-events-overlay-d.png" class="overlay is-hidden-touch" alt="overlay">
+			<img src="/images/Event2022/bg-past-events-m.jpg" class="is-hidden-desktop" alt="Background of event 2022">
+			<img src="/images/Event2022/bg-past-events-d.jpg" class="is-hidden-touch" alt="Background of event 2022">
 			<figcaption>
-				<h3>PAR 2017 @ Ningbo</h3>
+				<h3>PAR 2022 @ Abu Dhabi</h3>
 				<ul>
-					<li><i class="sgds-icon sgds-icon-calendar"></i>10 July 2017</li>
-					<li><i class="sgds-icon sgds-icon-clock"></i>8:00am - 5:20pm</li>
-					<li><i class="sgds-icon sgds-icon-place"></i>Shangri-La Hotel Ningbo</li>
+					<li><i class="sgds-icon sgds-icon-calendar"></i>1 June 2022</li>
+					<li><i class="sgds-icon sgds-icon-clock"></i>8.30am - 5.00pm</li>
+					<li><i class="sgds-icon sgds-icon-place"></i>Four Seasons Hotel Al Maryah Island, Abu Dhabi, UAE</li>
 				</ul>
 			</figcaption>
 		</figure>
@@ -136,148 +136,170 @@ description: PAR 2017 @ Ningbo
 	<ul class="par-delegate-list">
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/andrew-tan.png" alt="Andrew Tan">
+				<img src="/images/Event2022/Delegation/mohamed-juma-al-shamisi.jpeg" alt="Captain Mohamed Juma Al Shamisi">
 				<figcaption>
-					<h5>Andrew Tan</h5>
-					<p>Chief Executive Officer, Maritime and Port Authority of Singapore</p>
+					<h5>Captain Mohamed Juma Al Shamisi</h5>
+					<p>Managing Director and Group CEO, AD Ports Group - Opening Address</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/herve-martel.png" alt="Hervé Martel">
+				<img src="/images/Event2022/Delegation/omar-bin-talal-hariri.jpg" alt="H.E. Omar bin Talal Hariri">
 				<figcaption>
-					<h5>Hervé Martel</h5>
-					<p>President HAROPA &amp; CEO Port of Le Havre</p>
+					<h5>H.E. Omar bin Talal Hariri</h5>
+					<p>President, Saudi Ports Authority (MAWANI) - Guest Address</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/ichiro-nishimura.jpg" alt="Ichiro Nishimura">
+				<img src="/images/Event2022/Delegation/he-suhail-mohamed-al-mazrouei.jpg" alt="H.E. Suhail Mohamed Al Mazrouei">
 				<figcaption>
-					<h5>Ichiro Nishimura</h5>
-					<p>Deputy Director General, Port and Harbor Bureau, Kobe City Government</p>
+					<h5>H.E. Suhail Mohamed Al Mazrouei</h5>
+					<p>Minister of Energy and Infrastructure, United Arab Emirates - Welcome Address</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jan-van-der-borght.jpg" alt="Jan Van der Borght">
+				<img src="/images/Event2022/Delegation/farhan-al-fartosi.jpg" alt="Dr. Farhan Al Fartosi">
 				<figcaption>
-					<h5>Jan Van der Borght</h5>
-					<p>Chief Representative for China, Antwerp Port Authority</p>
+					<h5>Dr. Farhan Al Fartosi</h5>
+					<p>General Manager, General Company for Ports of Iraq</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jens-meier.jpg" alt="Jens Meier">
+				<img src="/images/Event2022/Delegation/essam-al-sheibany.jpg" alt="Mr Essam Al Sheibany">
 				<figcaption>
-					<h5>Jens Meier</h5>
-					<p>Chief Executive Officer, Hamburg Port Authority</p>
+					<h5>Mr Essam Al Sheibany</h5>
+					<p>Vice President, Sustainability, ASYAD Group</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/jiang-yi.jpg" alt="Jiang Yi">
+				<img src="/images/Event2022/Delegation/hiroyuki-saito.jpg" alt="Mr Hiroyuki Saito">
 				<figcaption>
-					<h5>Jiang Yi</h5>
-					<p>Deputy Director of Port of Dalian Authority</p>
+					<h5>Mr Hiroyuki Saito</h5>
+					<p>Director General, Environmental Policy in Port and Airport, Port and Harbour Bureau, Kobe City Government</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/k-subramaniam.jpg" alt="K. Subramaniam">
+				<img src="/images/Event2022/Delegation/jordi-torrent.jpg" alt="Mr Jordi Torrent">
 				<figcaption>
-					<h5>K. Subramaniam</h5>
-					<p>General Manager, Port Klang Authority</p>
+					<h5>Mr Jordi Torrent</h5>
+					<p>Strategy Director, Port of Barcelona</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/kenji-kuriyagawa.jpg" alt="Kenji Kuriyagawa">
+				<img src="/images/Event2022/Delegation/koo-ja-rim.jpg" alt="Mr Koo Ja-rim">
 				<figcaption>
-					<h5>Kenji Kuriyagawa</h5>
-					<p>Executive Director of Policy Coordination Department, Port and Harbor Bureau, City of Yokohama</p>
+					<h5>Mr Koo Ja-rim</h5>
+					<p>Vice President, Global Business Division, Busan Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/kyoichi-ono.png" alt="Kyoichi Ono">
+				<img src="/images/Event2022/Delegation/luc-arnouts.jpg" alt="Mr Luc Arnouts">
 				<figcaption>
-					<h5>Kyoichi Ono</h5>
-					<p>Deputy Director General for Technical Affairs, Bureau of Port and Harbor, Tokyo Metropolitan Government</p>
+					<h5>Mr Luc Arnouts</h5>
+					<p>Vice President - Director International Relations and Networks, Antwerp-Bruges Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/li-biao-kang.jpg" alt="Li Biaokang">
+				<img src="/images/Event2022/Delegation/othman-siddeq-mohamed-al-khoori.jpg" alt="Mr Othman Siddeq Mohamed Al Khoori">
 				<figcaption>
-					<h5>Li Biaokang</h5>
-					<p>Director General, Ningbo Maritime Safety Administration</p>
+					<h5>Mr Othman Siddeq Mohamed Al Khoori</h5>
+					<p>Acting Executive Director - Corporate Authority, Abu Dhabi Ports Group</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/randy-d-parsons.jpg" alt="Randy D. Parsons">
+				<img src="/images/Event2022/Delegation/rayan-albkri.jpg" alt="Mr Rayan Albakri">
 				<figcaption>
-					<h5>Randy D. Parsons</h5>
-					<p>Director of Security, Port of Long Beach, CA</p>
+					<h5>Mr Rayan Albakri</h5>
+					<p>Advisor to the President, Saudi Ports Authority (MAWANI)</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/victor-schoenmakers.jpg" alt="Victor Schoenmakers">
+				<img src="/images/Event2022/Delegation/rene-van-der-plas.jpg" alt="Mr René van der Plas">
 				<figcaption>
-					<h5>Victor Schoenmakers</h5>
-					<p>Director Corporate Strategy, Port of Rotterdam Authority</p>
+					<h5>Mr René van der Plas</h5>
+					<p>Director, Port of Rotterdam International, Port of Rotterdam Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/yuan-yue.jpg" alt="Yuan Yue">
+				<img src="/images/Event2022/Delegation/stephen-p-metruck.jpg" alt="Mr Stephen P. Metruck">
 				<figcaption>
-					<h5>Yuan Yue</h5>
-					<p>Deputy Director General, Guangzhou Port Administration Bureau</p>
+					<h5>Mr Stephen P. Metruck</h5>
+					<p>Executive Director, Port of Seattle</p>
 				</figcaption>
 			</figure>
 		</li>
 		<li>
 			<figure class="par-delegate">
-				<img src="/images/Event2017/Delegation/zhang-shi-fang.png" alt="Zhang Shifang">
+				<img src="/images/Event2022/Delegation/sun-lei.jpg" alt="Mr Sun Lei">
 				<figcaption>
-					<h5>Zhang Shifang</h5>
-					<p>Director General, Ningbo Municipal Port Administration Bureau</p>
+					<h5>Mr Sun Lei</h5>
+					<p>Deputy Director, Port and Shipping Division, Ningbo Municipal Port Administration Bureau</p>
+				</figcaption>
+			</figure>
+		</li>
+		<li>
+			<figure class="par-delegate">
+				<img src="/images/Event2022/Delegation/jing-yan.jpg" alt="Ms Jing Yan">
+				<figcaption>
+					<h5>Ms Jing Yan</h5>
+					<p>Director, Shipping Division, Shanghai Municipal Transportation Commissions</p>
+				</figcaption>
+			</figure>
+		</li>
+		<li>
+			<figure class="par-delegate">
+				<img src="/images/Event2022/Delegation/quah-ley-hoon.jpg" alt="Ms Quah Ley Hoon">
+				<figcaption>
+					<h5>Ms Quah Ley Hoon</h5>
+					<p>Chief Executive, Maritime and Port Authority of Singapore</p>
+				</figcaption>
+			</figure>
+		</li>
+		<li>
+			<figure class="par-delegate">
+				<img src="/images/Event2022/Delegation/yuan-yue.jpg" alt="Ms Yuan Yue">
+				<figcaption>
+					<h5>Ms Yuan Yue</h5>
+					<p>Deputy Director-General, Guangzhou Port Authority</p>
 				</figcaption>
 			</figure>
 		</li>
 	</ul>
-	<h4 class="par-title">ABOUT PAR 2017@ NINGBO</h4>
-	<p>The 3rd edition of PAR was organized by the Ningbo Municipal Administration Bureau. It was held in Ningbo from 9 to 11 July 2017. Topics discussed at PAR2017@Ningbo included port resource integration, port logistics, sustainability, port safety, emergency response and security. PAR2017@Ningbo saw 14 organisations participating in the event including Port and Urban Projects Bureau, Kobe City Government, Port and Harbour Bureau, City of Yokohama, Port of Le Havre and Port of Dalian Authority who participated for the first time.</p>
+	<h4 class="par-title">ABOUT PAR 2022 @ Abu Dhabi</h4>
+	<p>The 7th Edition of the Port Authorities Roundtable, hosted by AD Ports Group, will be held in Abu Dhabi from 31 May to 2 June 2022.</p>
+	<p>The theme for PAR2022@Abu Dhabi is “Reimaging a New Era of Trade Together”. It would be a closed-door, by-invitation event in a roundtable format for the CEO/Chairman/ Director General/President of invited port authorities.</p>
+	<p>Port and shipping, which constitute the crucial part of the global logistics network, are the backbone of international trade and support the innovative development of global supply chain. PAR 2022 will be a platform for strengthened consensus and cooperation amongst stakeholders.</p>
 	<figure class="par-map">
-		<iframe title="Map of Port Ningbo" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3459.860878295499!2d121.55994516522674!3d29.868285781946813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x344d6335cf214517%3A0xe24e3b18eece0162!2sShangri-La+Hotel+Ningbo%2C+Jiangdong+Qu%2C+Ningbo+Shi%2C+Zhejiang+Sheng%2C+China%2C+315020!5e0!3m2!1sen!2ssg!4v1498719048480" width="600" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+		<iframe allowfullscreen="" style="border:0" frameborder="0" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d54036.647242413506!2d54.41224577919871!3d24.514567235733104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e66e1570f73ab%3A0xe2e6c91f52c93a8f!2sZayed%20Port!5e0!3m2!1sen!2ssg!4v1647831159983!5m2!1sen!2ssg"></iframe>
 		<figcaption>
 			<h4 dir="ltr">Held In</h4>
-			<p>Ningbo Port is composed of Beilun Port Area, Zhenhai Port Area, Ningbo Port Area, Daxie Port Area and Chuanshan Port Area and is a multi-functional and comprehensive modern deep-water port integrated by inner river port, estuary port and seaport. Ningbo Port mainly engages in stevedoring, storage and transfer of imported iron ores, domestic and foreign trade containers, crude oil and product oil, liquid chemical products, coals and other bulk cargos. In September 2015, the Ningbo Port Co. revealed it had completed merger procedures with Zhoushan Port Co. The new company is called Ningbo- Zhoushan Port Group Co. Ningbo- Zhoushan port handled a total throughput of 24.6m TEU in 2017, an increase of 14.1% compared to 2016 volume of 23.3m TEU. Ningbo- Zhoushan port is ranked the world’s fourth busiest container port in 2017 by Alphaliner.</p>
-			<p><a href="http://www.nbjt.gov.cn/" target="_blank">www.nbjt.gov.cn</a></p>
+			<p>Established in 2006, AD Ports Group today serves as the region’s premier facilitator of logistics, industry, and trade, as well as a bridge linking Abu Dhabi to the world. Listed on the Abu Dhabi Securities Exchange (ADX: ADPORTS), AD Ports Group’s vertically integrated business approach has proven instrumental in driving the emirate’s economic development over the past decade.</p>
+			<p>Operating several clusters covering Ports, Economic Cities &amp; Free Zones, Maritime, Logistics, and Digital, AD Ports Group’s portfolio comprises 10 ports and terminals, and more than 550 square kilometres of economic zones within KIZAD and ZonesCorp, the largest integrated trade, logistics, and industrial business grouping in the Middle East.</p>
+			<p>AD Ports Group is rated A+ by S&amp;P and A+ by Fitch.</p>
+			<p>In 2021, AD Ports Group handled 3.4 million TEUs and 45 million tonnes of general cargo.</p>
 		</figcaption>
 	</figure>
-	<div class="par-gallery">
-		<h4 class="par-title">Image Gallery</h4>
-		<ul class="clearfix">
-			<li><img src="/images/Event2017/photogallery-1.jpg" alt="Photo Gallery 2017"></li>
-			<li><img src="/images/Event2017/photogallery-2.jpg" alt="Photo Gallery 2017"></li>
-			<li><img src="/images/Event2017/photogallery-3.jpg" alt="Photo Gallery 2017"></li>
-		</ul>
-		<div class="par-gallery-link"><a href="https://www.flickr.com/photos/mpa_singapore/albums/72157669605630518" target="_blank">View Full Album</a></div>
-	</div>
 </div>

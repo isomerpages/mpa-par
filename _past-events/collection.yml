@@ -2,6 +2,7 @@ collections:
   past-events:
     output: true
     order:
+      - PAR 2022 @ Abu Dhabi.md
       - PAR 2021 @ Antwerp.md
       - PAR COVID 19 Declaration.md
       - PAR 2019 @ Kobe.md
