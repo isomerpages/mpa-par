@@ -231,4 +231,263 @@ description: Head of Delegation (PAR@2022)
 			</div>
 		</div>
 	</div>
+	
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/kang-joon-suk.jpg" alt="Mr Kang Joon-suk">
+				</div>
+				<h5>Mr Kang Joon-suk, Chief Executive Officer and President, Busan Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-busan.jpg" alt="Logo of Busan"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr Kang is the CEO &amp; President of Busan Port Authority since September 2021. Prior to this, Mr Kang was the Vice Minister in the Ministry of Oceans and Fisheries, President in the National Institute of Fisheries Science, Deputy Minister in the Fisheries Policy Office, Ministry of Oceans and Fisheries, and Director General of Maritime Affairs in the National Oceanic and Atmospheric Administration, USA.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/kotaro-inoue.jpg" alt="Mr Kotaro Inoue">
+				</div>
+				<h5>Mr Kotaro Inoue, Director General for Coordination, Osaka Ports and Harbors Bureau, City of Osaka, Japan</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-osaka.png" alt="Logo of Osaka"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr Inoue is the currently the Director General for Coordination, Osaka Ports and Harbors Bureau, City of Osaka. Prior to this, Mr Inoue was the Director of General Affairs Division in the Public Health Bureau, City of Osaka. Mr Inoue also previously held positions as the Director of Planning Division in the Office of the Mayor, City of Osaka, Director for Dementia Policy and Community Comprehensive Care Promotion in the Social Welfare Bureau, City of Osaka.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/samuel-mcskimming.jpg" alt="Mr Samuel McSkimming">
+				</div>
+				<h5>Mr Samuel McSkimming, Chief Executive Officer, Pilbara Ports Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-pilbara.png" alt="Logo of Pilbara"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr McSkimming was appointed CEO of Pilbara Ports Authority in May 2023. He has extensive experience in leading all aspects of multi-user bulk infrastructure, including in operations, marketing, commercial negotiation, and corporate affairs. Prior to joining Pilbara Ports, Mr McSkimming was in an executive general management role in bulk export railroads. Mr McSkimming has a background in competition law and regulatory economics, and has studied at Harvard Business School and the University of New South Wales, where he obtained a Bachelor of Arts/Bachelor of Laws (Hons).</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/noriaku-izuka.jpg" alt="Mr Noriaku Izuka">
+				</div>
+				<h5>Mr Noriaku Izuka, Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-yokohama.png" alt="Logo of Yokohama"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>IZUKA Noriaki serves as the Executive Director of the Construction and Maintenance Department at the Port and Harbor Bureau, City of Yokohama. In April 2016, he assumed the role of Director of the Coastal Maintenance Division within the Construction and Maintenance Department. In April 2018, he became the Director of the First Construction Division, furthering his contributions to the city's port infrastructure. In April 2019, he was seconded to the Yokohama-Kawasaki International Port Corporation, broadening his scope to international port operations. Due to his dedication and expertise, he was appointed as the Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama in April 2023.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/eric-caris.jpg" alt="Mr Eric Caris">
+				</div>
+				<h5>Mr Eric Caris, Director of Cargo Marketing, Port of Los Angeles</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-la.png" alt="Logo of LA"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>As Director of Cargo Marketing for the Port of Los Angeles, Eric Caris is responsible for marketing, sales, and promotional programs designed to attract and retain shipping business to the Port. A significant activity involves the negotiation of container terminal leases in collaboration with the Cargo and Industrial Real Estate Division. On the efficiency side, Cargo Marketing plays an integral part of implementing the Port Optimizer™ program, which provides supply chain stakeholders with added visibility to the supply chain.</p>
+				<p>Caris played an active role in the research and development of the Port’s Alternative Maritime Power® (AMP®) program, a groundbreaking technology to reduce ship emissions, launched in 2004. Instead of burning diesel fuel while berthed, AMP ships “plug in” to shoreside electrical power, which results in the elimination of two tons of air emissions each day a ship is docked.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/claes-sundmark.jpg" alt="Mr Claes Sundmark">
+				</div>
+				<h5>Mr Claes Sundmark, Vice President, Sales &amp; Marketing, Gothenburg Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-gothenburg.jpg" alt="Logo of Gothenburg"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr. Sundmark holds a bachelor’s degree of Science in Economics and Business Administration from the University of Orebro in Sweden. He joined the Port of Gothenburg as Vice President &amp; Sales Director in 2000. 2010 the Port of Gothenburg changed its structure from terminal operation into the traditional role of a Port Authority. Mr. Sundmark was than appointed to Vice President, Sales &amp; Marketing at the new Gothenburg Port Authority. Prior to this he filled various positions at intermodal rail operators in Switzerland and Sweden.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/jens-meier.jpg" alt="Mr Jens Meier">
+				</div>
+				<h5>Mr Jens Meier, CEO, Hamburg Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-hamburg.jpg" alt="Logo of Hamburg"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Jens Meier has been CEO of the Hamburg Port Authority (HPA) since 2008. With more than 25 years of experience in the port, logistics, finance and IT sectors, the computer science graduate is a recognized leader in the maritime industry. His previous professional positions include board positions at Fiege Holding, the tts Group, Systematics AG (later EDS) or Soft-ware Design &amp; Management AG (Ernst &amp; Young Group). In May 2019, Jens Meier was elected Vice-President of the International Association of Ports and Harbors (IAPH), responsible for Europe, since the end of 2021 temporarily for Africa as well. Jens Meier is a frequent speaker with a large media outreach, in particular on future maritime affairs and in the area of digitalisation.</p>
+				<p>With regard to his voluntary commitment, Jens Meier is a founding board member of the Hamburger Informatik Forum e.V. (Hamburg Informatics Forum). He is also a member of several supervisory boards and boards of trustees. From 2015 to 2018 he served as president of Hamburger Sport Verein e.V. (HSV).</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/mohamed-al-yahyaei.jpg" alt="Capt Mohamed AI Yahyaei">
+				</div>
+				<h5>Capt Mohamed AI Yahyaei, Chief Harbour Master, Corporate Authority, AD Ports Group</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-ad.png" alt="Logo of AD"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mohamed Al Yahyaei is Chief Harbour Master in AD Ports Group, where the main function is to ensure implementation of applicable national and international maritime laws and regulations. He manages safely traffic of all vessels, all marine activities, and operations within Abu Dhabi Ports limits’ as per the regulatory requirements to remain competitive with the times in response to global shifts in maritime.</p>
+				<p>He is also the Member of the Waterfront Regulatory Committee in the Emirate of Abu Dhabi, in addition to a member of a committee to abandoned and violating ships removal at the country level.</p>
+				<p>With more than 12 years’ experience in field of maritime shipping, administrations, port marine management, services and HSSE experience, he has held several positions onboard vessels, including seagoing vessels and port services vessels. He has worked as marine pilot and an auditor amassed significant experience in the onshore and offshore industry.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/yu-fulin.jpg" alt="Mr Yu Fulin">
+				</div>
+				<h5>Mr Yu Fulin, Director General, Shanghai Municipal Transportation Commission</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-shanghai.jpg" alt="Logo of Shanghai"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Yu Fulin served as the Deputy Director General of the Shanghai Housing and Urban-Rural Development Administration Commission, the Deputy Director General of the Shanghai Municipal Transportation Commission, the Director General of the Shanghai Municipal Road Transport Administrative Bureau, etc.</p>
+				<p>Yu Fulin currently serves as the Director General of the Shanghai Municipal Transportation Commission.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/gu-jinshan.jpg" alt="Mr Gu Jinshan">
+				</div>
+				<h5>Mr Gu Jinshan, Chairman, Shanghai International Port Group</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-sipg.jpg" alt="Logo of SIPG"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Gu Jinshan is Chairman of Shanghai International Port (Group) Co., Ltd (SIPG).</p>
+				<p>President of China Ports and Harbors Association. He served successively as Director General of Shanghai Water Resources Bureau (Shanghai Oceanic Administration), Director General of Shanghai Housing and Urban-Rural Development Administration Commission, and Deputy Secretary-General of Shanghai Municipal People’s Government.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/lou-binzheng.jpg" alt="Mr Lou Binzheng">
+				</div>
+				<h5>Mr Lou Binzheng, Deputy Director of Ningbo Municipal Transport Bureau (Ningbo Municipal Port Administration Bureau)</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-ningbo.jpg" alt="Logo of Ningbo"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr. Lou Binzheng is the Deputy Director General of Ningbo Port Administration Bureau. He was appointed to Ningbo Municipal Transport Bureau (Ningbo Port Administration Bureau) in November 2016, and is in charge of comprehensive transportation coordination, multimodal transportation, port administration, and shipping industry development, etc. He has been committed to the digital construction of ports, organizing and promoting the Port Goods Safety Supervision Application System to enhance the level of intrinsic safety in the whole port area. He actively promotes the upgrading of port and shipping logistics industry and the integrated development of port, city and industry.</p>
+			</div>
+		</div>
+	</div>
+	<div class="accordion">
+		<a href="#!" class="bp-accordion-header bp-accordion-button" role="button" aria-expanded="true">
+			<div class="speaker-img-wrapper">
+				<div class="speaker-img">
+					<img height="60" width="60" src="/images/Event2023/Delegation/sun-xiuqing.jpg" alt="Mr Sun Xiuqing">
+				</div>
+				<h5>Mr Sun Xiuqing, Director General, Guangzhou Port Authority</h5>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-guangzhou.jpg" alt="Logo of Guangzhou"></div>
+				<div class="icon-wrapper">
+					<i class="sgds-icon sgds-icon-chevron-up"></i>
+					<i class="sgds-icon sgds-icon-chevron-down"></i>
+				</div>
+			</div>
+		</a>
+		<div class="bp-accordion-body">
+			<div class="speaker-content">
+				<h6>Delegate's Bio:</h6>
+				<p>Mr. Sun Xiuqing received a master degree in International Journalism from Shanghai Foreign Studies University and an MPA degree from Harvard University. He joined Guangzhou Port Authority as Director General in 2021. Prior to that, he served as Deputy Director of the Administrative Committee of Guangzhou Development Zone, General Director of Guangzhou Airport Economic Zone Management Committee, and Deputy Secretary-General of Guangzhou Municipal Government. He has been in charge of international trade and economic cooperation, finance and economics, economic development, investment promotion and foreign exchange. He has rich experience in international trade and economic cooperation, investment promotion as well as in airport economic zone and port economic zone development.</p>
+			</div>
+		</div>
+	</div>
 </div>
