@@ -323,7 +323,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/eric-caris.jpg" alt="Mr Eric Caris">
 				</div>
 				<h5>Mr Eric Caris, Director of Cargo Marketing, Port of Los Angeles</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-la.png" alt="Logo of LA"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-la.jpg" alt="Logo of LA"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -345,7 +345,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/claes-sundmark.jpg" alt="Mr Claes Sundmark">
 				</div>
 				<h5>Mr Claes Sundmark, Vice President, Sales &amp; Marketing, Gothenburg Port Authority</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-gothenburg.jpg" alt="Logo of Gothenburg"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-gothenburg.jpg" alt="Logo of Gothenburg"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -366,7 +366,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/jens-meier.jpg" alt="Mr Jens Meier">
 				</div>
 				<h5>Mr Jens Meier, CEO, Hamburg Port Authority</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-hamburg.jpg" alt="Logo of Hamburg"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-hamburg.jpg" alt="Logo of Hamburg"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -433,7 +433,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/gu-jinshan.jpg" alt="Mr Gu Jinshan">
 				</div>
 				<h5>Mr Gu Jinshan, Chairman, Shanghai International Port Group</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-sipg.jpg" alt="Logo of SIPG"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-sipg.jpg" alt="Logo of SIPG"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -455,7 +455,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/lou-binzheng.jpg" alt="Mr Lou Binzheng">
 				</div>
 				<h5>Mr Lou Binzheng, Deputy Director of Ningbo Municipal Transport Bureau (Ningbo Municipal Port Administration Bureau)</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-ningbo.jpg" alt="Logo of Ningbo"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-ningbo.png" alt="Logo of Ningbo"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
