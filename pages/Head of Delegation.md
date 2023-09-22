@@ -342,7 +342,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/noriaku-izuka.jpg" alt="Mr Noriaku Izuka">
 				</div>
 				<h5>Mr Noriaku Izuka, Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama</h5>
-				<div class="org-logo"><!--<img alt="Logo of Yokohama" src="/images/Event2022/LogoOfPorts/logo-yokohama.png" width="60" height="60">--></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-yokohama.jpg" alt="Logo of Yokohama"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -352,7 +352,7 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>IZUKA Noriaki serves as the Executive Director of the Construction and Maintenance Department at the Port and Harbor Bureau, City of Yokohama. In April 2016, he assumed the role of Director of the Coastal Maintenance Division within the Construction and Maintenance Department. In April 2018, he became the Director of the First Construction Division, furthering his contributions to the city's port infrastructure. In April 2019, he was seconded to the Yokohama-Kawasaki International Port Corporation, broadening his scope to international port operations. Due to his dedication and expertise, he was appointed as the Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama in April 2023.</p>
+				<p>Izuka Noriaki serves as the Executive Director of the Construction and Maintenance Department at the Port and Harbor Bureau, City of Yokohama. In April 2016, he assumed the role of Director of the Coastal Maintenance Division within the Construction and Maintenance Department. In April 2018, he became the Director of the First Construction Division, furthering his contributions to the city's port infrastructure. In April 2019, he was seconded to the Yokohama-Kawasaki International Port Corporation, broadening his scope to international port operations. Due to his dedication and expertise, he was appointed as the Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama in April 2023.</p>
 			</div>
 		</div>
 	</div>
