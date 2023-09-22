@@ -239,7 +239,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/kang-joon-suk.jpg" alt="Mr Kang Joon-suk">
 				</div>
 				<h5>Mr Kang Joon-suk, Chief Executive Officer and President, Busan Port Authority</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-busan.jpg" alt="Logo of Busan"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-busan.png" alt="Logo of Busan"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -302,7 +302,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/noriaku-izuka.jpg" alt="Mr Noriaku Izuka">
 				</div>
 				<h5>Mr Noriaku Izuka, Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-yokohama.png" alt="Logo of Yokohama"></div>
+				<div class="org-logo"><!--<img alt="Logo of Yokohama" src="/images/Event2022/LogoOfPorts/logo-yokohama.png" width="60" height="60">--></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
@@ -323,7 +323,7 @@ description: Head of Delegation (PAR@2022)
 					<img height="60" width="60" src="/images/Event2023/Delegation/eric-caris.jpg" alt="Mr Eric Caris">
 				</div>
 				<h5>Mr Eric Caris, Director of Cargo Marketing, Port of Los Angeles</h5>
-				<div class="org-logo"><img height="60" width="60" src="/images/Event2022/LogoOfPorts/logo-la.png" alt="Logo of LA"></div>
+				<div class="org-logo"><img height="60" width="60" src="/images/Event2023/LogoOfPorts/logo-la.png" alt="Logo of LA"></div>
 				<div class="icon-wrapper">
 					<i class="sgds-icon sgds-icon-chevron-up"></i>
 					<i class="sgds-icon sgds-icon-chevron-down"></i>
