@@ -257,7 +257,7 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Mr Inoue is the currently the Director General for Coordination, Osaka Ports and Harbors Bureau, City of Osaka. Prior to this, Mr Inoue was the Director of General Affairs Division in the Public Health Bureau, City of Osaka. Mr Inoue also previously held positions as the Director of Planning Division in the Office of the Mayor, City of Osaka, Director for Dementia Policy and Community Comprehensive Care Promotion in the Social Welfare Bureau, City of Osaka.</p>
+				<p>Mr Inoue is currently the Director General for Coordination, Osaka Ports and Harbors Bureau, City of Osaka. Prior to this, Mr Inoue was the Director of General Affairs Division in the Public Health Bureau, City of Osaka. Mr Inoue also previously held positions as the Director of Planning Division in the Office of the Mayor, City of Osaka, Director for Dementia Policy and Community Comprehensive Care Promotion in the Social Welfare Bureau, City of Osaka.</p>
 			</div>
 		</div>
 	</div>
@@ -352,7 +352,7 @@ description: Head of Delegation (PAR@2022)
 		<div class="bp-accordion-body">
 			<div class="speaker-content">
 				<h6>Delegate's Bio:</h6>
-				<p>Izuka Noriaki serves as the Executive Director of the Construction and Maintenance Department at the Port and Harbor Bureau, City of Yokohama. In April 2016, he assumed the role of Director of the Coastal Maintenance Division within the Construction and Maintenance Department. In April 2018, he became the Director of the First Construction Division, furthering his contributions to the city's port infrastructure. In April 2019, he was seconded to the Yokohama-Kawasaki International Port Corporation, broadening his scope to international port operations. Due to his dedication and expertise, he was appointed as the Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama in April 2023.</p>
+				<p>IZUKA Noriaki serves as the Executive Director of the Construction and Maintenance Department at the Port and Harbor Bureau, City of Yokohama. In April 2016, he assumed the role of Director of the Coastal Maintenance Division within the Construction and Maintenance Department. In April 2018, he became the Director of the First Construction Division, furthering his contributions to the city's port infrastructure. In April 2019, he was seconded to the Yokohama-Kawasaki International Port Corporation, broadening his scope to international port operations. Due to his dedication and expertise, he was appointed as the Executive Director of Construction and Maintenance Department, Port and Harbor Bureau, City of Yokohama in April 2023.</p>
 			</div>
 		</div>
 	</div>
