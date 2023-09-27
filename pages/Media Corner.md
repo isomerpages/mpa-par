@@ -53,6 +53,25 @@ description: Media Corner (PAR Forum)
 		<div class="entry">
 			<div class="media-item">
 				<div class="media-type">External Link</div>
+				<div class="media-title">2023全球港口管理局圆桌会议（PAR）在沪召开</div>
+			</div>
+			<div class="media-link">
+				<a href="https://jtw.sh.gov.cn/tpxw/20230926/d60016b65c4b46fb9fba0f531c122aff.html" target="_blank">View</a>
+			</div>
+		</div>
+		<div class="entry">
+			<div class="media-item">
+				<div class="media-type">News Releases</div>
+				<div class="media-title">Stronger Bilateral Maritime Collaboration between Singapore and China</div>
+			</div>
+			<div class="media-link">
+				<a href="https://www.mpa.gov.sg/media-centre/details/stronger-bilateral-maritime-collaboration-between-singapore-and-china" target="_blank">View</a>
+			</div>
+		</div>
+		
+		<div class="entry">
+			<div class="media-item">
+				<div class="media-type">External Link</div>
 				<div class="media-title">Maritime Sector "Entering New Era of Challenge and Opportunity," say Leaders at Port Authorities Roundtable</div>
 			</div>
 			<div class="media-link">
